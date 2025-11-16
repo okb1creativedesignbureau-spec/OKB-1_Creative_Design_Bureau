@@ -7,6 +7,7 @@ Welcome to my official GitHub Pages site.
     Product Description — Load Cell (5 kg) Calibration Dataset
     ![alt text](./assets/edkzat91y7zhzns10h0ayhkgxk8k.jpeg)
     ![alt text](/OKB-1_Creative_Design_Bureau/assets/edkzat91y7zhzns10h0ayhkgxk8k.jpeg)
+    ![alt text](/OKB-1_Creative_Design_Bureau/assets/edkzat91y7zhzns10h0ayhkgxk8k.jpeg)
 ➡ https://creativedesigns840.gumroad.com/l/kdwcjy
 
 ## Product 2 – MD-0550 Calibration dataset by UT-363 Anemometer Calibrator Sensor for Laminar and Turbulent Airflow
