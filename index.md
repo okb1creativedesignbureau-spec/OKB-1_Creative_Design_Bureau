@@ -5,12 +5,11 @@ Welcome to my official GitHub Pages site.
 # My Gumroad Products
 ## Product 1 – Load Cell for Arduino with HX-711 ADC Calibration Factor Data
     Product Description — Load Cell (5 kg) Calibration Dataset
-![LoadCell Cover](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/edkzat91y7zhzns10h0ayhkgxk8k.jpeg)
 <p align="center">
   <img 
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/edkzat91y7zhzns10h0ayhkgxk8k.jpeg" 
     alt="LoadCell Cover"
-    width="500">
+    width="250">
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/kdwcjy
 
