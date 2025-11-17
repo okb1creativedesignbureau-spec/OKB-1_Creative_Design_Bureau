@@ -1,7 +1,6 @@
 # OKB-1 Creative Design Bureau
 Welcome to my official GitHub Pages site.
 
-
 # My Products
 ## Product 1 – Load Cell for Arduino with HX-711 ADC Calibration Factor Data
 <p>
