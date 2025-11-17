@@ -16,7 +16,7 @@ Welcome to my official GitHub Pages site.
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/kdwcjy
 <br>
-[Download on Gumroad](https://creativedesigns840.gumroad.com/l/kdwcjy)
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/kdwcjy)
 
 
 ## Product 2 – MD-0550 Calibration dataset by UT-363 Anemometer Calibrator Sensor for Laminar and Turbulent Airflow
@@ -33,7 +33,7 @@ Welcome to my official GitHub Pages site.
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/odvsbd
 <br>
-[Download on Gumroad](https://creativedesigns840.gumroad.com/l/odvsbd)
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/odvsbd)
 
 ## Product 3 – Ohm-Kirchhoff Experiment Example Datasets usefull for First Year Engineering Students
 <p>
@@ -49,7 +49,7 @@ Welcome to my official GitHub Pages site.
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/mxkqar
 <br>
-[Download on Gumroad](https://creativedesigns840.gumroad.com/l/mxkqar)
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/mxkqar)
 
 ## Product 4 – AC & RLC Circuit Analysis — Complete University Laboratory Dataset (5 Experiments)
 <p>
@@ -65,7 +65,7 @@ Product Description — Full multi-experiment dataset covering AC circuit behavi
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/vreepg
 <br>
-[Download on Gumroad](https://creativedesigns840.gumroad.com/l/vreepg)
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/vreepg)
 
 ## Product 4 – AC & RLC Circuit Analysis — Complete University Laboratory Dataset (5 Experiments)
 <p>
@@ -82,4 +82,4 @@ A complete multi-test calibration dataset for the HC-SR04 ultrasonic sensor, col
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/krhpay
 <br>
-[Download on Gumroad](https://creativedesigns840.gumroad.com/l/krhpay)
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/krhpay)
