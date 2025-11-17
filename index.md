@@ -67,3 +67,20 @@ Product Description — Full multi-experiment dataset covering AC circuit behavi
 ➡ https://creativedesigns840.gumroad.com/l/vreepg
 <br>
 [Download on Gumroad](https://creativedesigns840.gumroad.com/l/vreepg)
+
+## Product 4 – AC & RLC Circuit Analysis — Complete University Laboratory Dataset (5 Experiments)
+<p>
+Product Description — Ultrasonic Sensor Calibration Dataset — HC-SR04 (Arduino + Oscilloscope Validation)
+A complete multi-test calibration dataset for the HC-SR04 ultrasonic sensor, collected using both Arduino timing measurements and an oscilloscope for high-accuracy reference values. Ideal for students, robotics hobbyists, and anyone validating distance sensors.
+    <br>    
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture1.png" 
+    alt="HC-SR04 Ultrasonic Sensor Datasets"
+    width="250">
+    </center>
+</p>
+➡ https://creativedesigns840.gumroad.com/l/krhpay
+<br>
+[Download on Gumroad](https://creativedesigns840.gumroad.com/l/krhpay)
