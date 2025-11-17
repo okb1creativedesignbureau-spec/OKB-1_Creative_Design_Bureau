@@ -16,6 +16,7 @@ Welcome to my official GitHub Pages site.
     </center>
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/kdwcjy
+<br>
 [Buy on Gumroad](https://creativedesigns840.gumroad.com/l/kdwcjy)
 
 
@@ -32,6 +33,8 @@ Welcome to my official GitHub Pages site.
     </center>
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/odvsbd
+<br>
+[Buy on Gumroad](https://creativedesigns840.gumroad.com/l/odvsbd)
 
 ## Product 3 – Ohm-Kirchhoff Experiment Example Datasets usefull for First Year Engineering Students
 <p>
@@ -46,6 +49,8 @@ Welcome to my official GitHub Pages site.
     </center>
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/mxkqar
+<br>
+[Buy on Gumroad](https://creativedesigns840.gumroad.com/l/mxkqar)
 
 ## Product 4 – AC & RLC Circuit Analysis — Complete University Laboratory Dataset (5 Experiments)
 <p>
@@ -60,3 +65,5 @@ Product Description — Full multi-experiment dataset covering AC circuit behavi
     </center>
 </p>
 ➡ https://creativedesigns840.gumroad.com/l/vreepg
+<br>
+[Buy on Gumroad](https://creativedesigns840.gumroad.com/l/vreepg)
