@@ -90,6 +90,7 @@ A complete multi-test calibration dataset for the HC-SR04 ultrasonic sensor, col
 [Download on Gumroad](https://creativedesigns840.gumroad.com/l/krhpay)
 
 ## Product 6 – Digital Multimeter (DMM) + PyVISA Data Acquisition & Voltage Divider Lab Dataset
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/digital-multimeter-pyvisa-dataset.html)
 <p>
 Product Description — This package contains a complete experiment on data acquisition using a Digital Multimeter (DMM) connected via NI-VISA (PyVISA), combined with full laboratory measurements, simulation references, and analytical calculations.
     <br>    
