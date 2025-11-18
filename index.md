@@ -72,6 +72,7 @@ Product Description — Full multi-experiment dataset covering AC circuit behavi
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/vreepg)
 
 ## Product 5 – Ultrasonic Sensor Calibration Dataset — HC-SR04 (Arduino + Oscilloscope Validation)
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Ultrasonic-Sensor-Calibration-Dataset-HC-SR04.html)
 <p>
 Product Description — Ultrasonic Sensor Calibration Dataset — HC-SR04 (Arduino + Oscilloscope Validation)
 A complete multi-test calibration dataset for the HC-SR04 ultrasonic sensor, collected using both Arduino timing measurements and an oscilloscope for high-accuracy reference values. Ideal for students, robotics hobbyists, and anyone validating distance sensors.
