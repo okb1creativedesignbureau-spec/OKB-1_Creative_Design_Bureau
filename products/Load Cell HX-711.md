@@ -1,4 +1,4 @@
-## Product 1 – Load Cell for Arduino with HX-711 ADC Calibration Factor Data
+## Load Cell for Arduino with HX-711 ADC Calibration Factor Data
 <p>
     Product Description — Load Cell (2 kg) Calibration Dataset with 64x different weight and 10x data acquisition each. Done twice as repeatdability.
     <br>
