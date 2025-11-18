@@ -1,4 +1,4 @@
-## Product 2 – MD-0550 Calibration dataset by UT-363 Anemometer Calibrator Sensor for Laminar and Turbulent Airflow
+## MD-0550 Calibration dataset by UT-363 Anemometer Calibrator Sensor for Laminar and Turbulent Airflow
 <p>
     Product Description — MD0550 Airspeed Sensor Calibration Dataset — Wind Tunnel Experiment with UT-363 Reference.
     <br>
@@ -11,6 +11,10 @@
     </center>
 </p>
 <br>
+➡ https://creativedesigns840.gumroad.com/l/odvsbd
+<br>
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/odvsbd)
+
 MD0550 Airspeed Sensor Calibration Dataset — Wind Tunnel Experiment with UT-363 Reference<br>
 This dataset contains full calibration results for the MD0550 analog airspeed sensor, measured inside a custom-built subsonic wind tunnel.<br>
 Data was acquired using a UNI-T UT-363 digital anemometer as the reference instrument.<br>
