@@ -14,6 +14,8 @@
 ➡ https://creativedesigns840.gumroad.com/l/odvsbd
 <br>
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/odvsbd)
+<br>
+price: €5.00 EUR
 
 MD0550 Airspeed Sensor Calibration Dataset — Wind Tunnel Experiment with UT-363 Reference<br>
 This dataset contains full calibration results for the MD0550 analog airspeed sensor, measured inside a custom-built subsonic wind tunnel.<br>
