@@ -78,21 +78,21 @@ High-quality screenshots:
 - PyVISA output
 - Graphs & analysis
 
-**Who Will Benefit**
-✔ Electrical engineering students
-✔ Arduino/microcontroller learners
-✔ Anyone learning PyVISA + instrument control
-✔ Students writing lab reports
-✔ Teachers building examples
-✔ Anyone needing real hardware DAQ data
-
-This dataset includes:
-✔ Real DAQ instrument control code
-✔ Multiple measurement sets
-✔ Two different methods (DMM vs PyVISA)
-✔ Full error analysis
-✔ Graphs, screenshots, simulations
-✔ Clean Excel tables
+**Who Will Benefit** <br>
+✔ Electrical engineering students<br>
+✔ Arduino/microcontroller learners<br>
+✔ Anyone learning PyVISA + instrument control<br>
+✔ Students writing lab reports<br>
+✔ Teachers building examples<br>
+✔ Anyone needing real hardware DAQ data<br>
+<br>
+This dataset includes:<br>
+✔ Real DAQ instrument control code<br>
+✔ Multiple measurement sets<br>
+✔ Two different methods (DMM vs PyVISA)<br>
+✔ Full error analysis<br>
+✔ Graphs, screenshots, simulations<br>
+✔ Clean Excel tables<br>
 
 ➡ https://creativedesigns840.gumroad.com/l/bgvvzp
 <br>
