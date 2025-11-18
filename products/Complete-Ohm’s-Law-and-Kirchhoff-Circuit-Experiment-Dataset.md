@@ -1,4 +1,4 @@
-## Product 3 – Ohm-Kirchhoff Experiment Example Datasets usefull for First Year Engineering Students
+## Ohm-Kirchhoff Experiment Example Datasets usefull for First Year Engineering Students
 <p>
     Product Description — Complete Ohm’s Law & Kirchhoff Circuit Experiment Dataset.
     <br>
