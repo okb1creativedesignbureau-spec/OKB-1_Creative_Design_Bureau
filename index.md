@@ -38,6 +38,7 @@ Welcome to my official GitHub Pages site.
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/odvsbd)
 
 ## Product 3 – Ohm-Kirchhoff Experiment Example Datasets usefull for First Year Engineering Students
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Complete-Ohm%E2%80%99s-Law-and-Kirchhoff-Circuit-Experiment-Dataset.html)
 <p>
     Product Description — Complete Ohm’s Law & Kirchhoff Circuit Experiment Dataset.
     <br>
