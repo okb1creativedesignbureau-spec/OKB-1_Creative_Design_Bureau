@@ -19,9 +19,7 @@
 <br>    
     The load cell is based on BF-350 foil strain gauges, arranged in a full Wheatstone Bridge configuration, providing high sensitivity to deformation under load. The data totaling 64 different weight with 10 times measurements each done twice for the repeatability.
 <br> 
-
    ** What’s Included**
-   
 <br>    
     You receive a structured Excel dataset containing:
 <br>    
@@ -53,8 +51,7 @@
     Conditioning with HX711 (GAIN=128)<br>
     Stress application setup<br>
     Observed drift, noise, and temperature considerations<br>
-    <br>
-    
+    <br> 
     **Use Cases**
     <br>
     This dataset is ideal for:<br>
