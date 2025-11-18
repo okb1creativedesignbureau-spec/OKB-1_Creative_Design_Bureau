@@ -18,6 +18,7 @@ AC & RLC Circuit Analysis — Complete University Laboratory Dataset (5 Experime
 Full multi-experiment dataset covering AC circuit behavior, impedance characteristics, and RLC components. All data was collected from a real university Electronics Lab session and includes both the raw measurement tables before the experiment and the final results from oscilloscope readings, multimeter measurements, and Proteus simulations.
 
 **Included Experiments (5 Total)**
+
 Frequency Effect on AC Signals
 - Vrms, Vpp, phase change, impedance vs frequency
 - Raw pre-experiment values + oscilloscope captures
@@ -41,6 +42,7 @@ AC Response of Inductors
 - Proteus simulation screenshots for reference
 
 **What You Get**
+
 One Excel file with:
 - Raw data, processed tables, and simulation values
 - Voltage vectors and total voltage calculations
@@ -49,12 +51,14 @@ One Excel file with:
 - Clean structure ready for plotting, MATLAB/Python analysis, or lab reporting
 
 **Why This Dataset Is Valuable**
+
 - Saves hours of experimental setup and repeated measurements
 - Real-world data with natural noise for error analysis
 - Includes theory tables and simulations for validation
 - Perfect for University EE courses, tutorials, and circuit modeling practice
 
 **Best For**
+
 - Students preparing AC/RLC circuit lab reports
 - Teachers needing real examples for class
 - Hobbyists validating AC simulations
