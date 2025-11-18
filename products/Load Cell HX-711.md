@@ -9,6 +9,7 @@
     alt="Load Cell Experiment Datasets"
     width="250">
     </center>
+    </p>
 <br>
     Load Cell (2 kg) Calibration Dataset
     2 kg Load Cell Calibration Dataset — HX711 Amplifier + Arduino Acquisition
@@ -76,7 +77,7 @@
     .xlsx file<br>
     Sheets include: Raw Data, Processed Data, Regression, Graph Tables, Notes<br>
     Compatible with Arduino, Python, MATLAB, LabVIEW workflows<br>
-</p>
+
 
 ➡ https://creativedesigns840.gumroad.com/l/kdwcjy
 <br>
