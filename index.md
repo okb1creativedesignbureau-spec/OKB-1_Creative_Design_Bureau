@@ -4,7 +4,7 @@ Welcome to my official GitHub Pages site.
 # My Products
 ## Product 1 – Load Cell for Arduino with HX-711 ADC Calibration Factor Data
 <p>
-    Product Description — Load Cell (5 kg) Calibration Dataset with 64x different weight and 10x data acquisition each. Done twice as repeatdability.
+    Product Description — Load Cell (2 kg) Calibration Dataset with 64x different weight and 10x data acquisition each. Done twice as repeatdability.
     <br>
     <center>
   <img 
