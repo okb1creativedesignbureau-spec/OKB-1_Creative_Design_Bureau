@@ -11,6 +11,10 @@
     </center>
 </p>
 <br>
+➡ https://creativedesigns840.gumroad.com/l/kdwcjy
+<br>
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/kdwcjy)
+<br>
 Load Cell (2 kg) Calibration Dataset
 - 2 kg Load Cell Calibration Dataset — HX711 Amplifier + Arduino Acquisition
 - (BF-350 Strain Gauge Wheatstone Bridge Load Cell)
