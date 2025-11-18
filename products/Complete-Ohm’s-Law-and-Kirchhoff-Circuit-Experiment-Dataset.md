@@ -13,6 +13,8 @@
 ➡ https://creativedesigns840.gumroad.com/l/mxkqar
 <br>
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/mxkqar)
+<br>
+price: €2.50 EUR
 
 **Complete Ohm’s Law & Kirchhoff Circuit Experiment Dataset**
 Real laboratory measurements collected from a university electronics practical session.
