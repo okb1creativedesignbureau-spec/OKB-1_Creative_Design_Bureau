@@ -80,6 +80,7 @@ Product Description — This package contains a complete experiment on data acqu
     width="250">
     </center>
 </p>
-➡ https://creativedesigns840.gumroad.com/l/krhpay
+➡ https://creativedesigns840.gumroad.com/l/bgvvzp
 <br>
-[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/krhpay)
+[Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/bgvvzp)
+
