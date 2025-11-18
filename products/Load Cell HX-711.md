@@ -18,8 +18,10 @@
     This dataset contains the complete calibration results for a 2 kg load cell using the HX711 24-bit amplifier/ADC and an Arduino micro-controller. The calibration factor was derived from repeated controlled loading tests conducted during a university thesis project.
 <br>    
     The load cell is based on BF-350 foil strain gauges, arranged in a full Wheatstone Bridge configuration, providing high sensitivity to deformation under load. The data totaling 64 different weight with 10 times measurements each done twice for the repeatability.
-<br>    
+<br> 
+
    ** What’s Included**
+   
 <br>    
     You receive a structured Excel dataset containing:
 <br>    
@@ -52,7 +54,8 @@
     Stress application setup<br>
     Observed drift, noise, and temperature considerations<br>
     <br>
-    **Use Cases**<br>
+    
+    **Use Cases**
     <br>
     This dataset is ideal for:<br>
     Robotics and mechatronics load measurement<br>
