@@ -91,7 +91,7 @@ Product Description — This package contains a complete experiment on data acqu
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Screenshot 2025-11-17 182742.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/6opuxezsymzw5m2b26z5v7mszf59.png" 
     alt="HC-SR04 Ultrasonic Sensor Datasets"
     width="250">
     </center>
