@@ -13,6 +13,8 @@ Product Description — Full multi-experiment dataset covering AC circuit behavi
 ➡ https://creativedesigns840.gumroad.com/l/vreepg
 <br>
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/vreepg)
+<br>
+price: €4.50 EUR
 
 AC & RLC Circuit Analysis — Complete University Laboratory Dataset (5 Experiments)
 Full multi-experiment dataset covering AC circuit behavior, impedance characteristics, and RLC components. All data was collected from a real university Electronics Lab session and includes both the raw measurement tables before the experiment and the final results from oscilloscope readings, multimeter measurements, and Proteus simulations.
