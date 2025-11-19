@@ -26,7 +26,7 @@ This dataset contains the complete calibration results for a 2 kg load cell usin
  
 The load cell is based on BF-350 foil strain gauges, arranged in a full Wheatstone Bridge configuration, providing high sensitivity to deformation under load. The data totaling 64 different weight with 10 times measurements each done twice for the repeatability.
 
-** What’s Included**
+**What’s Included**
   
 You receive a structured Excel dataset containing:
  
