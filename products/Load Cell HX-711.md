@@ -15,7 +15,8 @@
 <br>
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/kdwcjy)
 <br>
-price: €3.50 EUR
+price: €3.50 EUR for basic version
+price: €5.00 EUR included Arduino .ino file version
 <br>
 Load Cell (2 kg) Calibration Dataset
 - 2 kg Load Cell Calibration Dataset — HX711 Amplifier + Arduino Acquisition
@@ -57,6 +58,13 @@ You receive a structured Excel dataset containing:
 - Conditioning with HX711 (GAIN=128)
 - Stress application setup
 - Observed drift, noise, and temperature considerations
+
+6. BONUS — Arduino Data Acquisition Code (.ino)
+- Fully working Arduino code used during the experiment:
+- Reads HX711 at 10 sps mode
+- Sends raw 24-bit values to serial monitor
+- Easy to modify for your own calibration
+- Cleanly commented for beginners and re
 
 **Use Cases**
 This dataset is ideal for:
