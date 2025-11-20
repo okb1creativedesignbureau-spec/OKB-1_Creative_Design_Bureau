@@ -127,5 +127,4 @@ This project is the result of countless hours of tracing, verifying, checking, a
 A credit is appreciated, but not required.
 I released this to help engineers, hobbyists, researchers, model builders, and anyone curious about historical aerodynamics.
 
-[Back To Home]([https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/#product-3--ohm-kirchhoff-experiment-example-datasets-usefull-for-first-year-engineering-students)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
-
+[Back To Home](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
