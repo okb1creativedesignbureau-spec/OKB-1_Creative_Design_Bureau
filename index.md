@@ -113,7 +113,7 @@ A complete multi-test calibration dataset for the HC-SR04 ultrasonic sensor, col
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture1.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Screenshot 2025-11-17 182742.png.png" 
     alt="HC-SR04 Ultrasonic Sensor Datasets"
     width="250">
     </center>
