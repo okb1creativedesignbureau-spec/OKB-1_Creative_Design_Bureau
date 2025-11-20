@@ -1,6 +1,16 @@
 # NACA 2R1 Airfoil Reconstruction Project — Me 109 Wing Geometry (Research Archive)
 
 A one-month engineering archaeology project recreating historical airfoils with mathematical precision.
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture9.png" 
+    alt="NACA 2R1 Bf-109 Dataset"
+    width="750">
+    </center>
+</p>
 
 ## Overview
 This repository documents my complete reconstruction of the NACA 2R1-derived airfoil family used on the Messerschmitt Bf 109 wing. 
@@ -23,6 +33,18 @@ Each section now exists as:
 
 ## Methodology — How I Reconstructed the Wing (Step by Step)
 A complete engineering workflow, reverse-engineered from historical material.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture1.png" 
+    alt="NACA 2R1 Bf-109 to Reference"
+    width="750">
+    </center>
+</p>
+
 This is the real pipeline I used to turn incomplete historical data into machinable, simulation-ready airfoils:
 
 1. Trace the original Avia table
@@ -79,6 +101,17 @@ To create the cleanest, most accessible, most accurate digital reconstruction of
 
 This project is the result of countless hours of tracing, verifying, checking, and re-calculating until the curves behaved exactly like the original aerodynamic design intended.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/image.png" 
+    alt="NACA 2R1 Bf-109 Aerofoil"
+    width="750">
+    </center>
+</p>
+
 ## Repository Contents
 - /Coordinate Data/ → CSV + TXT (upper/lower)
 - /Plots & Excel/ → .xlsx master file + graphs
@@ -90,4 +123,5 @@ This project is the result of countless hours of tracing, verifying, checking, a
 A credit is appreciated, but not required.
 I released this to help engineers, hobbyists, researchers, model builders, and anyone curious about historical aerodynamics.
 
-[Back To Home]
+[Back To Home]([https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/#product-3--ohm-kirchhoff-experiment-example-datasets-usefull-for-first-year-engineering-students)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
+
