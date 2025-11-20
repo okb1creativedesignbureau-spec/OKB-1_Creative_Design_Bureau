@@ -84,11 +84,15 @@ This ensured that when imported into CAD or CFD software, the LE would generate 
 ## Available Packs (Gumroad)
 You can download the finished dataset packs here:
 - Pack A — Single Section Dataset
+<br>  
   [Pack A](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1-Pack-A.html)
 - Pack B — 3-Section Starter Pack
+<br>  
   [Pack B](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1-Pack-B.html)
 - Pack C — Full Reconstruction Bundle (All Sections + CAD + Raw Data)
+<br>  
   [Pack C](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1-Pack-C.html)
+<br> 
 I separated these for students, researchers, modelers, and engineers depending on what they need.
 
 ## Goal of the Project
