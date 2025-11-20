@@ -21,7 +21,7 @@ Each section now exists as:
 - CAD models (DWG / STEP / STL)
 - Reference diagrams & documentation
 
-# Methodology — How I Reconstructed the Wing (Step by Step)
+## Methodology — How I Reconstructed the Wing (Step by Step)
 A complete engineering workflow, reverse-engineered from historical material.
 This is the real pipeline I used to turn incomplete historical data into machinable, simulation-ready airfoils:
 
@@ -59,7 +59,7 @@ I generated 100+ extra control points only for the leading edge.
 
 This ensured that when imported into CAD or CFD software, the LE would generate a true round nose, not a faceted polygon.
 
-# Available Packs (Gumroad)
+## Available Packs (Gumroad)
 You can download the finished dataset packs here:
 - Pack A — Single Section Dataset
 
@@ -69,7 +69,7 @@ You can download the finished dataset packs here:
 
 I separated these for students, researchers, modelers, and engineers depending on what they need.
 
-# Goal of the Project
+## Goal of the Project
 To create the cleanest, most accessible, most accurate digital reconstruction of the NACA 2R1-derived Messerschmitt 109 wing airfoils — something that:
 - can be used for CFD
 - can be extruded in CAD
@@ -79,7 +79,7 @@ To create the cleanest, most accessible, most accurate digital reconstruction of
 
 This project is the result of countless hours of tracing, verifying, checking, and re-calculating until the curves behaved exactly like the original aerodynamic design intended.
 
-# Repository Contents
+## Repository Contents
 - /Coordinate Data/ → CSV + TXT (upper/lower)
 - /Plots & Excel/ → .xlsx master file + graphs
 - /CAD Files/ → .dwg, .stl, .step
