@@ -18,6 +18,10 @@ Choose between:
 
 This pack is ideal for users who need a partial dataset of the full wing geometry for aerodynamic studies, CAD modeling, or historical reconstruction work.
 
+# Product List
+[NACA 2R1 Bf-109E Wing — 3-Section Starter Dataset (Root + Mid + Tip)](https://creativedesigns840.gumroad.com/l/cherxt)
+[NACA 2R1 Bf-109G Wing — 3-Section Starter Dataset (Root + Mid + Tip)](https://creativedesigns840.gumroad.com/l/twvbo)
+
 ## Included Files
 
 1) Geometry Data (All 3 Sections)
