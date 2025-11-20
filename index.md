@@ -26,7 +26,7 @@ Each section now exists as:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/edkzat91y7zhzns10h0ayhkgxk8k.jpeg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture9.png" 
     alt="Load Cell Experiment Datasets"
     width="250">
     </center>
