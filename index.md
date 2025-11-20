@@ -4,6 +4,7 @@ Welcome to my official GitHub Pages site. This site is for listing all of my eng
 # My Products
 ## NACA 2R1 Airfoil Reconstruction Project — Me 109 Wing Geometry (Research Archive)
 [Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1.html)
+
 This repository documents my complete reconstruction of the NACA 2R1-derived airfoil family used on the Messerschmitt Bf 109 wing. 
 No ready-made datasets existed. No clean coordinate files. No standard NACA profiles. Only scattered photocopies, blurry museum scans, 
 and partial references. So for one month, I rebuilt everything from zero — point by point — using a mix of mathematics, 
@@ -23,11 +24,12 @@ Each section now exists as:
 - Reference diagrams & documentation
 
 <p>
+    <br>
     <center>
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture9.png" 
-    alt="Load Cell Experiment Datasets"
+    alt="NACA 2R1 Bf-109 Dataset"
     width="250">
     </center>
 </p>
@@ -129,7 +131,7 @@ Product Description — This package contains a complete experiment on data acqu
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/6opuxezsymzw5m2b26z5v7mszf59.png" 
-    alt="HC-SR04 Ultrasonic Sensor Datasets"
+    alt="Digital Multimeter (DMM) + PyVISA Data Acquisition & Voltage Divider Lab Dataset"
     width="250">
     </center>
 </p>
