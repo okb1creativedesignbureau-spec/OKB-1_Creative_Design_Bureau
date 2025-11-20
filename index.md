@@ -30,7 +30,7 @@ Each section now exists as:
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture9.png" 
     alt="NACA 2R1 Bf-109 Dataset"
-    width="250">
+    width="750">
     </center>
 </p>
 
