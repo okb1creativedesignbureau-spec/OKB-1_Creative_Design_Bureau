@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 # OKB-1 Creative Design Bureau
 Welcome to my official GitHub Pages site. This site is for listing all of my engineering products and designs for both young professionals as well as engineering students. This repo also linked to other datasets and CAD files on-sale for download by the fellow engineers or everybody eager to learn getting into engineering major.
 
@@ -140,4 +138,6 @@ Product Description — This package contains a complete experiment on data acqu
 ➡ https://creativedesigns840.gumroad.com/l/bgvvzp
 <br>
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/bgvvzp)
+
+
 
