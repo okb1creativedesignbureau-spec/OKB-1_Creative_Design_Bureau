@@ -15,6 +15,17 @@ You may choose any 1 of these sections:
 
 This pack is meant for students, hobbyists, 3D modelers, and researchers who need a single airfoil section for modeling, printing, CNC, CFD, or comparison studies.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture9.png" 
+    alt="NACA 2R1 Bf-109 Dataset"
+    width="750">
+    </center>
+</p>
+
 # Product Links
 
 Wing root Aerofoil: 
