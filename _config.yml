@@ -1,4 +1,4 @@
-theme: default
+theme: slate
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
