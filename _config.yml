@@ -1,8 +1,13 @@
 theme: minima
-
-hide_sidebar: true      # hides side TOC / automatic links
-show_nav: false          # hides top nav bar
-
-navigation:
-  - title: Products
-    # url: /products/
+# Add custom CSS
+sass:
+  style: compressed
+# This line tells Jekyll to include your custom CSS
+# Path is relative to your repo root
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/custom.css"
