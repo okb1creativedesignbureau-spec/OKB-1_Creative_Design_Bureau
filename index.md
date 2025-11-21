@@ -1,5 +1,6 @@
 ---
 layout: page
+header: false
 ---
 
 # OKB-1 Creative Design Bureau
