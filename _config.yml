@@ -1,6 +1,7 @@
 theme: minima
 
-hide_sidebar: true
+hide_sidebar: true      # hides side TOC / automatic links
+show_nav: false          # hides top nav bar
 
 navigation:
   - title: Products
