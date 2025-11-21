@@ -2,8 +2,6 @@ theme: minima
 sass:
   style: compressed
 
-nav_pages:
-    - index.md
   
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
