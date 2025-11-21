@@ -6,3 +6,10 @@ sass:
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 date_format: "%b %-d, %Y"
+
+
+defaults:
+  - scope:
+      path: "products"
+    values:
+      nav_exclude: true
