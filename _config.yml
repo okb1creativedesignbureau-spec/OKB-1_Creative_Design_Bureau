@@ -5,4 +5,4 @@ show_nav: false          # hides top nav bar
 
 navigation:
   - title: Products
-    url: /products/
+    # url: /products/
