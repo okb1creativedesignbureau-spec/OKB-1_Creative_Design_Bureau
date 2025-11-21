@@ -1,13 +1,16 @@
 ---
-
 ---
-
-/* Hide the entire Minima top header */
+/* Hide header including site-nav and product listing */
 .site-header {
   display: none !important;
 }
 
-/* Optional: remove the top margin that remains */
-body {
-  padding-top: 0 !important;
+/* Also hide footer navigation */
+.site-footer {
+  display: none !important;
+}
+
+/* Remove margin space left by header */
+.page-content {
+  margin-top: 0 !important;
 }
