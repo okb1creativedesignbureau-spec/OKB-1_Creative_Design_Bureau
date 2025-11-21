@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 ---
 
 # OKB-1 Creative Design Bureau
