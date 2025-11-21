@@ -1,4 +1,4 @@
-theme: minimal
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
