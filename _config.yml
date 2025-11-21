@@ -1,28 +1,12 @@
-theme: minima
-# Add custom CSS
-sass:
-  style: compressed
-# This line tells Jekyll to include your custom CSS
-# Path is relative to your repo root
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      css: "/assets/css/custom.css"
+---
+# Required for Jekyll to process SCSS
+---
+/* Hide the entire Minima top header */
+.site-header {
+  display: none !important;
+}
 
-
-theme: minima
-
-# Tell Jekyll to include your custom CSS
-sass:
-  style: compressed
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      css: "/assets/css/custom.css"
+/* Optional: remove the top margin that remains */
+body {
+  padding-top: 0 !important;
+}
