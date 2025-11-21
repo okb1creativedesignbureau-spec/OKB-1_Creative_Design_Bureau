@@ -1,5 +1,5 @@
 ---
-
+title:
 ---
 
 # OKB-1 Creative Design Bureau
