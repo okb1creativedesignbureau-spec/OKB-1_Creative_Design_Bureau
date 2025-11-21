@@ -1,0 +1,5 @@
+title: OKB-1 Creative Design Bureau
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
