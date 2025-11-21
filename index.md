@@ -1,5 +1,6 @@
 ---
 title: OKB-1 Creative Design Bureau 
+nav_exclude: true
 ---
 
 
