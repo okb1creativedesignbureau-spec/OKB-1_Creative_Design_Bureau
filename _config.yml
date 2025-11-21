@@ -11,3 +11,18 @@ defaults:
       type: "pages"
     values:
       css: "/assets/css/custom.css"
+
+
+theme: minima
+
+# Tell Jekyll to include your custom CSS
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/custom.css"
