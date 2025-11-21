@@ -1,3 +1,8 @@
 theme: minima
 sass:
   style: compressed
+
+minima:
+  nav_pages:
+    - index.md
+  
