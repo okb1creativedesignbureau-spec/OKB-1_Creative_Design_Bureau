@@ -1,3 +1,7 @@
 theme: minima
 
 hide_sidebar: true
+
+navigation:
+  - title: Products
+    url: /products/
