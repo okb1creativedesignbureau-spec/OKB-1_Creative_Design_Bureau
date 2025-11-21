@@ -1,14 +1,12 @@
+---
+# Required for Jekyll to process SCSS
+---
+/* Hide the entire Minima top header */
 .site-header {
-  display: none;
+  display: none !important;
 }
 
-/* Hide Minima top bar */
-.site-header {
-  display: none;
-}
-
-/* Optional: remove extra padding that remains after hiding header */
+/* Optional: remove the top margin that remains */
 body {
-  padding-top: 0;
+  padding-top: 0 !important;
 }
-
