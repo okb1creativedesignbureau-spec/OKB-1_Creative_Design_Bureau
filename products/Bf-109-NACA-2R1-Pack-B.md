@@ -18,6 +18,17 @@ Choose between:
 
 This pack is ideal for users who need a partial dataset of the full wing geometry for aerodynamic studies, CAD modeling, or historical reconstruction work.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Picture9.png" 
+    alt="NACA 2R1 Bf-109 Dataset"
+    width="750">
+    </center>
+</p>
+
 # Product List
 [NACA 2R1 Bf-109E Wing — 3-Section Starter Dataset (Root + Mid + Tip)](https://creativedesigns840.gumroad.com/l/cherxt)
 [NACA 2R1 Bf-109G Wing — 3-Section Starter Dataset (Root + Mid + Tip)](https://creativedesigns840.gumroad.com/l/twvbo)
