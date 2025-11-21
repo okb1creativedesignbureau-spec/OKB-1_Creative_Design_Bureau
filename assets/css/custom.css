@@ -1,3 +1,14 @@
 .site-header {
   display: none;
 }
+
+/* Hide Minima top bar */
+.site-header {
+  display: none;
+}
+
+/* Optional: remove extra padding that remains after hiding header */
+body {
+  padding-top: 0;
+}
+
