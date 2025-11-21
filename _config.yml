@@ -1,12 +1,3 @@
----
-# Required for Jekyll to process SCSS
----
-/* Hide the entire Minima top header */
-.site-header {
-  display: none !important;
-}
-
-/* Optional: remove the top margin that remains */
-body {
-  padding-top: 0 !important;
-}
+theme: minima
+sass:
+  style: compressed
