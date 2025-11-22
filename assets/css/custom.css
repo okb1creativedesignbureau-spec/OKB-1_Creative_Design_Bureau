@@ -1,3 +1,26 @@
 .site-nav {
     display: none !important;
 }
+
+
+@media screen and (min-width: 600px) {
+  .site-nav .nav-trigger {
+    display: block !important;
+  }
+  .site-nav .trigger {
+    display: none;
+  }
+  .site-nav input:checked ~ .trigger {
+    display: block;
+  }
+
+  /* Hide the big horizontal nav links */
+  .site-nav ul {
+    display: none !important;
+  }
+
+  /* Show dropdown when enabled */
+  .site-nav input:checked ~ ul {
+    display: block !important;
+  }
+}
