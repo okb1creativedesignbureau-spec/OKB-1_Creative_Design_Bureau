@@ -1,9 +1,6 @@
 <link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
 
----
-title: OKB-1 Creative Design Bureau 
-nav_exclude: true
----
+## OKB-1 Creative Design Bureau 
 
 Welcome to my official GitHub Pages site. This site is for listing all of my engineering products and designs for both young professionals as well as engineering students. This repo also linked to other datasets and CAD files on-sale for download by the fellow engineers or everybody eager to learn getting into engineering major.
 
