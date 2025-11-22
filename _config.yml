@@ -13,3 +13,9 @@ defaults:
       path: "products"
     values:
       nav_exclude: true
+
+minima:
+  skin: classic
+  custom_css:
+    - /assets/css/custom.css
+
