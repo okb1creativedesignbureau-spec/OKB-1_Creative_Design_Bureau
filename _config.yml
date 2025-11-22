@@ -1,21 +1,21 @@
 theme: cayman
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
   
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-date_format: "%b %-d, %Y"
+# # Minima date format
+# # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+# date_format: "%b %-d, %Y"
 
 
-defaults:
-  - scope:
-      path: "products"
-    values:
-      nav_exclude: true
+# defaults:
+#   - scope:
+#       path: "products"
+#     values:
+#       nav_exclude: true
 
-minima:
-  skin: classic
-  custom_css:
-    - /assets/css/custom.css
+# minima:
+#   skin: classic
+#   custom_css:
+#     - /assets/css/custom.css
 
