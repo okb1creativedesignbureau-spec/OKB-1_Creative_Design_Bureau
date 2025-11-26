@@ -6,7 +6,7 @@
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/CAD-Only-N-2130.jpeg"  
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    alt="IPTN N-2130 CFM-56 — 3D CAD Rebirth in 2025"
     width="450">
     </center>
 </p>
@@ -24,7 +24,7 @@ The purpose is not simply to visualize the aircraft, but to digitally restore a 
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/CAD-Only2-N-2130.jpeg"  
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    alt="IPTN N-2130 PW-6000 — 3D CAD Rebirth in 2025"
     width="450">
     </center>
 </p>
@@ -46,7 +46,7 @@ The aircraft became a “what-if” of Southeast Asian aerospace history — a f
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Bottom-CFM-56_Watermarked.jpg"  
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    alt="IPTN N-2130 CFM-56 — 2D CAD Belly View"
     width="450">
     </center>
 </p>
@@ -68,7 +68,7 @@ If the real aircraft never flew, then let it at least exist here—digitally, ac
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Side-CFM-56_Watermarked.jpg" 
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    alt="IPTN N-2130 CFM-56 — 2D CAD Side View"
     width="450">
     </center>
 </p>
@@ -87,7 +87,7 @@ Its proportions, wing geometry, and overall layout show that IPTN was not dreami
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Bottom-PW-600_Watermarked.jpg"
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    alt="IPTN N-2130 PW-6000 — 2D CAD Belly View"
     width="450">
     </center>
 </p>
@@ -104,8 +104,7 @@ It’s a tribute to a lost milestone and a reminder that aerospace history isn�
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Side-PW-600_Watermarked.jpg"
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    alt="IPTN N-2130 PW-6000 — 2D CAD Side View"
     width="450">
     </center>
 </p>
-
