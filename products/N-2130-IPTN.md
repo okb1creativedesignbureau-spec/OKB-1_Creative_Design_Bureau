@@ -8,7 +8,6 @@
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/CAD-Only-N-2130.jpeg"  
     alt="IPTN N-2130 CFM-56 — 3D CAD Rebirth in 2025"
     width="450">
-    IPTN N-2130 CFM-56 — 3D CAD Rebirth in 2025
     </center>
 </p>
 
