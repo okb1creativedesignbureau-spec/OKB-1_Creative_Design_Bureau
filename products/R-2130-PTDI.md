@@ -108,8 +108,8 @@ It’s cool because the R-2130 isn’t just a model—it’s a story of continui
 ## See Also:
 
 Related Aircraft in the project 
-[IPTN N-2130]()
+[IPTN N-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
 
 Other aircraft project with similar size and capability
-[Dassault Mercure] ()
+[Dassault Mercure] (https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
 
