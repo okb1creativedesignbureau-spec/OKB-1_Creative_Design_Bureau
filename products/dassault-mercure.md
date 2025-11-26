@@ -32,7 +32,7 @@ It entered a world dominated by the Boeing 737 and the Douglas DC-9—tough comp
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Top.jpeg"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Top_Watermarked.jpeg"  
     alt="Dassault Mercure 100 — 2D CAD Top View re-made in 2025"
     width="250">
     </center>
@@ -51,6 +51,17 @@ Today, the Mercure is almost a forgotten chapter of aviation—a near-mythical a
 
 Some aircraft disappear quietly. No restoration programs. No preserved cockpits. No passionate communities keeping them alive. The Mercure is one of them.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Side_Watermarked.jpeg"  
+    alt="Dassault Mercure 100 — 2D CAD Top View re-made in 2025"
+    width="250">
+    </center>
+</p>
+
 I built this model because I want the Mercure’s story to remain accessible—not just as text in a book or a blurry photograph, but as an object you can inspect, rotate, measure, and understand.
 
 As an engineer and aviation enthusiast, I’ve always believed that aircraft deserve a second life, even if only in digital form. If we can’t see the Mercure fly anymore, at least we can preserve its shape, its design choices, and the engineering philosophy behind it. This project exists because I wanted to keep that history from fading.
@@ -62,6 +73,17 @@ The Mercure 100 represents something truly rare:
 - Its aerodynamics came from a company famous for the Mirage. Its design philosophy leaned toward agility instead of pure economics. Its proportions and wing geometry make it stand out from any other airliner of its era. 
 - Recreating it in CAD reveals details that are easy to miss in old photographs — the wing sweep, the elegant nose profile, the unique proportions shaped by Dassault’s military lineage.
 - It is a blend of commercial practicality and fighter-jet aesthetics that we simply don’t see anymore.
+
+- <p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Front_Watermarked.jpeg"  
+    alt="Dassault Mercure 100 — 2D CAD Top View re-made in 2025"
+    width="250">
+    </center>
+</p>
 
 ## Preserving that in 3D form isn’t just cool — it’s a way of keeping alive a forgotten experiment in aviation history.
 
