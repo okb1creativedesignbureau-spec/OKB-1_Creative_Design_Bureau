@@ -7,7 +7,7 @@ Dassault Mercure — 3D CAD Restoration Project
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpg"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jepg"  
     alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
     width="250">
     </center>
