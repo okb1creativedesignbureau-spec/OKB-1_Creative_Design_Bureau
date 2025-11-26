@@ -12,8 +12,6 @@ Welcome to my official GitHub Pages site. This site is for listing all of my eng
 
 ## R-2130 CAD Project
 
-# R-2130 RegioJet — 3D CAD Concept Revival Project
-
 [Main R-2130 site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
 [Technical Description Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
 
