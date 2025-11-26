@@ -13,6 +13,8 @@
 
 ## What It Is 
 
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-n-2130.html)
+
 This project is a fully reconstructed 3D CAD model of the IPTN N-2130, Indonesia’s ambitious 100–130 seat jetliner project that never reached production.
 The model is created from surviving brochure material, engineering sketches, promotional mockups, and the small collection of publicly available design references.
 
@@ -116,3 +118,6 @@ Related Aircraft in the project
 
 Other aircraft project with similar size and capability
 [Dassault Mercure](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+
+Back to Home
+[Back to Home](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
