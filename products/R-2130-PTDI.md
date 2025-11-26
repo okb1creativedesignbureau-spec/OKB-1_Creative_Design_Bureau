@@ -13,6 +13,8 @@
 
 ## What It Is 
 
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
+
 The R-2130 RegioJet is a modernized, reimagined evolution of Indonesia’s cancelled N-2130 project—rebuilt not as a simple upgrade, but as a complete 21st-century reinterpretation.
 
 <p>
@@ -101,3 +103,13 @@ It’s cool because the R-2130 isn’t just a model—it’s a story of continui
     width="450">
     </center>
 </p>
+
+
+## See Also:
+
+Related Aircraft in the project 
+[IPTN N-2130]()
+
+Other aircraft project with similar size and capability
+[Dassault Mercure] ()
+
