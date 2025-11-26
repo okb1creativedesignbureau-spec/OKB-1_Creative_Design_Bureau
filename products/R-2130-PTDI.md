@@ -101,5 +101,3 @@ It’s cool because the R-2130 isn’t just a model—it’s a story of continui
     width="450">
     </center>
 </p>
-
-
