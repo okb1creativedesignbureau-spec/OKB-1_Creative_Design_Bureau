@@ -5,6 +5,46 @@
 Welcome to my official GitHub Pages site. This site is for listing all of my engineering products and designs for both young professionals as well as engineering students. This repo also linked to other datasets and CAD files on-sale for download by the fellow engineers or everybody eager to learn getting into engineering major.
 
 # My Products
+
+## Dassault Mercure CAD Project
+
+## N-2130 CAD Project
+
+## R-2130 CAD Project
+
+# R-2130 RegioJet — 3D CAD Concept Revival Project
+
+[Main R-2130 site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
+[Technical Description Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
+
+<br>
+
+A modern re-imagining of Indonesia’s cancelled N-2130, rebuilt as a complete 21st-century digital aircraft.
+
+The R-2130 RegioJet is a modernized digital revival of Indonesia’s unrealized N-2130 jetliner program.
+This is not an official PTDI product — it is an independent engineering concept, rebuilt in full 3D using modern CAD lofting and surface modeling techniques.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/R-2130/R-2130-CAD.jpeg"  
+    alt="R-2130 CFM-56 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
+This aircraft is imagined as:
+- A next-generation successor to the original N-2130
+- A 100–130 seat, A220/E2-class regional jet
+- A clean-sheet aerodynamic redesign
+- A tribute to Indonesia’s aerospace ambitions
+- The entire model is engineered in SolidWorks using true NURBS lofted surfaces, giving it wind-tunnel-grade smoothness and precise aerodynamic form.
+- Every external surface — wings, fuselage, nacelles, empennage — is crafted using parametric engineering lofts suitable for 3D printing, rendering, CFD study, and RC design.
+
+
+
 ## NACA 2R1 Airfoil Reconstruction Project — Me 109 Wing Geometry (Research Archive)
 [Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1.html)
 
