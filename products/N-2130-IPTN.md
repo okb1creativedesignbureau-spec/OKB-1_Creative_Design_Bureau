@@ -1,11 +1,33 @@
 # IPTN N-2130 — 3D CAD Restoration 
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/CAD-Only-N-2130.jpeg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
 ## What It Is 
 
 This project is a fully reconstructed 3D CAD model of the IPTN N-2130, Indonesia’s ambitious 100–130 seat jetliner project that never reached production.
 The model is created from surviving brochure material, engineering sketches, promotional mockups, and the small collection of publicly available design references.
 
 The purpose is not simply to visualize the aircraft, but to digitally restore a piece of national aerospace history that almost disappeared into obscurity.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/CAD-Only2-N-2130.jpeg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
 
 ## The History Behind the N-2130 
 
@@ -18,6 +40,17 @@ But the 1997 Asian financial crisis hit hard. Funding collapsed. Government prio
 
 The aircraft became a “what-if” of Southeast Asian aerospace history — a future that the region came within inches of achieving. Today, only a handful of images, brochures, and scale models remain.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Bottom-CFM-56_Watermarked.jpg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
 ## Why I Made This Project 
 
 I built this CAD model because the N-2130 deserves more than to be forgotten as a footnote in history.
@@ -29,6 +62,17 @@ It represents:
 
 If the real aircraft never flew, then let it at least exist here—digitally, accurately, and respectfully.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Side-CFM-56_Watermarked.jpg" 
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
 ## Why It’s Cool?
 
 The N-2130 is fascinating because it represents an alternate timeline in aviation:
@@ -37,9 +81,31 @@ A Southeast Asian competitor in the global jetliner market A unique configuratio
 Even though it never took to the skies, the engineering intent behind the N-2130 is genuinely impressive.
 Its proportions, wing geometry, and overall layout show that IPTN was not dreaming blindly—they were designing something competitive.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Bottom-PW-600_Watermarked.jpg"
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
 Building this 3D CAD reveals details that most people never got to see — the subtle contouring, the nacelle shaping, the aerodynamics that could have become Indonesia’s flagship airliner.
 
 This project is cool not because the N-2130 flew — but because it almost did.
 
 It’s a tribute to a lost milestone and a reminder that aerospace history isn’t just about what succeeded — it’s also about what should have been.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Side-PW-600_Watermarked.jpg"
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
 
