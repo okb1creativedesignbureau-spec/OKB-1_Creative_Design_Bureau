@@ -7,7 +7,7 @@ Dassault Mercure — 3D CAD Restoration Project
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpg"  
     alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
     width="250">
     </center>
@@ -32,7 +32,7 @@ It entered a world dominated by the Boeing 737 and the Douglas DC-9—tough comp
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Top_Watermarked.jpeg"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Top_Watermarked.jpg"  
     alt="Dassault Mercure 100 — 2D CAD Top View re-made in 2025"
     width="250">
     </center>
@@ -56,8 +56,8 @@ Some aircraft disappear quietly. No restoration programs. No preserved cockpits.
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Side_Watermarked.jpeg"  
-    alt="Dassault Mercure 100 — 2D CAD Top View re-made in 2025"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Side_Watermarked.jpg"  
+    alt="Dassault Mercure 100 — 2D CAD Side View re-made in 2025"
     width="250">
     </center>
 </p>
@@ -79,8 +79,8 @@ The Mercure 100 represents something truly rare:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Front_Watermarked.jpeg"  
-    alt="Dassault Mercure 100 — 2D CAD Top View re-made in 2025"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Front_Watermarked.jpg"  
+    alt="Dassault Mercure 100 — 2D CAD Front View re-made in 2025"
     width="250">
     </center>
 </p>
