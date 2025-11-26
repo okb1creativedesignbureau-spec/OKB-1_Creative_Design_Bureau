@@ -115,4 +115,4 @@ Related Aircraft in the project
 [PTDI R-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
 
 Other aircraft project with similar size and capability
-[Dassault Mercure] (https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+[Dassault Mercure](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
