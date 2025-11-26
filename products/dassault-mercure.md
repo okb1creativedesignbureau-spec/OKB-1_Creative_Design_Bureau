@@ -9,7 +9,7 @@ Dassault Mercure — 3D CAD Restoration Project
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jepg"  
     alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
-    width="250">
+    width="450">
     </center>
 </p>
 
@@ -58,7 +58,7 @@ Some aircraft disappear quietly. No restoration programs. No preserved cockpits.
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Side_Watermarked.jpg"  
     alt="Dassault Mercure 100 — 2D CAD Side View re-made in 2025"
-    width="250">
+    width="450">
     </center>
 </p>
 
@@ -74,14 +74,14 @@ The Mercure 100 represents something truly rare:
 - Recreating it in CAD reveals details that are easy to miss in old photographs — the wing sweep, the elegant nose profile, the unique proportions shaped by Dassault’s military lineage.
 - It is a blend of commercial practicality and fighter-jet aesthetics that we simply don’t see anymore.
 
-- <p>
+<p>
     <br>
     <center>
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Front_Watermarked.jpg"  
     alt="Dassault Mercure 100 — 2D CAD Front View re-made in 2025"
-    width="250">
+    width="450">
     </center>
 </p>
 
