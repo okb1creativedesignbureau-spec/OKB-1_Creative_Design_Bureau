@@ -1,6 +1,17 @@
 # Dassault Mercure CAD Project
 
-Dassault Mercure 100 — 3D CAD Restoration Project 
+Dassault Mercure — 3D CAD Restoration Project 
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="250">
+    </center>
+</p>
 
 ## What It Is 
 
@@ -15,6 +26,17 @@ The goal is simple:
 
 The Dassault Mercure 100 was Dassault’s bold attempt to break into the commercial jetliner market during the 1970s.
 It entered a world dominated by the Boeing 737 and the Douglas DC-9—tough competitors even for military aviation legends like Dassault.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100Top.jpeg"  
+    alt="Dassault Mercure 100 — 2D CAD Top View re-made in 2025"
+    width="250">
+    </center>
+</p>
 
 Despite its advanced aerodynamics and impressive handling, the Mercure suffered from a fatal flaw:
 - it was too specialized.
