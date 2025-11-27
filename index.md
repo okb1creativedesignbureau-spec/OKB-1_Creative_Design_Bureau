@@ -14,7 +14,7 @@
 }
 </style>
 
-<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+<link rel="icon" type="image/svg+xml" href="favicon/icon.svg">
 
 # OKB-1 Creative Design Bureau 
 
