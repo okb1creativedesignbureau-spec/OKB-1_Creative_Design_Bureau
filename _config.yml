@@ -19,6 +19,8 @@ minima:
   custom_css:
     - /assets/css/custom.css
   nav_pages:
+  - 
+  header_pages:
   - index.md
   - products/AC-and-RLC-Circuit-Analysis-Complete-University-Laboratory-Dataset-(5-Experiments).md
   - Bf-109-NACA-2R1-Pack-A.md
