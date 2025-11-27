@@ -1,4 +1,8 @@
-<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+---
+layout: page
+title: All Products
+---
+<!-- <link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg"> -->
 
 # OKB-1 Creative Design Bureau 
 
