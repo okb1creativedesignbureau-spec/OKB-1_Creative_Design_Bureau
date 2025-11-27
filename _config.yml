@@ -5,8 +5,8 @@ minima:
   - index.md
   custom_css:
     - /assets/css/custom.css
-  include:
-    - custom-head.html
+  custom_js:
+    - /assets/js/menu.js
 
 sass:
   style: compressed
