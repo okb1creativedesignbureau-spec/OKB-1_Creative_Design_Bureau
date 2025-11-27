@@ -14,7 +14,7 @@
 }
 </style>
 
-<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
 # NACA 2R1 Airfoil Reconstruction Project — Me 109 Wing Geometry (Research Archive)
 
