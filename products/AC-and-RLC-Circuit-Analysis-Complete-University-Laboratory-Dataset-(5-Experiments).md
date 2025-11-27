@@ -14,7 +14,7 @@
 }
 </style>
 
-<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
 ## AC & RLC Circuit Analysis — Complete University Laboratory Dataset (5 Experiments)
 <p>
