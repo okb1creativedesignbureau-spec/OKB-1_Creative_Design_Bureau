@@ -18,4 +18,21 @@ minima:
   skin: classic
   custom_css:
     - /assets/css/custom.css
-
+  nav_pages:
+  - index.md
+  - products/AC-and-RLC-Circuit-Analysis-Complete-University-Laboratory-Dataset-(5-Experiments).md
+  - Bf-109-NACA-2R1-Pack-A.md
+  - Bf-109-NACA-2R1-Pack-B.md
+  - Bf-109-NACA-2R1-Pack-C.md
+  - Bf-109-NACA-2R1.md
+  - products/Complete-Ohm’s-Law-and-Kirchhoff-Circuit-Experiment-Dataset.md
+  - Load Cell HX-711.md
+  - products/MD-0550-Calibration-dataset-by-UT-363-Anemometer-Calibrator-Sensor-for-Laminar-and-Turbulent-Airflow.md
+  - N-2130-IPTN.md
+  - R-2130-PTDI.md
+  - Ultrasonic-Sensor-Calibration-Dataset-HC-SR04.md
+  - cad-mercure-100.md
+  - cad-n-2130.md
+  - cad-r-2130.md
+  - dassault-mercure.md
+  - digital-multimeter-pyvisa-dataset.md
