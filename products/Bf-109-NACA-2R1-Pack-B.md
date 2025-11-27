@@ -1,3 +1,21 @@
+<style>
+/* Desktop: hide entire header */
+@media (min-width: 768px) {
+  header.site-header {
+    display: none !important;
+  }
+}
+
+/* Mobile: do nothing — keep hamburger working */
+@media (max-width: 767px) {
+  header.site-header {
+    display: block !important;
+  }
+}
+</style>
+
+<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+
 # NACA 2R1 Bf 109 Wing — 3-Section Starter Dataset (Root + Mid + Tip)
 Get three key NACA 2R1 airfoil sections from either Early (Emil) or Late (Gustav) Bf 109 variants. Includes geometry, plots, CSV, Excel, reference images, and DWG CAD files
 
