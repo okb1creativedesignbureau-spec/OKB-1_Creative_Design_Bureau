@@ -1,3 +1,21 @@
+<style>
+/* Desktop: hide entire header */
+@media (min-width: 768px) {
+  header.site-header {
+    display: none !important;
+  }
+}
+
+/* Mobile: do nothing — keep hamburger working */
+@media (max-width: 767px) {
+  header.site-header {
+    display: block !important;
+  }
+}
+</style>
+
+<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+
 ## Digital Multimeter (DMM) + PyVISA Data Acquisition & Voltage Divider Lab Dataset
 <p>
 Product Description — This package contains a complete experiment on data acquisition using a Digital Multimeter (DMM) connected via NI-VISA (PyVISA), combined with full laboratory measurements, simulation references, and analytical calculations.
