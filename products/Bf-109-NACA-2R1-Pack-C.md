@@ -14,7 +14,7 @@
 }
 </style>
 
-<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
 # Me-109 Full Wing Airfoil Bundle — Complete NACA 2R1 Reconstruction (All Sections + CAD + Raw Data)
 
