@@ -21,3 +21,29 @@
   display: block;
   margin-top: 10px;
 }
+
+/* HIDE nav on mobile */
+@media (max-width: 768px) {
+  .site-nav {
+    display: none;
+  }
+  .site-nav.open {
+    display: block;
+    background: white;
+    padding: 20px;
+  }
+
+  .hamburger {
+    display: block;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 10px;
+  }
+}
+
+/* Desktop still normal */
+@media (min-width: 769px) {
+  .hamburger {
+    display: none;
+  }
+}
