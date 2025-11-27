@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: All Products
 ---
+<div class="hamburger">☰</div>
 <!-- <link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg"> -->
 
 # OKB-1 Creative Design Bureau 
