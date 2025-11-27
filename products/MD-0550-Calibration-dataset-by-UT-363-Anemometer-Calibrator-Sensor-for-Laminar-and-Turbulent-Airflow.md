@@ -1,3 +1,21 @@
+<style>
+/* Desktop: hide entire header */
+@media (min-width: 768px) {
+  header.site-header {
+    display: none !important;
+  }
+}
+
+/* Mobile: do nothing — keep hamburger working */
+@media (max-width: 767px) {
+  header.site-header {
+    display: block !important;
+  }
+}
+</style>
+
+<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+
 ## MD-0550 Calibration dataset by UT-363 Anemometer Calibrator Sensor for Laminar and Turbulent Airflow
 <p>
     Product Description — MD0550 Airspeed Sensor Calibration Dataset — Wind Tunnel Experiment with UT-363 Reference.
