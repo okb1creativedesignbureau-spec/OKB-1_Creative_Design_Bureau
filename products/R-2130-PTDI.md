@@ -14,7 +14,7 @@
 }
 </style>
 
-<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+<link rel="icon" type="image/svg+xml" href="main/favicon/Untitled.svg">
 
 # R-2130 RegioJet — 3D CAD Concept Revival Project 
 
