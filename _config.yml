@@ -1,5 +1,5 @@
-theme: minima
-minima:
+theme: cayman
+cayman:
   skin: classic
 
 sass:
