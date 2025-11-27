@@ -1,20 +1,12 @@
 theme: minima
+minima:
+  skin: classic
+
 sass:
   style: compressed
 
-# date_format: "%b %-d, %Y"
-
-# defaults:
-#   - scope:
-#       path: "products"
-#     values:
-#       nav_exclude: true
-
-minima:
-  skin: classic
-#   custom_css:
-#     - /assets/css/custom.css
-  # nav_pages:
-  #   - index.md
-  #   - about.md
-  #   - products/index.md
+defaults:
+  - scope:
+      path: "products"
+    values:
+      nav_exclude: true
