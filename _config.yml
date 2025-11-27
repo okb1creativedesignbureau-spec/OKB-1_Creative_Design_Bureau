@@ -3,6 +3,10 @@ minima:
   skin: classic
   header_pages:
   - index.md
+  custom_css:
+    - /assets/css/custom.css
+  include:
+    - custom-head.html
 
 sass:
   style: compressed
