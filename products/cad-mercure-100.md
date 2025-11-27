@@ -15,3 +15,177 @@
 </style>
 
 <link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+
+# IPTN N-2130 — 3D CAD Restoration Project (2025 Edition)
+
+[Main N-2130 site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/CAD-Only2-N-2130.jpeg"  
+    alt="N-2130 PW-6000 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
+This project is a high-fidelity 3D CAD reconstruction of the Dassault Mercure 100, a short-range French airliner that has become one of the rarest commercial aircraft in aviation history.
+The model is built from scratch using archival drawings, scattered technical references, and photographic measurement techniques.
+
+The goal is simple:
+1. To digitally preserve an aircraft whose physical presence has nearly vanished.
+2. This CAD is intended for aviation enthusiasts, model builders, flight-sim modders, engineers, and anyone who wants to explore the geometry of an uncommon airliner that disappeared far too quickly.
+
+This is a full 3D CAD restoration of the IPTN N-2130, the ambitious Indonesian 100–130-seat jetliner project from the 1990s that never reached prototype flight.
+The model is rebuilt from the ground up using:
+
+- Surviving brochure diagrams
+- IPTN promotional mockups
+- Engineering sketches
+- The few remaining technical references available publicly
+- The goal is not just to “model” the aircraft — but to digitally revive a project that almost vanished from aerospace history.
+- Two engine configurations are included based on IPTN’s original proposals:
+- - CFM56-5 series
+- - PW6000 series
+- Both are modeled with smooth, aerodynamic CAD lofts suitable for visualization or engineering workflows.
+
+The N-2130 was:
+- Indonesia’s first attempt at entering the global jetliner market
+- A natural evolution of IPTN’s CN-235 and N-250 experience
+- Designed with contemporary Western aerodynamic standards
+- But when the 1997 Asian Financial Crisis struck, support for the program collapsed. Despite the aircraft being in an advanced design stage, the N-2130 was cancelled before a prototype was built.
+
+Today, only a few brochure scans, scale models, and concept drawings survive. This project aims to preserve that lost ambition. Wings, nacelles, and proportions that show IPTN’s engineering maturity
+Reconstructing the aircraft in 3D reveals details the public never saw — subtle loft transitions, nacelle curvature, and aerodynamic geometry that were far ahead for its era.
+This project is not cool because the N-2130 flew. It’s cool because it almost did.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/R-2130/Side-R-2130-CFM-56_Watermarked.jpg"  
+    alt="R-2130 CFM-56 — 2D CAD Sideview"
+    width="450">
+    </center>
+</p>
+
+This aircraft is imagined as:
+- A tribute to Indonesia’s aerospace ambitions
+- The entire model is engineered in SolidWorks using true NURBS lofted surfaces, giving it wind-tunnel-grade smoothness and precise aerodynamic form.
+- Every external surface — wings, fuselage, nacelles, empennage — is crafted using parametric engineering lofts suitable for 3D printing, rendering, CFD study, and RC design.
+
+## What You Can Do With These Packs
+Depending on the pack you choose, you can:
+- 3D print the aircraft
+- Build RC laser-cut models
+- Perform CAD or CFD analysis
+- Render it in Blender
+- Create posters, stickers, and merch
+- Study the engineering form
+
+This product line is divided into clear “factory-floor” production tiers for different users: 3D printers, CAD engineers, RC builders, artists, and hobbyists.
+
+## Pack A — 3D Printing Pack (STL Only)
+
+Includes:
+- High-resolution STL of the aircraft
+- Engine option:
+- - Pack A1: Single engine option (CFM56) + Custom Aircraft Stands 
+- - Pack A2: Single engine option (PW6000) + Custom Aircraft Stands
+- - Pack A: Both engines engine option (CFM56 or PW6000) + Custom Aircraft Stands
+- Clean watertight mesh suitable for resin or FDM printing
+- 3MF file for layout reference
+- Aerodynamic, smooth loft surfaces just like wind tunnel models
+- Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
+- Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
+
+Perfect for:
+Collectors · Modelers · 3D printer hobbyists
+
+# Pack B — RC Maker Pack (DXF + 3MF)
+
+Includes:
+- Full DXF cross-section slices (wing + fuselage) for laser cutting
+- Up to ~48 fuselage stations
+- Wing rib sections
+- Clean orthographic section cuts
+- 3MF file for RC layout reference
+- Both engine options included
+
+Perfect for:
+RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+## Pack C — Engineering Pack (STEP Only)
+
+Includes:
+- Full STEP file (solid bodies + surfaces)
+- Complete aircraft with precise NURBS lofts
+- Suitable for:
+- - SolidWorks
+- - Fusion 360
+- - CATIA
+- - Creo
+- - Siemens NX
+- Engineering-grade geometry
+- Perfect for editing, CFD pre-processing, and derivative design work
+- 3MF file for layout reference included
+- Both engine options included
+
+Perfect for:
+Engineers · Students · Aerospace researchers
+
+## Pack D — Merchandise Art Pack (DXF + PDF)
+
+Includes:
+- Clean line-art views:
+- 3-side view (top, side, front) + Bonus 1-side view (belly)
+- Isometric view
+- Provided in DXF + PDF
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/Bottom-CFM-56_Watermarked.jpg"  
+    alt="N-2130 CFM-56 — 2D CAD Bottom view"
+    width="450">
+    </center>
+</p>
+
+High resolution, ready for:
+- T-shirt designs
+- Posters
+- Stickers
+- Wallpapers
+- Classroom material
+
+Perfect for:
+Artists · Merch stores · Classroom projects · Aviation fans
+
+## Pack E — Blender Artist Pack (OBJ + STEP)
+
+Includes:
+- OBJ file exported from CAD
+- Ultra-smooth wind-tunnel-grade geometry
+- STEP file included for those who want to re-export their own mesh
+- Ready to import into:
+- - Blender
+- - Cinema 4D
+- - Maya
+- - ZBrush
+
+Note:
+Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting.
+
+Perfect for:
+Blender users · Render artists · Hard-surface kitbashers
+
+## Ultimate Pack
+
+Includes EVERYTHING in Packs A–E, all updates, all future engine variations, and priority access to WIP CFD aircraft data in the series.
+
+[Back to Home](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
