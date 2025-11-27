@@ -1,3 +1,21 @@
+<style>
+/* Desktop: hide entire header */
+@media (min-width: 768px) {
+  header.site-header {
+    display: none !important;
+  }
+}
+
+/* Mobile: do nothing — keep hamburger working */
+@media (max-width: 767px) {
+  header.site-header {
+    display: block !important;
+  }
+}
+</style>
+
+<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+
 # Me-109 Full Wing Airfoil Bundle — Complete NACA 2R1 Reconstruction (All Sections + CAD + Raw Data)
 
 The full, professional dataset: all reconstructed Me 109 wing airfoil sections (14.2%, 12.8%, 12.9%, 11.35%, 11%). Includes Excel workbooks, chamber/thickness analysis, CSV geometry, all images, DWG + STEP CAD models, and bonus raw reconstruction data.
