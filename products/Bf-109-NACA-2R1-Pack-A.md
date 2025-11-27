@@ -14,7 +14,7 @@
 }
 </style>
 
-<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
 # NACA 2R1 Derived Airfoil — Single Section Pack (Root / Mid / Tip Options) | Me 109 Wing Geometry Dataset
 Choose one precision-reconstructed NACA 2R1-family airfoil section from the historical Messerschmitt Bf 109 wing. Includes coordinates, plots, Excel workbook, CSV data, reference material, and a clean STL 3D model of the aerofoil.
