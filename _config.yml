@@ -14,7 +14,7 @@ minima:
   skin: classic
   custom_css:
     - /assets/css/custom.css
-  nav_pages:
-    - index.md
-    - about.md
-    - products/index.md
+  # nav_pages:
+  #   - index.md
+  #   - about.md
+  #   - products/index.md
