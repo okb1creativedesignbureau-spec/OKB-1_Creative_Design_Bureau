@@ -1,0 +1,23 @@
+
+/* Force hamburger nav for ALL screen sizes */
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-nav {
+  display: none;
+}
+
+.menu-toggle {
+  display: block;
+  cursor: pointer;
+  font-size: 28px;
+  user-select: none;
+}
+
+.menu-open .site-nav {
+  display: block;
+  margin-top: 10px;
+}
