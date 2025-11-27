@@ -1,7 +1,7 @@
 
 {% include hide-header.html %}
 
-<!-- <link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg"> -->
+<link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg">
 
 # OKB-1 Creative Design Bureau 
 
