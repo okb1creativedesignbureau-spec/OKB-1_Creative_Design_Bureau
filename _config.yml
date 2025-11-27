@@ -1,6 +1,8 @@
 theme: minima
 minima:
   skin: classic
+  header_pages:
+  - index.md
 
 sass:
   style: compressed
