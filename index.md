@@ -3,7 +3,7 @@ layout: default
 title: All Products
 ---
 <!-- BEGIN: inline hamburger test (paste EXACTLY here, right after front matter) -->
-<style>
+<!-- <style> -->
 /* simple inline css that only affects this page for testing */
 .hamburger-test { display: none; cursor: pointer; font-size: 26px; padding: 6px; }
 @media (max-width: 9999px) {
@@ -22,9 +22,9 @@ title: All Products
 }
 </style>
 
-<div class="hamburger-test" aria-hidden="false" role="button" tabindex="0">☰ Menu</div>
+<!-- <div class="hamburger-test" aria-hidden="false" role="button" tabindex="0">☰ Menu</div> -->
 
-<script>
+<!-- <script> -->
 (function(){
   // small, defensive script that toggles the Minima nav
   document.addEventListener("DOMContentLoaded", function() {
@@ -41,8 +41,8 @@ title: All Products
       console.error('hamburger-test error', err);
     }
   });
-})();
-</script>
+// })();
+<!-- </script> -->
 <!-- END: inline hamburger test -->
 
 <!-- <div class="hamburger">☰</div> -->
