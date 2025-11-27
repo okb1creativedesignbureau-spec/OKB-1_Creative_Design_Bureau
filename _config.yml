@@ -10,8 +10,8 @@ sass:
 #     values:
 #       nav_exclude: true
 
-# minima:
-#   skin: classic
+minima:
+  skin: classic
 #   custom_css:
 #     - /assets/css/custom.css
   # nav_pages:
