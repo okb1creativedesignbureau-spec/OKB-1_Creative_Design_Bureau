@@ -2,7 +2,50 @@
 layout: default
 title: All Products
 ---
-<div class="hamburger">☰</div>
+<!-- BEGIN: inline hamburger test (paste EXACTLY here, right after front matter) -->
+<style>
+/* simple inline css that only affects this page for testing */
+.hamburger-test { display: none; cursor: pointer; font-size: 26px; padding: 6px; }
+@media (max-width: 9999px) {
+  /* hide site-nav by default so we can control it */
+  .site-nav { display: none !important; }
+  .site-nav.open { display: block !important; }
+  .hamburger-test { display: inline-block; }
+  /* minimal styling so the menu looks okay */
+  .site-nav.open { background: #fff; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+  .site-nav.open li { display: block; margin: 6px 0; }
+}
+@media (min-width: 900px) {
+  /* on larger screens we want the default Minima nav visible */
+  .site-nav { display: block !important; }
+  .hamburger-test { display: none !important; }
+}
+</style>
+
+<div class="hamburger-test" aria-hidden="false" role="button" tabindex="0">☰ Menu</div>
+
+<script>
+(function(){
+  // small, defensive script that toggles the Minima nav
+  document.addEventListener("DOMContentLoaded", function() {
+    try {
+      var h = document.querySelector('.hamburger-test');
+      var nav = document.querySelector('.site-nav');
+      if (!h || !nav) return;
+      h.addEventListener('click', function(){
+        nav.classList.toggle('open');
+      });
+      // keyboard support
+      h.addEventListener('keydown', function(e){ if(e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nav.classList.toggle('open'); }});
+    } catch(err) {
+      console.error('hamburger-test error', err);
+    }
+  });
+})();
+</script>
+<!-- END: inline hamburger test -->
+
+<!-- <div class="hamburger">☰</div> -->
 <!-- <link rel="icon" type="image/svg+xml" href="favicon/Untitled.svg"> -->
 
 # OKB-1 Creative Design Bureau 
