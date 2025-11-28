@@ -73,7 +73,7 @@ The purpose is not simply to visualize the aircraft, but to digitally restore a 
 
 [Main R-2130 site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
 
-A modern re-imagining of Indonesia’s cancelled N-2130, rebuilt as a complete 21st-century digital aircraft.[Technical Description Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
+A modern re-imagining of Indonesia’s cancelled N-2130, rebuilt as a complete 21st-century digital aircraft.
 
 The R-2130 RegioJet is a modernized digital revival of Indonesia’s unrealized N-2130 jetliner program.
 This is not an official PTDI product — it is an independent engineering concept, rebuilt in full 3D using modern CAD lofting and surface modeling techniques.
@@ -97,7 +97,7 @@ This aircraft is imagined as:
 - The entire model is engineered in SolidWorks using true NURBS lofted surfaces, giving it wind-tunnel-grade smoothness and precise aerodynamic form.
 - Every external surface — wings, fuselage, nacelles, empennage — is crafted using parametric engineering lofts suitable for 3D printing, rendering, CFD study, and RC design.
 
-
+[Technical Description Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
 
 ## NACA 2R1 Airfoil Reconstruction Project — Me 109 Wing Geometry (Research Archive)
 [Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1.html)
