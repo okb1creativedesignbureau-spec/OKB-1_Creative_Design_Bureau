@@ -20,6 +20,8 @@
 
 Dassault Mercure — 3D CAD Restoration Project 
 
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-mercure-100.html)
+
 <p>
     <br>
     <center>
@@ -105,3 +107,11 @@ The Mercure 100 represents something truly rare:
 
 ## Preserving that in 3D form isn’t just cool — it’s a way of keeping alive a forgotten experiment in aviation history.
 
+[Back to Home](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
+
+## See Also:
+Aircraft with similar role and model:
+
+[N-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
+
+[R-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
