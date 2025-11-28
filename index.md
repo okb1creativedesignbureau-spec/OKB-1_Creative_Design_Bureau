@@ -62,7 +62,7 @@ The purpose is not simply to visualize the aircraft, but to digitally restore a 
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/IPTN-2130/CAD-Only-N-2130.jpeg"
     alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
     width="450">
     </center>
