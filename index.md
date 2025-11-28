@@ -89,6 +89,8 @@ This is not an official PTDI product — it is an independent engineering concep
     </center>
 </p>
 
+[Technical Description Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
+
 This aircraft is imagined as:
 - A next-generation successor to the original N-2130
 - A 100–130 seat, A220/E2-class regional jet
@@ -96,8 +98,6 @@ This aircraft is imagined as:
 - A tribute to Indonesia’s aerospace ambitions
 - The entire model is engineered in SolidWorks using true NURBS lofted surfaces, giving it wind-tunnel-grade smoothness and precise aerodynamic form.
 - Every external surface — wings, fuselage, nacelles, empennage — is crafted using parametric engineering lofts suitable for 3D printing, rendering, CFD study, and RC design.
-
-[Technical Description Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
 
 ## NACA 2R1 Airfoil Reconstruction Project — Me 109 Wing Geometry (Research Archive)
 [Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1.html)
