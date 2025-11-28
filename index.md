@@ -24,17 +24,58 @@ Welcome to my official GitHub Pages site. This site is for listing all of my eng
 
 ## Dassault Mercure CAD Project
 
+Dassault Mercure — 3D CAD Restoration Project 
+
+[Main Sites](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+
+This project is a high-fidelity 3D CAD reconstruction of the Dassault Mercure 100, a short-range French airliner that has become one of the rarest commercial aircraft in aviation history.
+The model is built from scratch using archival drawings, scattered technical references, and photographic measurement techniques.
+
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-mercure-100.html)
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
 ## N-2130 CAD Project
+
+N-2130 Project — 3D CAD Restoration Project 
+
+[Main Sites](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
+
+This project is a fully reconstructed 3D CAD model of the IPTN N-2130, Indonesia’s ambitious 100–130 seat jetliner project that never reached production.
+The model is created from surviving brochure material, engineering sketches, promotional mockups, and the small collection of publicly available design references.
+
+The purpose is not simply to visualize the aircraft, but to digitally restore a piece of national aerospace history that almost disappeared into obscurity.
+
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-n-2130.html)
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
 
 ## R-2130 CAD Project
 
 [Main R-2130 site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
 
-<br>
 
 [Technical Description Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-r-2130.html)
 
-<br>
 
 A modern re-imagining of Indonesia’s cancelled N-2130, rebuilt as a complete 21st-century digital aircraft.
 
