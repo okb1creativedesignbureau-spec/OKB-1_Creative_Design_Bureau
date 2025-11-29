@@ -90,7 +90,7 @@ Includes:
 Perfect for:
 Collectors · Modelers · 3D printer hobbyists
 
-# Pack B — RC Maker Pack (DXF + 3MF)
+## Pack B — RC Maker Pack (DXF + 3MF)
 
 Includes:
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
