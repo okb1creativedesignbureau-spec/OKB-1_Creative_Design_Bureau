@@ -236,5 +236,33 @@ Product Description — This package contains a complete experiment on data acqu
 <br>
 [Technical Dossier on Gumroad](https://creativedesigns840.gumroad.com/l/bgvvzp)
 
+## Speed Square Rafter Square for 3D Printing CAD Files — STL and 3MF ready
+
+In 1925, Albert J. Swanson invented the Speed Square — part rafter square, part protractor, part marking guide. It became the carpenter’s pocket tool in the US. But here’s the catch: it was born in the Imperial system. Great if you’re framing in inches. Not so great if you’re working in metric.
+
+[Product Technical Description]()
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/speed-square/011e89f0fb6f4e3bade4a919d94fc29e~tplv-aphluv4xwc-origin-jpeg.jpeg" 
+    alt="Speed Square all 3 Version"
+    width="450">
+    </center>
+</p>
+
+So I designed my own in 2025:
+• All-metric rafter square
+• Rise/run markings for common rafters, hip/valley cuts, and top notch
+• Printable as a solid jig or lightweight frame
+
+ **Available version in Gumroad**
+ - [Rafter Speed Square all Metric V3.0](https://creativedesigns840.gumroad.com/l/shseda)
+ - [Rafter Speed Square all Imperial V2.0](https://creativedesigns840.gumroad.com/l/sqzhh)
+ - [Rafter Speed Square Metric System Imperial Rise/Run V2.0](https://creativedesigns840.gumroad.com/l/rnxlh)
+ - [Rafter Speed Square all Metric V1.0](https://creativedesigns840.gumroad.com/l/wbnxgk)
+ - [Rafter Speed Square Ultimate Pack](https://creativedesigns840.gumroad.com/l/bvrvkc)
 
 
