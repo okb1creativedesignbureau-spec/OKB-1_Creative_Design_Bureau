@@ -242,7 +242,7 @@ Product Description — This package contains a complete experiment on data acqu
 
 In 1925, Albert J. Swanson invented the Speed Square — part rafter square, part protractor, part marking guide. It became the carpenter’s pocket tool in the US. But here’s the catch: it was born in the Imperial system. Great if you’re framing in inches. Not so great if you’re working in metric.
 
-[Product Technical Description]()
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/speed-square.html)
 
 <p>
     <br>
