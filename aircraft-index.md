@@ -108,4 +108,4 @@ This aircraft is imagined as:
 
 
 # Back to Main Index Page
-[Return to Hangar](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
+[Return to Main Menu](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
