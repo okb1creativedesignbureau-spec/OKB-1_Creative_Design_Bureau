@@ -1,5 +1,3 @@
-
-
 <link rel="icon" type="image/svg+xml" href="favicon/icon.svg">
 
 # OKB-1 Creative Design Bureau 
@@ -11,8 +9,6 @@ This site is for listing all of my engineering products and designs for both you
 
 # My Products
 
-[Old Product Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/My%20Products.html)
-
 This page is the central hub for all of my engineering products, CAD reconstructions, research datasets, and technical design work.
 
 All projects here are built for:
@@ -23,6 +19,9 @@ All projects here are built for:
 - Anyone who wants real, engineering-grade reference material
 
 Many repositories include free datasets, CAD previews, and links to the full downloadable versions on Gumroad.
+
+Deprecated - [Old Product Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/My%20Products.html)
+
 
 # Aircraft Projects
 
