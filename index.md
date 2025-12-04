@@ -11,6 +11,8 @@ This site is for listing all of my engineering products and designs for both you
 
 # My Products
 
+[Old Product Page]()
+
 This page is the central hub for all of my engineering products, CAD reconstructions, research datasets, and technical design work.
 
 All projects here are built for:
@@ -46,6 +48,8 @@ These aircraft reconstructions represent a mixture of educational research, engi
 
 # Engineering & Technical Models
 
+[Engineering and Technical Models Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/Engineering-and-Technical-Models.html)
+
 This section contains mechanical designs, prototype studies, CFD setups, and various technical models. Many of these works originate from academic projects, independent engineering experiments, or tool design for practical field work.
 
 The focus is on real mechanical behavior, manufacturable geometry, and analysis-ready surfaces. Some items here were created to validate physical assumptions through simulation, such as flow behavior, mechanical interaction, or structural feasibility. Others are utility tools and engineering constructions that were later turned into shareable 3D models.
@@ -63,6 +67,8 @@ Over time, this repository has accumulated experimental turbine designs, precisi
 
 
 # Research & Analysis
+
+[Research and Analysis Main Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/Research-and-Analysis.html)
 
 This section houses technical investigations, datasets, measurement logs, simulations, and analytical studies. Many of these works derive from field data collection, physics exploration, environmental measurements, or academic assignments reworked into clearer, accessible formats.
 
