@@ -94,6 +94,22 @@ These research notes also function as reference material for engineering or CFD 
 - [Digital Multimeter (DMM) + PyVISA Data Acquisition & Voltage Divider Lab Dataset](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/digital-multimeter-pyvisa-dataset.html)
 
 
+# Miscellaneous Projects
+
+This section collects smaller works, creative models, experimental concepts, and various CAD files that do not fit strictly into aircraft, engineering, or research categories. Many of these items were created spontaneously—from Thingiverse-style hobby models to abandoned prototypes or early drafts of larger engineering projects.
+
+Although diverse, these models share a common purpose: exploring ideas quickly. Some were built to test rendering techniques, modeling workflows, or mesh cleanup methods. Others represent early-stage concepts later superseded by more refined versions in other sections of the site.
+
+This category evolves frequently as new exploratory files, artistic concept models, or unconventional experiments are added. Because of its variety, it serves as an archive of the creative and technical development process behind the more structured projects.
+
+## Highlights
+- **3D Print-Ready Drops** — Community-style uploads originally prepared for Thingiverse.
+- **Prototype Concepts** — Early shapes and study models prior to full engineering development.
+- **Render Experiments** — Models used for metal-skin tests, lighting, and animation trials.
+
+## Browse All Miscellaneous Items
+
+
 
 ## Dassault Mercure CAD Project
 
