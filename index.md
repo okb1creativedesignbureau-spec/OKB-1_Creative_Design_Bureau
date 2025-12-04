@@ -109,6 +109,17 @@ This category evolves frequently as new exploratory files, artistic concept mode
 ## Browse All Miscellaneous Items
 
 
+# Free Community Releases (Thingiverse)
+
+A portion of the work in this section is distributed freely on **Thingiverse**, where I share print-ready models for the wider maker and engineering community. These uploads include small mechanical tools, aerodynamic test shapes, simple fixtures, and creative concept designs that do not require the full depth of engineering documentation found elsewhere on this site.
+
+The goal of these free releases is to provide learning resources for students and hobbyists, while also contributing to the open-source 3D printing ecosystem. Many of these models come from experimental drafts or early prototypes that were later refined into larger projects.
+
+All models on Thingiverse are available at no cost and can be downloaded, printed, modified, or remixed under the permissive licenses provided.
+
+### Thingiverse Links
+- **[Thingiverse Profile](https://www.thingiverse.com/OKB-1_CreativeDesignBureau/)** 
+- **List of Free 3D Prints** — Direct access to individual printable items.
 
 
 
