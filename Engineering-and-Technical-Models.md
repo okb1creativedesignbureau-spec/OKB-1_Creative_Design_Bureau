@@ -1,3 +1,5 @@
+<link rel="icon" type="image/svg+xml" href="favicon/icon.svg">
+
 # Engineering & Technical Models
 
 This section contains mechanical designs, prototype studies, CFD setups, and various technical models. Many of these works originate from academic projects, independent engineering experiments, or tool design for practical field work.
