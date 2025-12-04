@@ -105,3 +105,7 @@ This aircraft is imagined as:
 - A tribute to Indonesia’s aerospace ambitions
 - The entire model is engineered in SolidWorks using true NURBS lofted surfaces, giving it wind-tunnel-grade smoothness and precise aerodynamic form.
 - Every external surface — wings, fuselage, nacelles, empennage — is crafted using parametric engineering lofts suitable for 3D printing, rendering, CFD study, and RC design.
+
+
+# Back to Main Index Page
+[Return to Hangar](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
