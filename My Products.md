@@ -1,3 +1,5 @@
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
+
 # My Gumroad Products
 
 ## Product 1 – Load Cell for Arduino with HX-711 ADC Calibration Factor Data
