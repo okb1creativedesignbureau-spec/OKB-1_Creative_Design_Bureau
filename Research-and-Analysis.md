@@ -1,3 +1,5 @@
+<link rel="icon" type="image/svg+xml" href="favicon/icon.svg">
+
 # Research & Analysis
 
 This section houses technical investigations, datasets, measurement logs, simulations, and analytical studies. Many of these works derive from field data collection, physics exploration, environmental measurements, or academic assignments reworked into clearer, accessible formats.
