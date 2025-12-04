@@ -1,19 +1,3 @@
-<style>
-/* Desktop: hide entire header */
-@media (min-width: 768px) {
-  header.site-header {
-    display: none !important;
-  }
-}
-
-/* Mobile: do nothing — keep hamburger working */
-@media (max-width: 767px) {
-  header.site-header {
-    display: block !important;
-  }
-}
-</style>
-
 <link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
 # About OKB-1 Creative Design Bureau
@@ -63,7 +47,8 @@ If you want to explore the projects, check the homepage.
 If you want the datasets or CAD packs, see the linked repositories or Gumroad pages.
 - [Gumroad](https://creativedesigns840.gumroad.com/)
 
-
+If you want to explore the Thingiverse, check the homepage.
+[Thingiverse Profile](https://www.thingiverse.com/OKB-1_CreativeDesignBureau/)
 
 **Nerdy Engineers of the World, Unite!**
 
