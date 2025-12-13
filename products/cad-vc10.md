@@ -22,7 +22,7 @@
   
 The Series 1100 is the very first VC-10 prototype, digitally resurrected to showcase the aircraft that started it all. This was the testbed that proved the concept, laying the groundwork for the production airliners and military variants that followed. Our CAD model preserves every nuance of this historic aircraft, combining historical accuracy with engineering-grade precision.
 
-## Design and Aerodynamics 
+### Design and Aerodynamics 
 
 The Series 1100 captures the prototype’s experimental spirit. Unlike later production models, the design was raw, unrefined, and exploratory—perfect for understanding the evolution of the VC-10. Key features include:
 
@@ -35,11 +35,11 @@ The Series 1100 captures the prototype’s experimental spirit. Unlike later pro
 
 These characteristics highlight the raw engineering and design decisions that informed all subsequent VC-10 variants.
 
-## Historical Inspiration 
+### Historical Inspiration 
 
 Every detail of this CAD reconstruction is rooted in historical reference, inspired by G-ARTA, the aircraft that first proved the VC-10’s potential. This is more than a model; it is a digital preservation of aviation history, allowing users to explore the prototype as it truly existed.
 
-## CAD Precision and Engineering Fidelity 
+### CAD Precision and Engineering Fidelity 
 
 Our CAD model is built to engineering-grade standards, using parametric, NURBS-based lofting to reconstruct the entire airframe as solid geometry.
 
@@ -49,11 +49,11 @@ Our CAD model is built to engineering-grade standards, using parametric, NURBS-b
 
 This approach preserves the exact form and aerodynamic intent of the prototype, making it ideal for analysis, visualization, and reproduction.
 
-## Operational Significance 
+### Operational Significance 
 
 The Series 1100 was a crucial milestone in aviation history. As the VC-10’s first flight prototype, it provided invaluable data that guided the development of later commercial and military variants.
 
-## Why It Matters 
+### Why It Matters 
 
 Preserving the Series 1100 in CAD form ensures that this historic aircraft is accessible to future generations. Whether for aviation historians, engineers, or makers, this model provides a faithful digital record of the VC-10’s origins.
 
@@ -63,7 +63,7 @@ Preserving the Series 1100 in CAD form ensures that this historic aircraft is ac
 
 The Series 1102 is the definitive VC-10—the model that brought this iconic British airliner into widespread commercial service. While often referred to as the “generic” VC-10, it is anything but ordinary. This series represents the culmination of lessons learned from the prototype, refined into a reliable, elegant, and high-performing airliner that became the backbone of BOAC and other operators’ fleets.
 
-## Design and Aerodynamics 
+### Design and Aerodynamics 
 
 Compared to the Series 1100 prototype, the Series 1102 incorporated numerous aerodynamic refinements:
 
@@ -75,7 +75,7 @@ Compared to the Series 1100 prototype, the Series 1102 incorporated numerous aer
 
 These improvements allowed the Series 1102 to achieve better cruise efficiency, reduced fuel consumption, and more stable handling.
 
-## Operational Significance 
+### Operational Significance 
 
 The Series 1102 was the workhorse of commercial VC-10 operations:
 
@@ -83,7 +83,7 @@ The Series 1102 was the workhorse of commercial VC-10 operations:
 - Other airlines: Adopted in limited numbers, cementing the VC-10’s reputation as a high-performance, mid-sized jetliner.
 - Passenger experience: Quiet cabin, smooth ride, and distinctive T-tail design made the Series 1102 a favorite among passengers.
 
-## CAD Precision and Historical Accuracy 
+### CAD Precision and Historical Accuracy 
 
 This CAD model is built to engineering-grade standards, with all major components lofted as solid NURBS geometry:
 
@@ -91,7 +91,7 @@ This CAD model is built to engineering-grade standards, with all major component
 - Engine nacelles and pylons: Precisely shaped for aerodynamic fidelity.
 - Cross-sections and structure: Exportable in DXF/DWG for design analysis or 3D printing.
 
-## Why It Matters 
+### Why It Matters 
 
 The Series 1102 embodies the classic VC-10 experience. Preserving it in CAD form ensures that this important chapter of aviation history is accessible for historians, engineers, and modelers alike. It is the definitive, recognizable VC-10, bridging the prototype and later variants.
 
@@ -101,7 +101,7 @@ The Series 1102 embodies the classic VC-10 experience. Preserving it in CAD form
 
 The Series 1106 represents the VC-10 at its most refined stage, adapted for the Royal Air Force. This wasn’t just a civil airliner in military livery—it was a purpose-built aircraft optimized for transport, troop movement, and aerial refueling.
 
-## Design and Aerodynamic Refinements 
+### Design and Aerodynamic Refinements 
 
 Building on lessons from Series 1100 and 1102, the Series 1106 incorporated all aerodynamic improvements:
 
@@ -110,7 +110,7 @@ Building on lessons from Series 1100 and 1102, the Series 1106 incorporated all 
 - Fuselage: Reinforced and slightly longer to accommodate military payloads.
 - Overall aerodynamics: Smooth, continuous curves and fully integrated control surfaces enhanced handling, performance, and fuel efficiency.
 
-## Operational Significance 
+### Operational Significance 
 
 The Series 1106 served in multiple RAF roles:
 
@@ -118,7 +118,7 @@ The Series 1106 served in multiple RAF roles:
 - Tanker conversions: Adapted for in-flight refueling.
 - Military reliability: Maintained civil-era speed and comfort while meeting military logistics demands.
 
-## CAD Precision and Historical Accuracy 
+### CAD Precision and Historical Accuracy 
 
 Built with parametric, NURBS-based lofting, preserving every curve and surface as solid geometry:
 
@@ -126,7 +126,7 @@ Built with parametric, NURBS-based lofting, preserving every curve and surface a
 - Engine nacelles and pylons: Aerodynamically optimized trailing-edge shapes.
 - Cross-sections and structure: Exportable as DXF/DWG for analysis or 3D printing.
 
-## Why It Matters 
+### Why It Matters 
 
 The Series 1106 represents the culmination of VC-10 evolution, bridging civil elegance and military utility while preserving aerodynamics and design fidelity.
 
@@ -136,15 +136,15 @@ The Series 1106 represents the culmination of VC-10 evolution, bridging civil el
 
 The Series 1151, or Super VC-10, is the ultimate expression of the VC-10 lineage—the aircraft most people visualize when they hear the name VC-10.
 
-## Historical Background 
+### Historical Background 
 
 The Super VC-10 was conceived as an evolution of the original production VC-10, designed with a stretched fuselage and updated systems to transport more passengers comfortably over longer distances.
 
-## Operational Legacy 
+### Operational Legacy 
 
 Although produced in limited numbers, the Super VC-10 became the flagship of the VC-10 family, instantly recognizable for its elegance, speed, and high capacity.
 
-## Design and Engineering Details 
+### Design and Engineering Details 
 
 - Fuselage: Fully lofted solid geometry, perfectly proportioned to the stretched design.
 - Wings: Optimized sweep and root chords to support the heavier airframe.
@@ -160,17 +160,17 @@ The Super VC-10 is a symbol of British aerospace engineering, mid-century elegan
 
 The Series 1400 is a conceptual, never-built variant—a “what-if” exercise imagining a shorter, more agile VC-10.
 
-## Concept and Inspiration 
+### Concept and Inspiration 
 - Fuselage: Shortened by 2 meters from series 1102, 6 meters from series 1151.
 - Wingbox-fuselage connection: Enlarged and reinforced to handle shorter landing strips and correct rear-heavy balance.
 - Engine nacelles: Refined like 1106 with 1151 streamlining, maintaining aerodynamic efficiency.
 - Other features: Maintains T-tail, wing design, and overall proportions from previous series, making it unmistakably a VC-10.
 
-## Design Philosophy 
+### Design Philosophy 
 
 The Series 1400 demonstrates the power of CAD to bring non-existent aircraft to life, allowing exploration of alternate fuselage lengths, structural reinforcements, and aerodynamics.
 
-## Why It Matters 
+### Why It Matters 
 
 Although never built, the Series 1400 lets enthusiasts, engineers, and modelers explore alternate VC-10 futures, blending imagination with historical design logic. It preserves the VC-10 family heritage while daring to imagine what could have been.
 
@@ -186,7 +186,7 @@ Depending on the pack you choose, you can:
 
 This product line is divided into clear “factory-floor” production tiers for different users: 3D printers, CAD engineers, RC builders, artists, and hobbyists.
 
-## Pack A — 3D Printing Pack (STL + 3MF Only)
+### Pack A — 3D Printing Pack (STL + 3MF Only)
 Includes:
 - High-resolution STL of the aircraft
 - Pack A: Included Custom Aircraft Stands
@@ -197,7 +197,7 @@ Includes:
 - Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
 - Perfect for: Collectors · Modelers · 3D printer hobbyists
 
-## Pack B — RC Maker Pack (DXF + 3MF)
+### Pack B — RC Maker Pack (DXF + 3MF)
 Includes:
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
 - Up to ~50 fuselage stations
@@ -206,7 +206,7 @@ Includes:
 - 3MF file for RC layout reference
 - Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
-## Pack C — Engineering Pack (CAD Only)
+### Pack C — Engineering Pack (CAD Only)
 Includes:
 - Full STEP 214 file (solid bodies + surfaces)
 - Full IGES file (solid bodies + surfaces)
@@ -223,7 +223,7 @@ Suitable for:
 - 3MF file for layout reference included
 - Perfect for: Engineers · Students · Aerospace researchers
 
-## Pack D — Merchandise Art Pack (DXF + PDF)
+### Pack D — Merchandise Art Pack (DXF + PDF)
 Includes:
 - Clean line-art views:
 - 3-side view (top, side, front) + Bonus 1-side view (belly)
@@ -238,7 +238,7 @@ High resolution, ready for:
 - Classroom material
 - Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
-## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+### Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 Includes:
 - OBJ + GLB file exported from CAD
 - Ultra-smooth wind-tunnel-grade geometry
@@ -252,7 +252,7 @@ Includes:
 Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting.
 Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
-## Double Ultimate Pack
+### Double Ultimate Pack
 Includes EVERYTHING in Packs A–E with all aircraft listed here
 
 # See Other Available Variants:
