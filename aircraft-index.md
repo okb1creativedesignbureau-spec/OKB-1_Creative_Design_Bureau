@@ -11,7 +11,8 @@ These aircraft reconstructions represent a mixture of educational research, engi
 ## Featured Articles
 - **IPTN N-2130 Reconstruction** — A complete 3D rebirth of Indonesia’s cancelled 100–130 seat jetliner, built from brochure data and engineering references.
 - **PTDI R-2130 Reconstruction** — A what-if 3D rebirth of Indonesia’s cancelled continuation of the N-2130 jetliner, built with super critical winglet, revised nose aerodynamics and revised vertical stabilizer contour data from engineering references.
-- **Dassault Mercure CAD** — A high-fidelity surface model of the rare Dassault Mercure, including modernized skin work and render experiments.
+- **Dassault Mercure CAD** — A high-fidelity solid model of the rare Dassault Mercure, including modernized skin work and render experiments.
+- **Vickers VC-10** — A high-fidelity solid model of the iconic VC-10, including many sub-variants from both civillians and military variants.
 
 # Dassault Mercure CAD Project
 
@@ -89,6 +90,30 @@ This aircraft is imagined as:
 - A tribute to Indonesia’s aerospace ambitions
 - The entire model is engineered in SolidWorks using true NURBS lofted surfaces, giving it wind-tunnel-grade smoothness and precise aerodynamic form.
 - Every external surface — wings, fuselage, nacelles, empennage — is crafted using parametric engineering lofts suitable for 3D printing, rendering, CFD study, and RC design.
+
+
+# VC-10 CAD Project
+
+VC-10 — 3D CAD Restoration Project 
+
+[VC-10 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+
+This project is a high-fidelity 3D CAD reconstruction of the VC.10 and its variations models, a long-range British iconic airliner that has become one of the Cold-War retro-aesthethic commercial aircraft in aviation history.
+The model is built from scratch using archival drawings, scattered technical references, and photographic measurement techniques alongside many existing .
+
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-vc10.html)
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
+
 
 
 # Back to Main Index Page
