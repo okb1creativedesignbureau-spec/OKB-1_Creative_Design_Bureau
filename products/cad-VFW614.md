@@ -46,11 +46,11 @@ This repository preserves the VFW-614 family in CAD form, including production v
 The VFW-614 was produced in a small number of closely related variants, all sharing a common airframe but differing in role and equipment:
 
 - VFW-614 Prototype – Early conceptual aircraft validating the unconventional configuration and T-tail configuration
-  [Link]()
+  [VFW-614 T-tail series](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-T-tail.html)
 - VFW-614 Production Variant – Standard regional transport configuration
-  [Link]()
+  [VFW-614 Main Series](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-main.html)
 - VFW-614 ATTAS – Advanced Technologies Testing Aircraft System, extensively modified for fly-by-wire research
-  [Link]()
+  [VFW-614 ATTAS Bonus Pack](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-ATTAS.html)
 
 # Why the VFW-614 Matters
 
