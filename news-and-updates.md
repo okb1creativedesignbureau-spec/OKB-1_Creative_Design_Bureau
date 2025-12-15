@@ -22,6 +22,8 @@ the order is from latest updates to the oldest updates (MM/DD/YY)
 
 ## Updates
 
+- 12/15/25 Create VFW-614 main site
+- [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
 - 12/13/25 Create VC-10 main site
 - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
 - 12/12/25 Create WIP repo
