@@ -13,6 +13,7 @@ These aircraft reconstructions represent a mixture of educational research, engi
 - **PTDI R-2130 Reconstruction** — A what-if 3D rebirth of Indonesia’s cancelled continuation of the N-2130 jetliner, built with super critical winglet, revised nose aerodynamics and revised vertical stabilizer contour data from engineering references.
 - **Dassault Mercure CAD** — A high-fidelity solid model of the rare Dassault Mercure, including modernized skin work and render experiments.
 - **Vickers VC-10** — A high-fidelity solid model of the iconic VC-10, including many sub-variants from both civillians and military variants.
+- **VFW-614** — A complete CAD recreation of West Germany attempt to revolutionized regional jet with CAD breakthrough and minimizing engine FOD mindset through creative engine placement.
 
 # Dassault Mercure CAD Project
 
@@ -99,7 +100,7 @@ VC-10 — 3D CAD Restoration Project
 [VC-10 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
 
 This project is a high-fidelity 3D CAD reconstruction of the VC.10 and its variations models, a long-range British iconic airliner that has become one of the Cold-War retro-aesthethic commercial aircraft in aviation history.
-The model is built from scratch using archival drawings, scattered technical references, and photographic measurement techniques alongside many existing .
+The model is built from scratch using archival drawings, scattered technical references, and photographic measurement techniques alongside many existing citations.
 
 [Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-vc10.html)
 
@@ -114,7 +115,27 @@ The model is built from scratch using archival drawings, scattered technical ref
     </center>
 </p>
 
+# VFW-614 CAD Project
 
+VFW-614 – 3D CAD Restoration Project
+
+[VFW-614 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
+
+This project is a high-fidelity 3D CAD reconstruction of the VFW-614 and its experimented models, a reginal jet short-range West German iconic airliner that has become one of the Cold-War retro-aesthethic commercial aircraft in aviation history.
+The model is built from scratch using archival drawings, scattered technical references, and photographic measurement techniques alongside many existing data and technical drawing scattered around the internet.
+
+[Product Technical Description](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614.html)
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
+    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    width="450">
+    </center>
+</p>
 
 # Back to Main Index Page
 [Return to Main Menu](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
