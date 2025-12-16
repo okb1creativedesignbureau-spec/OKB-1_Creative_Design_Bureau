@@ -168,7 +168,9 @@ Includes:
   - Cinema 4D
   - Maya
   - ZBrush
-- 3MF file for layout reference included Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting.
+- 3MF file for layout reference included
+- Note: Untextured, raw CAD mesh.
+- Perfect for sculpting, kitbashing, rendering, or custom livery painting.
 - Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
