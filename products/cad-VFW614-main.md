@@ -55,7 +55,7 @@ This project is intended for:
 Includes:
 
 - High-resolution STL of the aircraft
-- Pack A: Included Custom Aircraft Stands
+- Included Custom Aircraft Stands
 - Clean watertight mesh suitable for resin or FDM printing
 - 3MF file for layout reference
 - Aerodynamic, smooth loft surfaces just like wind tunnel models
@@ -87,26 +87,26 @@ Includes:
   - CATIA
   - Creo
   - Siemens NX
-  - Engineering-grade geometry
-  - Perfect for editing, CFD pre-processing, and derivative design work
-  - 3MF file for layout reference included
-  - Perfect for: Engineers · Students · Aerospace researchers
+- Engineering-grade geometry
+- Perfect for editing, CFD pre-processing, and derivative design work
+- 3MF file for layout reference included
+- Perfect for: Engineers · Students · Aerospace researchers
 
-## Pack D — Merchandise Art Pack (DXF + PDF)
+## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
 Includes:
 
 - Clean line-art views:
   - 3-side view (top, side, front) + Bonus 1-side view (belly)
   - Isometric view
-  - Provided in DXF + PDF
-  - PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
+  - Provided in DXF + PDF + DWG
+- PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
   - T-shirt designs
   - Posters
   - Stickers
   - Wallpapers
   - Classroom material
-  - Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+- Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
