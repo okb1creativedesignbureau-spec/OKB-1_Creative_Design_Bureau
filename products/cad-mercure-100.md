@@ -108,11 +108,11 @@ Includes:
 - Full STEP file (solid bodies + surfaces)
 - Complete aircraft with precise NURBS lofts
 - Suitable for:
-- - SolidWorks
-- - Fusion 360
-- - CATIA
-- - Creo
-- - Siemens NX
+  - SolidWorks
+  - Fusion 360
+  - CATIA
+  - Creo
+  - Siemens NX
 - Engineering-grade geometry
 - Perfect for editing, CFD pre-processing, and derivative design work
 - 3MF file for layout reference included
@@ -157,10 +157,10 @@ Includes:
 - Ultra-smooth wind-tunnel-grade geometry
 - STEP file included for those who want to re-export their own mesh
 - Ready to import into:
-- - Blender
-- - Cinema 4D
-- - Maya
-- - ZBrush
+  - Blender
+  - Cinema 4D
+  - Maya
+  - ZBrush
 
 Note:
 Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting.
@@ -170,8 +170,13 @@ Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
 
-Includes EVERYTHING in Packs A–E, all updates, all future engine variations, and priority access to WIP CFD aircraft data in the series.
+Includes EVERYTHING in Packs A–E
 
+- STL + 3MF 3D Print model
+- DXF Cross Section Laser Cut RC
+- STEP 214 + IGES + CGR Engineering model
+- DXF + PDF + DWG Merch Poster
+- OBJ + STEP + 3MF + GLB + GLTF Render Artist
 
 
 ## Preserving that in 3D form isn’t just cool — it’s a way of keeping alive a forgotten experiment in aviation history.
