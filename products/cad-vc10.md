@@ -189,13 +189,13 @@ This product line is divided into clear “factory-floor” production tiers for
 ### Pack A — 3D Printing Pack (STL + 3MF Only)
 Includes:
 - High-resolution STL of the aircraft
-- Pack A: Included Custom Aircraft Stands
+- Included Custom Aircraft Stands
 - Clean watertight mesh suitable for resin or FDM printing
 - 3MF file for layout reference
 - Aerodynamic, smooth loft surfaces just like wind tunnel models
 - Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
 - Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
-- Perfect for: Collectors · Modelers · 3D printer hobbyists
+Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ### Pack B — RC Maker Pack (DXF + 3MF)
 Includes:
@@ -204,7 +204,7 @@ Includes:
 - Wing rib sections
 - Clean orthographic section cuts
 - 3MF file for RC layout reference
-- Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ### Pack C — Engineering Pack (CAD Only)
 Includes:
@@ -221,7 +221,7 @@ Suitable for:
 - Engineering-grade geometry
 - Perfect for editing, CFD pre-processing, and derivative design work
 - 3MF file for layout reference included
-- Perfect for: Engineers · Students · Aerospace researchers
+Perfect for: Engineers · Students · Aerospace researchers
 
 ### Pack D — Merchandise Art Pack (DXF + PDF)
 Includes:
@@ -236,7 +236,7 @@ High resolution, ready for:
 - Stickers
 - Wallpapers
 - Classroom material
-- Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ### Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 Includes:
@@ -254,6 +254,12 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ### Double Ultimate Pack
 Includes EVERYTHING in Packs A–E with all aircraft listed here
+
+- STL + 3MF 3D Print model
+- DXF Cross Section Laser Cut RC
+- STEP 214 + IGES + CGR Engineering model
+- DXF + PDF + DWG Merch Poster
+- OBJ + STEP + 3MF + GLB + GLTF Render Artist
 
 # See Other Available Variants:
 
