@@ -123,7 +123,15 @@ Includes:
   - 3MF file for layout reference included Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting. Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
+
 Includes EVERYTHING in Packs A–E
+
+- STL + 3MF 3D Print model
+- DXF Cross Section Laser Cut RC
+- STEP 214 + IGES + CGR Engineering model
+- DXF + PDF + DWG Merch Poster
+- OBJ + STEP + 3MF + GLB + GLTF Render Artist
+
 
 ## See Also Other Aircraft in the Project
 
