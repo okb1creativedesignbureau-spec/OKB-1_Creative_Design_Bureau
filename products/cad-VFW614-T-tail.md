@@ -53,76 +53,87 @@ This project is intended for:
 
 Includes:
 
-    High-resolution STL of the aircraft
-    Pack A: Included Custom Aircraft Stands
-    Clean watertight mesh suitable for resin or FDM printing
-    3MF file for layout reference
-    Aerodynamic, smooth loft surfaces just like wind tunnel models
-    Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
-    Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
-    Perfect for: Collectors · Modelers · 3D printer hobbyists
+- High-resolution STL of the aircraft
+- Included Custom Aircraft Stands
+- Clean watertight mesh suitable for resin or FDM printing
+- 3MF file for layout reference
+- Aerodynamic, smooth loft surfaces just like wind tunnel models
+- Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
+- Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
+- Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 Includes:
 
-    Full DXF cross-section slices (wing + fuselage) for laser cutting
-    Up to ~50 fuselage stations
-    Wing rib sections
-    Clean orthographic section cuts
-    3MF file for RC layout reference
-    Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+- Full DXF cross-section slices (wing + fuselage) for laser cutting
+- Up to ~50 fuselage stations
+- Wing rib sections
+- Clean orthographic section cuts
+- 3MF file for RC layout reference
+- Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
 Includes:
 
-    Full STEP 214 file (solid bodies + surfaces)
-    Full IGES file (solid bodies + surfaces)
-    Full CATIA file (solid bodies + surfaces)
-    Complete aircraft with precise NURBS lofts Suitable for:
-    SolidWorks
-    Fusion 360
-    CATIA
-    Creo
-    Siemens NX
-    Engineering-grade geometry
-    Perfect for editing, CFD pre-processing, and derivative design work
-    3MF file for layout reference included
-    Perfect for: Engineers · Students · Aerospace researchers
+- Full STEP 214 file (solid bodies + surfaces)
+- Full IGES file (solid bodies + surfaces)
+- Full CATIA file (solid bodies + surfaces)
+- Complete aircraft with precise NURBS lofts Suitable for:
+    - SolidWorks
+    - Fusion 360
+    - CATIA
+    - Creo
+    - Siemens NX
+- Engineering-grade geometry
+- Perfect for editing, CFD pre-processing, and derivative design work
+- 3MF file for layout reference included
+- Perfect for: Engineers · Students · Aerospace researchers
 
-## Pack D — Merchandise Art Pack (DXF + PDF)
+## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
 Includes:
 
-    Clean line-art views:
-    3-side view (top, side, front) + Bonus 1-side view (belly)
-    Isometric view
-    Provided in DXF + PDF
-    PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
-    T-shirt designs
-    Posters
-    Stickers
-    Wallpapers
-    Classroom material
-    Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+- Clean line-art views:
+    - 3-side view (top, side, front) + Bonus 1-side view (belly)
+    - Isometric view
+    - Provided in DXF + PDF + DWG
+- PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
+    - T-shirt designs
+    - Posters
+    - Stickers
+    - Wallpapers
+    - Classroom material
+- Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
 Includes:
 
-    OBJ + GLB file exported from CAD
-    Ultra-smooth wind-tunnel-grade geometry
-    STEP file included for those who want to re-export their own mesh
-    Ready to import into:
-    Blender
-    Cinema 4D
-    Maya
-    ZBrush
-    3MF file for layout reference included Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting. Perfect for: Blender users · Render artists · Hard-surface kitbashers
+- OBJ + GLB file exported from CAD
+- Ultra-smooth wind-tunnel-grade geometry
+- STEP file included for those who want to re-export their own mesh
+- Ready to import into:
+    - Blender
+    - Cinema 4D
+    - Maya
+    - ZBrush
+- 3MF file for layout reference included
+- Note: Untextured, raw CAD mesh.
+- Perfect for sculpting, kitbashing, rendering, or custom livery painting.
+- Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
+
 Includes EVERYTHING in Packs A–E
+
+- STL + 3MF 3D Print model
+- DXF Cross Section Laser Cut RC
+- STEP 214 + IGES + CGR Engineering model
+- DXF + PDF + DWG Merch Poster
+- OBJ + STEP + 3MF + GLB + GLTF Render Artist
+
 
 ## See Also other VFW-Variants
 
