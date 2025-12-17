@@ -30,6 +30,16 @@ The prototype model preserves early-stage geometry, highlighting differences fro
 
 This variant is particularly useful for studying configuration risk mitigation and early aerodynamic decision-making.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/T-TAIL_SW.jpeg"  
+    alt="VFW-614 CAD"
+    width="450">
+    </center>
+</p>
 
 ## CAD Reconstruction Approach
 
@@ -81,6 +91,17 @@ Includes:
 
 Perfect for: Collectors · Modelers · 3D printer hobbyists
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/T-TAIL_3D.jpeg"  
+    alt="VFW-614 3D"
+    width="450">
+    </center>
+</p>
+
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 Includes:
@@ -92,6 +113,17 @@ Includes:
 - 3MF file for RC layout reference
 
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/T-TAIL_DXF.jpg"  
+    alt="VFW-614 DXF"
+    width="450">
+    </center>
+</p>
 
 ## Pack C — Engineering Pack (CAD Only)
 
@@ -116,6 +148,17 @@ Engineering-grade geometry
 
 Perfect for: Engineers · Students · Aerospace researchers
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/T-TAIL_SW.jpeg"  
+    alt="VFW-614 CAD EXP"
+    width="450">
+    </center>
+</p>
+
 ## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
 Includes:
@@ -133,6 +176,17 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 - Classroom material
       
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/T-TAIL_PDF.jpg"  
+    alt="VFW-614 PDF"
+    width="450">
+    </center>
+</p>
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
