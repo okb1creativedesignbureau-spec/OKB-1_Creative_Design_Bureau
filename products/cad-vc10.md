@@ -161,6 +161,7 @@ The Super VC-10 is a symbol of British aerospace engineering, mid-century elegan
 The Series 1400 is a conceptual, never-built variant—a “what-if” exercise imagining a shorter, more agile VC-10.
 
 ### Concept and Inspiration 
+
 - Fuselage: Shortened by 2 meters from series 1102, 6 meters from series 1151.
 - Wingbox-fuselage connection: Enlarged and reinforced to handle shorter landing strips and correct rear-heavy balance.
 - Engine nacelles: Refined like 1106 with 1151 streamlining, maintaining aerodynamic efficiency.
@@ -176,7 +177,9 @@ Although never built, the Series 1400 lets enthusiasts, engineers, and modelers 
 
 
 # What You Can Do With These Packs
+
 Depending on the pack you choose, you can:
+
 - 3D print the aircraft
 - Build RC laser-cut models
 - Perform CAD or CFD analysis
@@ -187,7 +190,9 @@ Depending on the pack you choose, you can:
 This product line is divided into clear “factory-floor” production tiers for different users: 3D printers, CAD engineers, RC builders, artists, and hobbyists.
 
 ### Pack A — 3D Printing Pack (STL + 3MF Only)
+
 Includes:
+
 - High-resolution STL of the aircraft
 - Included Custom Aircraft Stands
 - Clean watertight mesh suitable for resin or FDM printing
@@ -195,15 +200,19 @@ Includes:
 - Aerodynamic, smooth loft surfaces just like wind tunnel models
 - Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
 - Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
+
 Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ### Pack B — RC Maker Pack (DXF + 3MF)
+
 Includes:
+
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
 - Up to ~50 fuselage stations
 - Wing rib sections
 - Clean orthographic section cuts
 - 3MF file for RC layout reference
+  
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ### Pack C — Engineering Pack (CAD Only)
@@ -212,15 +221,20 @@ Includes:
 - Full IGES file (solid bodies + surfaces)
 - Full CATIA file (solid bodies + surfaces)
 - Complete aircraft with precise NURBS lofts
+  
 Suitable for:
+
 - SolidWorks
 - Fusion 360
 - CATIA
 - Creo
 - Siemens NX
-- Engineering-grade geometry
+
+Engineering-grade geometry
+
 - Perfect for editing, CFD pre-processing, and derivative design work
 - 3MF file for layout reference included
+  
 Perfect for: Engineers · Students · Aerospace researchers
 
 ### Pack D — Merchandise Art Pack (DXF + PDF)
@@ -230,26 +244,35 @@ Includes:
 - Isometric view
 - Provided in DXF + PDF
 - PDF in both modern black-over-white diagram as well as negative-white-over-black diagram
+  
 High resolution, ready for:
+
 - T-shirt designs
 - Posters
 - Stickers
 - Wallpapers
 - Classroom material
+
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ### Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
 Includes:
+
 - OBJ + GLB file exported from CAD
 - Ultra-smooth wind-tunnel-grade geometry
 - STEP file included for those who want to re-export their own mesh
-- Ready to import into:
+
+Ready to import into:
+
 - Blender
 - Cinema 4D
 - Maya
 - ZBrush
 - 3MF file for layout reference included
+
 Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting.
+
 Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ### Double Ultimate Pack
