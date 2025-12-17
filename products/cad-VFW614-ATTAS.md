@@ -54,7 +54,16 @@ Variant-specific external geometry, Instrumentation and probe integration, Struc
 
 This model intentionally differs from the production variant, reflecting the aircraft’s role as a flying laboratory rather than a transport.
 
-
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/ATTAS_3D.jpeg"  
+    alt="VFW-614 3D"
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -68,7 +77,6 @@ Despite limited production, the VFW-614 occupies an important place in aerospace
 - Bridged civil transport and experimental research domains
 
 Preserving the aircraft in CAD form allows these contributions to be studied beyond photographs and general descriptions.
-
 
 ---
 
@@ -96,6 +104,28 @@ Includes:
 
 Perfect for: Collectors · Modelers · 3D printer hobbyists
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/ATTAS_3D.jpeg"  
+    alt="VFW-614 3D 1"
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/MAIN_3D.jpeg"  
+    alt="VFW-614 3D 2"
+    width="450">
+    </center>
+</p>
+
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 Includes:
@@ -108,6 +138,17 @@ Includes:
 - 3MF file for RC layout reference
 
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/ATTAS_DXF.jpg"  
+    alt="VFW-614 DXF"
+    width="450">
+    </center>
+</p>
 
 ## Pack C — Engineering Pack (CAD Only)
 
@@ -133,7 +174,18 @@ Engineering-grade geometry
 
 Perfect for: Engineers · Students · Aerospace researchers
 
-## Pack D — Merchandise Art Pack (DXF + PDF)
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/ATTAS_SW.jpeg"  
+    alt="VFW-614 CAD"
+    width="450">
+    </center>
+</p>
+
+## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
 Includes:
 
@@ -141,7 +193,18 @@ Clean line-art views:
 
 - 3-side view (top, side, front) + Bonus 1-side view (belly)
 - Isometric view
-- Provided in DXF + PDF
+- Provided in DXF + PDF + DWG
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/MAIN_PDF.jpg"  
+    alt="VFW-614 PDF 2"
+    width="450">
+    </center>
+</p>
 
 PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
 
@@ -154,6 +217,17 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 - Included both VFW-614 main series and ATTAS series
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/ATTAS_PDF.jpg"  
+    alt="VFW-614 PDF"
+    width="450">
+    </center>
+</p>
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
