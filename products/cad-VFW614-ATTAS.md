@@ -17,7 +17,9 @@
 <link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
 
-# VFW-614 ATTAS — Bonus Pack Where You Can Get VFW-614 ATTAS and The Main Production Series as a Bundle
+# VFW-614 ATTAS — Bonus Pack 
+
+**Where You Can Get VFW-614 ATTAS and The Main Production Series as a Bundle**
 
 [Back to Main VFW-614 site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
 
