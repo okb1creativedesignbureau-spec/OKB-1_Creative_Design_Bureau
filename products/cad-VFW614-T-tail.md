@@ -1,3 +1,21 @@
+<style>
+/* Desktop: hide entire header */
+@media (min-width: 768px) {
+  header.site-header {
+    display: none !important;
+  }
+}
+
+/* Mobile: do nothing — keep hamburger working */
+@media (max-width: 767px) {
+  header.site-header {
+    display: block !important;
+  }
+}
+</style>
+
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
+
 # VFW-614 Prototype - T-Tail Warrior Packs
 
 Configuration Validation and Early Design Concept. The prototype VFW-614 aircraft were drawn to validate the feasibility of the over-wing engine configuration and short-field performance goals.
