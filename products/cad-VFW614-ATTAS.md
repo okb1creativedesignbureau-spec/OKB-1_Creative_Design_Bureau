@@ -131,7 +131,8 @@ Includes:
   - 3-side view (top, side, front) + Bonus 1-side view (belly)
   - Isometric view
   - Provided in DXF + PDF
-  - PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
+
+- PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
   - T-shirt designs
   - Posters
   - Stickers
