@@ -20,13 +20,18 @@
 
 Configuration Validation and Early Design Concept. The prototype VFW-614 aircraft were drawn to validate the feasibility of the over-wing engine configuration and short-field performance goals.
 
-## Key Characteristics
+Key Characteristics:
 
-Early fuselage configuration with development instrumentation. Initial wing geometry prior to later refinements. Prototype-specific T-tail and pylon shaping. Structural accommodations for test equipment. Flight-test oriented systems layout
+- Early fuselage configuration with development instrumentation.
+- Initial wing geometry prior to later refinements.
+- Prototype-specific T-tail and pylon shaping proposal.
+- Structural accommodations for test equipment.
+- Flight-test oriented systems layout proposal.
 
 ## CAD Notes
 
-The prototype model preserves early-stage geometry, highlighting differences from later production aircraft. These include T-tail transitions, nacelle integration details, and fuselage proportions that were refined during certification.
+- The prototype model preserves early-stage geometry, highlighting differences from later production aircraft. 
+- These include T-tail transitions, nacelle integration details, and fuselage proportions that were refined during certification.
 
 This variant is particularly useful for studying configuration risk mitigation and early aerodynamic decision-making.
 
