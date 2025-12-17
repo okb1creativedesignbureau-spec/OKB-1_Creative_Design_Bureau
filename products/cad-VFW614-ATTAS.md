@@ -117,10 +117,11 @@ Includes:
   - CATIA
   - Creo
   - Siemens NX
-  - Engineering-grade geometry
-  - Perfect for editing, CFD pre-processing, and derivative design work
-  - 3MF file for layout reference included
-  - Perfect for: Engineers · Students · Aerospace researchers
+- Engineering-grade geometry
+- Perfect for editing, CFD pre-processing, and derivative design work
+- 3MF file for layout reference included
+
+Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + PDF)
 
