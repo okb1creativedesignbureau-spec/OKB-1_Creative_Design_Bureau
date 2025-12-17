@@ -29,9 +29,13 @@
 
 ATTAS was designed as an in-flight simulator, capable of emulating the handling characteristics of other aircraft through advanced control laws.
 
-## Major Modifications
+Major Modifications:
 
-Fly-by-wire control system, Modified cockpit with experimental interfaces, External sensors, probes, and instrumentation, Structural reinforcements for research payloads, Software-defined flight control behavior, 
+- Fly-by-wire control system
+- Modified cockpit with experimental interfaces
+- External sensors, probes, and instrumentation
+- Structural reinforcements for research payloads
+- Software-defined flight control behavior
 
 ## Engineering Significance
 
@@ -89,7 +93,8 @@ Includes:
 - Aerodynamic, smooth loft surfaces just like wind tunnel models
 - Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
 - Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
-- Perfect for: Collectors · Modelers · 3D printer hobbyists
+
+Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
@@ -101,7 +106,8 @@ Includes:
 - Wing rib sections
 - Clean orthographic section cuts
 - 3MF file for RC layout reference
-- Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
@@ -111,13 +117,17 @@ Includes:
 - Full STEP 214 file (solid bodies + surfaces)
 - Full IGES file (solid bodies + surfaces)
 - Full CATIA file (solid bodies + surfaces)
-- Complete aircraft with precise NURBS lofts Suitable for:
+  
+Complete aircraft with precise NURBS lofts Suitable for:
+
   - SolidWorks
   - Fusion 360
   - CATIA
   - Creo
   - Siemens NX
-- Engineering-grade geometry
+
+Engineering-grade geometry
+
 - Perfect for editing, CFD pre-processing, and derivative design work
 - 3MF file for layout reference included
 
@@ -127,18 +137,22 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 Includes:
 
-- Clean line-art views:
-  - 3-side view (top, side, front) + Bonus 1-side view (belly)
-  - Isometric view
-  - Provided in DXF + PDF
+Clean line-art views:
 
-- PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
-  - T-shirt designs
-  - Posters
-  - Stickers
-  - Wallpapers
-  - Classroom material
-  - Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+- 3-side view (top, side, front) + Bonus 1-side view (belly)
+- Isometric view
+- Provided in DXF + PDF
+
+PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
+
+- T-shirt designs
+- Posters
+- Stickers
+- Wallpapers
+- Classroom material
+
+Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+
 - Included both VFW-614 main series and ATTAS series
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
@@ -149,13 +163,16 @@ Includes:
 - OBJ + GLB file exported from CAD
 - Ultra-smooth wind-tunnel-grade geometry
 - STEP file included for those who want to re-export their own mesh
-- Ready to import into:
+
+Ready to import into:
+
 - Blender
 - Cinema 4D
 - Maya
 - ZBrush
 - 3MF file for layout reference included Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting.
-- Perfect for: Blender users · Render artists · Hard-surface kitbashers
+
+Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
 Includes EVERYTHING in Packs A–E
