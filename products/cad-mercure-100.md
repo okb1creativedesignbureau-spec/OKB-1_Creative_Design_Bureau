@@ -35,6 +35,7 @@ This project is a high-fidelity 3D CAD reconstruction of the Dassault Mercure 10
 The model is built from scratch using archival drawings, scattered technical references, and photographic measurement techniques.
 
 The goal is simple:
+
 1. To digitally preserve an aircraft whose physical presence has nearly vanished.
 2. This CAD is intended for aviation enthusiasts, model builders, flight-sim modders, engineers, and anyone who wants to explore the geometry of an uncommon airliner that disappeared far too quickly.
 
@@ -45,7 +46,7 @@ The model is rebuilt from the ground up using:
 - The few remaining technical references available publicly
 - The goal is not just to “model” the aircraft — but to digitally revive an aircraft that almost vanished from aerospace history.
 - Two engines attached are included based on original planes:
-- - JT-8D series
+  - JT-8D series
 - Both are modeled with smooth, aerodynamic CAD lofts suitable for visualization or engineering workflows.
 
 The Dassault Mercure 100 was Dassault’s bold attempt to break into the commercial jetliner market during the 1970s.
@@ -63,11 +64,14 @@ It entered a world dominated by the Boeing 737 and the Douglas DC-9—tough comp
 </p>
 
 This aircraft is imagined as:
+
 - The entire model is engineered in SolidWorks using true NURBS lofted surfaces, giving it wind-tunnel-grade smoothness and precise aerodynamic form.
 - Every external surface — wings, fuselage, nacelles, empennage — is crafted using parametric engineering lofts suitable for 3D printing, rendering, CFD study, and RC design.
 
 ## What You Can Do With These Packs
+
 Depending on the pack you choose, you can:
+
 - 3D print the aircraft
 - Build RC laser-cut models
 - Perform CAD or CFD analysis
@@ -80,6 +84,7 @@ This product line is divided into clear “factory-floor” production tiers for
 ## Pack A — 3D Printing Pack (STL Only)
 
 Includes:
+
 - High-resolution STL of the aircraft
 - Clean watertight mesh suitable for resin or FDM printing
 - 3MF file for layout reference
@@ -88,11 +93,13 @@ Includes:
 - Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
 
 Perfect for:
+
 Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 Includes:
+
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
 - Up to ~48 fuselage stations
 - Wing rib sections
@@ -100,30 +107,38 @@ Includes:
 - 3MF file for RC layout reference
 
 Perfect for:
+
 RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (STEP Only)
 
 Includes:
+
 - Full STEP file (solid bodies + surfaces)
 - Complete aircraft with precise NURBS lofts
-- Suitable for:
+
+Suitable for:
+
   - SolidWorks
   - Fusion 360
   - CATIA
   - Creo
   - Siemens NX
-- Engineering-grade geometry
+
+Engineering-grade geometry
+
 - Perfect for editing, CFD pre-processing, and derivative design work
 - 3MF file for layout reference included
 - Both engine options included
 
 Perfect for:
+
 Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + PDF)
 
 Includes:
+
 - Clean line-art views:
 - 3-side view (top, side, front) + Bonus 1-side view (belly)
 - Isometric view
@@ -141,6 +156,7 @@ Includes:
 </p>
 
 High resolution, ready for:
+
 - T-shirt designs
 - Posters
 - Stickers
@@ -148,24 +164,30 @@ High resolution, ready for:
 - Classroom material
 
 Perfect for:
+
 Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP)
 
 Includes:
+
 - OBJ file exported from CAD
 - Ultra-smooth wind-tunnel-grade geometry
 - STEP file included for those who want to re-export their own mesh
-- Ready to import into:
+
+Ready to import into:
+
   - Blender
   - Cinema 4D
   - Maya
   - ZBrush
 
 Note:
+
 Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting.
 
 Perfect for:
+
 Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
@@ -185,6 +207,7 @@ Includes EVERYTHING in Packs A–E
 [Back to Main Page](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
 
 ## See Also:
+
 Aircraft with similar role and model:
 
 [N-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
