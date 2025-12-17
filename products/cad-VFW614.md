@@ -18,6 +18,8 @@
 
 # VFW-614 Ultimate Bundle Pack – Product Technical Description
 
+---
+
 ## A German Short-Haul Jet with Unconventional Engineering
 
 The VFW-614 was a unique regional jet developed in West Germany during the late 1960s and early 1970s. Designed for short-haul operations from poorly prepared runways, it incorporated several unconventional engineering solutions that set it apart from its contemporaries.
@@ -62,7 +64,6 @@ Despite limited production, the VFW-614 occupies an important place in aerospace
 - Bridged civil transport and experimental research domains
 
 Preserving the aircraft in CAD form allows these contributions to be studied beyond photographs and general descriptions.
-
 
 ---
 
@@ -109,7 +110,8 @@ Includes:
 - Aerodynamic, smooth loft surfaces just like wind tunnel models
 - Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
 - Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
-- Perfect for: Collectors · Modelers · 3D printer hobbyists
+
+Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
@@ -120,7 +122,8 @@ Includes:
 - Wing rib sections
 - Clean orthographic section cuts
 - 3MF file for RC layout reference
-- Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
@@ -129,14 +132,17 @@ Includes:
 - Full STEP 214 file (solid bodies + surfaces)
 - Full IGES file (solid bodies + surfaces)
 - Full CATIA file (solid bodies + surfaces)
-- Complete aircraft with precise NURBS lofts Suitable for:
-  - SolidWorks
-  - Fusion 360
-  - CATIA
-  - Creo
-  - Siemens NX
-  - Engineering-grade geometry
-  - Perfect for editing, CFD pre-processing, and derivative design work
+
+Complete aircraft with precise NURBS lofts Suitable for:
+
+- SolidWorks
+- Fusion 360
+- CATIA
+- Creo
+- Siemens NX
+  
+Engineering-grade geometry
+- Perfect for editing, CFD pre-processing, and derivative design work
 - 3MF file for layout reference included
 - Perfect for: Engineers · Students · Aerospace researchers
 
@@ -144,17 +150,21 @@ Includes:
 
 Includes:
 
-- Clean line-art views:
-  - 3-side view (top, side, front) + Bonus 1-side view (belly)
-  - Isometric view
+Clean line-art views:
+
+- 3-side view (top, side, front) + Bonus 1-side view (belly)
+- Isometric view
 - Provided in DXF + PDF + DWG
-- PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
-  - T-shirt designs
-  - Posters
-  - Stickers
-  - Wallpapers
-  - Classroom material
-- Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+    
+PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
+
+- T-shirt designs
+- Posters
+- Stickers
+- Wallpapers
+- Classroom material
+  
+Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
@@ -163,15 +173,21 @@ Includes:
 - OBJ + GLB file exported from CAD
 - Ultra-smooth wind-tunnel-grade geometry
 - STEP file included for those who want to re-export their own mesh
-- Ready to import into:
-  - Blender
-  - Cinema 4D
-  - Maya
-  - ZBrush
-- 3MF file for layout reference included
-- Note: Untextured, raw CAD mesh.
-- Perfect for sculpting, kitbashing, rendering, or custom livery painting.
-- Perfect for: Blender users · Render artists · Hard-surface kitbashers
+
+Ready to import into:
+
+- Blender
+- Cinema 4D
+- Maya
+- ZBrush
+  
+3MF file for layout reference included
+
+Note: Untextured, raw CAD mesh.
+
+Perfect for sculpting, kitbashing, rendering, or custom livery painting.
+
+Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
 
@@ -183,4 +199,10 @@ Includes EVERYTHING in Packs A–E
 - DXF + PDF + DWG Merch Poster
 - OBJ + STEP + 3MF + GLB + GLTF Render Artist
 
+## See Also Other VFW-614 Related Products
 
+[VFW-614 standalone product](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-main.html)
+
+[VFW-614 ATTAS pack](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-ATTAS.html)
+
+[VFW-614 Proposed T-Tail product](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-T-tail.html)
