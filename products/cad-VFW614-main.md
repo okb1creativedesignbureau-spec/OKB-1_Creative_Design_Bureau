@@ -22,9 +22,13 @@
 
 Regional Transport Configuration, The production VFW-614 represents the finalized regional airliner configuration, optimized for commercial short-haul operations.
 
-## Design Features
+Design Features:
 
-Refined wing geometry with improved lift distribution. Production-standard fuselage layout. Over-wing engine installation optimized for noise and FOD reduction. Conventional tailplane with optimized control authority. Landing gear designed for rough-field operation
+- Refined wing geometry with improved lift distribution.
+- Production-standard fuselage layout.
+- Over-wing engine installation optimized for noise and FOD reduction.
+- Conventional tailplane with optimized control authority.
+- Landing gear designed for rough-field operation
 
 <p>
     <br>
@@ -50,8 +54,10 @@ Although commercial success was limited, the production VFW-614 demonstrated tha
 
 ## CAD Fidelity
 
-Production-accurate fuselage lofts. Finalized wing-to-fuselage integration. Correct nacelle positioning and incidence. Fully solid, parametric geometry
-
+- Production-accurate fuselage lofts.
+- Finalized wing-to-fuselage integration.
+- Correct nacelle positioning and incidence.
+- Fully solid, parametric geometry
 
 # Why the VFW-614 Matters
 
