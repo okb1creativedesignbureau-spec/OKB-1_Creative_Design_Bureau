@@ -132,8 +132,8 @@ The model is built from scratch using archival drawings, scattered technical ref
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/MAIN_SW.jpeg"  
+    alt="VFW-614 CAD"
     width="450">
     </center>
 </p>
