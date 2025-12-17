@@ -356,7 +356,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1100_DXF.jpeg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1100_DXF.jpg" 
     alt="VC-10 1100 DXF"
     width="750">
     </center>
