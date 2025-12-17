@@ -1,4 +1,4 @@
-<style>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae06f7fe-bcc5-47ba-8c10-5868e686344a" /><style>
 /* Desktop: hide entire header */
 @media (min-width: 768px) {
   header.site-header {
@@ -33,8 +33,8 @@ This repository preserves the VFW-614 family in CAD form, including production v
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/DassaultMercure_img/Mercure100CADCrop.jpeg"  
-    alt="Dassault Mercure 100 — 3D CAD re-made in 2025"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/MAIN_SW.jpeg"  
+    alt="VFW-614 CAD"
     width="450">
     </center>
 </p>
@@ -113,6 +113,17 @@ Includes:
 
 Perfect for: Collectors · Modelers · 3D printer hobbyists
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/ATTAS_3D.jpeg"  
+    alt="VFW-614 3D"
+    width="450">
+    </center>
+</p>
+
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 Includes:
@@ -124,6 +135,17 @@ Includes:
 - 3MF file for RC layout reference
 
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/MAIN_DXF.jpg"  
+    alt="VFW-614 DXF"
+    width="450">
+    </center>
+</p>
 
 ## Pack C — Engineering Pack (CAD Only)
 
@@ -146,6 +168,17 @@ Engineering-grade geometry
 - 3MF file for layout reference included
 - Perfect for: Engineers · Students · Aerospace researchers
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/T-TAIL_SW.jpeg"  
+    alt="VFW-614 T-TAIL CAD"
+    width="450">
+    </center>
+</p>
+
 ## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
 Includes:
@@ -165,6 +198,17 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 - Classroom material
   
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/ATTAS_PDF.jpg"  
+    alt="VFW-614 ATTAS"
+    width="450">
+    </center>
+</p>
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
