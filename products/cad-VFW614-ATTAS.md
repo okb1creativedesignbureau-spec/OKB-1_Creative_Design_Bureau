@@ -50,7 +50,10 @@ It served as a stepping stone toward later European aircraft programs using digi
 
 ## CAD Reconstruction Focus
 
-Variant-specific external geometry, Instrumentation and probe integration, Structural changes distinct from production aircraft, Accurate preservation of research configuration
+- Variant-specific external geometry
+- Instrumentation and probe integration
+- Structural changes distinct from production aircraft
+- Accurate preservation of research configuration
 
 This model intentionally differs from the production variant, reflecting the aircraft’s role as a flying laboratory rather than a transport.
 
