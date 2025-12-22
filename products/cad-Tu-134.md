@@ -35,30 +35,11 @@ The Tu-134 family in this project is organized as follows:
  
 Each variant is documented on its own subpage, preserving configuration-specific geometry and design intent.
 
-## Design Philosophy
-
-Across all variants, the Tu-134 reflects several consistent Soviet design priorities:
-
-- Robust operation from short or semi-prepared runways
- -Rear-mounted engines to reduce FOD and simplify ground operations
-- Structural simplicity and maintainability
-- Accommodation for independent navigation capabilities
-- Long-term adaptability through incremental redesign
- -Unlike many Western counterparts, the Tu-134’s evolution was gradual, resulting in overlapping configurations rather than sharp generational breaks.
-
-## CAD Reconstruction Approach
-- All variants in this repository are modeled as engineering-grade CAD, not visualization meshes.
-- Fully lofted NURBS surfaces
-- Solid fuselage, wing, nacelle, and empennage geometry
-- Parametric construction enabling variant comparison
-- Historically and logically consistent geometry changes
-- Cross-sections exportable to DXF / DWG
-
-Each variant is treated as a distinct airframe state, even where official naming conventions overlap.
-
 ---
 
 ## Variant Subpages
+
+[Return to Main Tu-134 Article]((https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134)
 
 ---
 
@@ -223,3 +204,49 @@ This project is intended for:
 - Modelers and fabrication workflows
 
 The emphasis is on engineering geometry, configuration evolution, and design intent.
+
+## Design Philosophy
+
+Across all variants, the Tu-134 reflects several consistent Soviet design priorities:
+
+- Robust operation from short or semi-prepared runways
+ -Rear-mounted engines to reduce FOD and simplify ground operations
+- Structural simplicity and maintainability
+- Accommodation for independent navigation capabilities
+- Long-term adaptability through incremental redesign
+ -Unlike many Western counterparts, the Tu-134’s evolution was gradual, resulting in overlapping configurations rather than sharp generational breaks.
+
+## CAD Reconstruction Approach
+- All variants in this repository are modeled as engineering-grade CAD, not visualization meshes.
+- Fully lofted NURBS surfaces
+- Solid fuselage, wing, nacelle, and empennage geometry
+- Parametric construction enabling variant comparison
+- Historically and logically consistent geometry changes
+- Cross-sections exportable to DXF / DWG
+
+Each variant is treated as a distinct airframe state, even where official naming conventions overlap.
+
+## See Also Different Aircraft of the Era
+
+- [Dassault Mercure](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+- [Vickers VC10](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+- [VFW-614](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
+
+## Also Available Other Packs and Variants of the Tupolev Tu-134
+
+- [Tu-124A](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-124A)
+- [Tu-134A-5](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A5)
+- [Tu-134A-2](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A2)
+- [Tu-134B-3](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134B)
+- [Tu-134M](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134M)
+- [Tu-134UBL](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134UBL)
+
+Premium Bundle:
+
+- [Tu-134A series (A-5) and (A-2) Bundle](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A5-Tu-134A2)
+- [Tu-134B-3 and Tu-134M Bundle](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134B-Tu-134M)
+
+## Back to Home
+
+- [Back to Aircraft Products Index](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
+- [Back to Main Home All Products Index](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/aircraft-index.html)
