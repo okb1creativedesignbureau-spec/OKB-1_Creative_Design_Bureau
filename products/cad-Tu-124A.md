@@ -1,3 +1,22 @@
+
+<style>
+/* Desktop: hide entire header */
+@media (min-width: 768px) {
+  header.site-header {
+    display: none !important;
+  }
+}
+
+/* Mobile: do nothing — keep hamburger working */
+@media (max-width: 767px) {
+  header.site-header {
+    display: block !important;
+  }
+}
+</style>
+
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
+
 # Tu-124A (Tu-134 Prototype)
 
 [Return to Tu-134 Main Article](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/Tu-134.html)
@@ -17,6 +36,18 @@ The Tu-124A represents the transitional prototype stage leading directly to the 
 This model preserves early geometry that was later refined, particularly around wing-root blending, engine mounting, and fuselage contour continuity.
 
 The Tu-124A is critical for understanding how the Tu-134 diverged from its predecessor while retaining key architectural elements.
+
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
