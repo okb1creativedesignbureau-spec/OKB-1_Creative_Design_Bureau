@@ -172,7 +172,7 @@ Premium Bundle:
 
 - [Tu-134A series (A-5) and (A-2) Bundle](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A5-Tu-134A2.html)
 - [Tu-134B-3 and Tu-134M Bundle](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134B-Tu-134M.html)
-- [Tu-134 All Variants Premium Bundle](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134.html)
+- [Return to Tu-134 Main Article](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
 
 ## Back to Home
 
