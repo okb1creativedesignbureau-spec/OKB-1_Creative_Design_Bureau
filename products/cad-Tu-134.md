@@ -85,90 +85,141 @@ The Tu-124A is critical for understanding how the Tu-134 diverged from its prede
 # Tu-134A-5 (Early Production Variant)
 
 The Tu-134A5 represents the first mature production configuration entering widespread service.
-Design Features
-Fully glazed navigator’s nose
-Production-standard fuselage length
-Early-series engine nacelles
-Traditional multi-crew cockpit arrangement
-Structural robustness tailored for regional operations
-Operational Context
+
+**Design Features**
+
+- Fully glazed navigator’s nose
+- Production-standard fuselage length
+- Early-series engine nacelles
+- Traditional multi-crew cockpit arrangement
+- Structural robustness tailored for regional operations
+
+**Operational Context**
+
 This variant reflects operational realities of early Soviet jet transport, where independent navigation capability and crew redundancy were prioritized.
-CAD Fidelity
-Accurate navigator glazing geometry
-Production fuselage lofts
-Correct early nacelle profiles
-Solid, parametric geometry throughout
-Tu-134A2 (Modified)
+
+**CAD Fidelity**
+
+- Accurate navigator glazing geometry
+- Production fuselage lofts
+- Correct early nacelle profiles
+- Solid, parametric geometry throughout
+
+---
+
+# Tu-134A2 (Modified)
+
 (Late Navigator Variant)
 The Tu-134A2 (modified) represents a late-stage compromise configuration, retaining a navigator’s position while reducing the size and prominence of the nose blister.
-Engineering Changes
-Compromised / reduced navigator glazing
-Refined nose profile for improved aerodynamics
-Transitional cockpit philosophy
-Structural continuity with earlier A-series airframes
-Significance
+
+**Engineering Changes**
+
+- Compromised / reduced navigator glazing
+- Refined nose profile for improved aerodynamics
+- Transitional cockpit philosophy
+-Structural continuity with earlier A-series airframes
+
+**Significance**
+
 This variant illustrates the gradual shift away from classical navigation practices without a complete redesign of the airframe.
-CAD Reconstruction Focus
-Hybrid nose geometry unique to this configuration
-Precise modeling of blister reduction
-Variant-specific fuselage forward-section lofting
-Tu-134B3
-(Final Production Standard)
+
+**CAD Reconstruction Focus**
+
+- Hybrid nose geometry unique to this configuration
+- Precise modeling of blister reduction
+- Variant-specific fuselage forward-section lofting
+
+---
+
+# Tu-134B3 (Final Production Standard)
+
 The Tu-134B3 represents the final and most refined production form of the Tu-134.
-Key Characteristics
-Fully redesigned nose with no navigator glazing
-Reduced flight crew
-Improved aerodynamics and visibility
-Mature systems and avionics integration
-Peak operational efficiency of the series
-Design Maturity
+
+**Key Characteristics**
+
+- Fully redesigned nose with no navigator glazing
+- Reduced flight crew
+- Improved aerodynamics and visibility
+- Mature systems and avionics integration
+- Peak operational efficiency of the series
+
+**Design Maturity**
+
 This variant marks the Tu-134’s transition toward internationally familiar cockpit standards while maintaining its characteristic structural design.
-CAD Precision
-Clean nose loft without glazing artifacts
-Final fuselage configuration
-Mature wing and tail integration
-Fully parametric solid model
-Tu-134M
-(What-If Post-Soviet Modernization)
+
+**CAD Precision**
+
+- Clean nose loft without glazing artifacts
+- Final fuselage configuration
+- Mature wing and tail integration
+- Fully parametric solid model
+
+---
+
+# Tu-134M (What-If Post-Soviet Modernization)
+
 The Tu-134M is a conceptual, never-built modernization exploring how the Tu-134 might have evolved in the post-Soviet era.
-Conceptual Changes
-Stretched fuselage for increased capacity
-Modernized cockpit and systems philosophy
-Replacement of original engines with PS-90 turbofans
-Improved fuel efficiency and noise compliance
-Retention of Tu-134 family aerodynamic identity
-Design Philosophy
+
+**Conceptual Changes**
+
+- Stretched fuselage for increased capacity
+- Modernized cockpit and systems philosophy
+- Replacement of original engines with PS-90 turbofans
+- Improved fuel efficiency and noise compliance
+- Retention of Tu-134 family aerodynamic identity
+
+**Design Philosophy**
+
 This variant applies modern engineering logic to a legacy airframe, balancing realism with creative extrapolation.
-CAD Approach
-Consistent structural logic applied to stretch
-Engine integration based on real PS-90 geometry
-Aerodynamic continuity preserved across surfaces
-Tu-134UBL
-(RuAF / VVS / VKS Special Variant)
+
+**CAD Approach**
+
+- Consistent structural logic applied to stretch
+- Engine integration based on real PS-90 geometry
+- Aerodynamic continuity preserved across surfaces
+
+---
+
+# Tu-134UBL (RuAF / VVS / VKS Special Variant)
+
 The Tu-134UBL is a specialized military variant developed for the Russian Air Force and later VKS.
-Role and Purpose
-Crew training and specialized operational tasks
-Modified nose profile distinct from civil variants
-Military-specific systems and equipment
-Long service life well beyond civil retirement
-Engineering Significance
+
+**Role and Purpose**
+
+- Crew training and specialized operational tasks
+- Modified nose profile distinct from civil variants
+- Military-specific systems and equipment
+- Long service life well beyond civil retirement
+
+**Engineering Significance**
+
 The UBL demonstrates the Tu-134’s adaptability beyond civil transport, serving in roles far removed from its original airline mission.
-CAD Reconstruction Focus
-Variant-unique nose geometry
-Military external configuration details
-Structural differences from civil B-series aircraft
-Why the Tu-134 Matters
+
+**CAD Reconstruction Focus**
+
+- Variant-unique nose geometry
+- Military external configuration details
+- Structural differences from civil B-series aircraft
+
+---
+
+## Why the Tu-134 Matters
+
 The Tu-134 remains significant because it:
-Defined Soviet short-haul jet transport for decades
-Demonstrated gradual, evolutionary aircraft development
-Bridged classical navigation practices and modern avionics
-Served both civil and military roles extensively
-Preserving these variants in CAD form allows direct study of how design philosophy, operational needs, and technology interacted over time.
-Repository Intent
+
+- Defined Soviet short-haul jet transport for decades
+- Demonstrated gradual, evolutionary aircraft development
+- Bridged classical navigation practices and modern avionics
+- Served both civil and military roles extensively
+- Preserving these variants in CAD form allows direct study of how design philosophy, operational needs, and technology interacted over time.
+
+## Repository Intent
+
 This project is intended for:
-Aerospace engineers and students
-CAD and geometry specialists
-Aviation historians
-Modelers and fabrication workflows
-This is not a flight simulation asset and not a visualization mesh pack.
+
+- Aerospace engineers and students
+- CAD and geometry specialists
+- Aviation historians
+- Modelers and fabrication workflows
+
 The emphasis is on engineering geometry, configuration evolution, and design intent.
