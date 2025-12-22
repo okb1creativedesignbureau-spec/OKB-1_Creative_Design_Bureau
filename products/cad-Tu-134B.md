@@ -178,4 +178,4 @@ Premium Bundle:
 
 - [Back to Aircraft Products Index](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
 - [Back to Main Home All Products Index](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/aircraft-index.html)
-- [Return to Tu-134 Main Article](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/Tu-134.html)
+- [Return to Tu-134 Main Article](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
