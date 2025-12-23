@@ -220,6 +220,12 @@ Includes EVERYTHING in Packs A–E
 
 Aircraft with similar role and model:
 
-[N-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
+- [N-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
 
-[R-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
+- [R-2130](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
+
+## See Also Different Aircraft of the Era
+
+- [Tupolev Tu-134](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
+- [Vickers VC10](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+- [Fokker VFW-614](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
