@@ -83,6 +83,8 @@ This product line is divided into clear “factory-floor” production tiers for
 
 ## Pack A — 3D Printing Pack (STL Only)
 
+[Get the Pack for €10 Here](https://creativedesigns840.gumroad.com/l/atkoi)
+
 Includes:
 
 - High-resolution STL of the aircraft
@@ -98,6 +100,8 @@ Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
+[Get the Pack Here for €15](https://creativedesigns840.gumroad.com/l/zrjgpy)
+
 Includes:
 
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
@@ -111,6 +115,8 @@ Perfect for:
 RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (STEP Only)
+
+[Get the Pack Here for €20](https://creativedesigns840.gumroad.com/l/shlgju)
 
 Includes:
 
@@ -136,6 +142,8 @@ Perfect for:
 Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + PDF)
+
+[Get the Pack Here for €7](https://creativedesigns840.gumroad.com/l/mjsva)
 
 Includes:
 
@@ -168,6 +176,8 @@ Perfect for:
 Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP)
+
+[Get the Pack Here for €9](https://creativedesigns840.gumroad.com/l/stast)
 
 Includes:
 
