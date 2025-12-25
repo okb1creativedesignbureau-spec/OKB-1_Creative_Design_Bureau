@@ -70,7 +70,6 @@ Despite limited production, the VFW-614 occupies an important place in aerospace
 
 Preserving the aircraft in CAD form allows these contributions to be studied beyond photographs and general descriptions.
 
-
 ---
 
 # Repository Intent
@@ -85,6 +84,9 @@ This project is intended for:
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
+VFW-614 Standard Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/vhgjs
+
+
 Includes:
 
 - High-resolution STL of the aircraft
@@ -98,6 +100,9 @@ Includes:
 Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
+
+VFW-614 Standard Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/opuffl
+
 
 Includes:
 
@@ -121,6 +126,9 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 </p>
 
 ## Pack C — Engineering Pack (CAD Only)
+
+VFW-614 Standard Pack C — Engineering Pack (CAD Only)					creativedesigns840.gumroad.com/l/mdelm
+
 
 Includes:
 
@@ -156,6 +164,9 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
+VFW-614 Standard Pack D — Merchandise Art Pack (DXF + DWG + PDF)			creativedesigns840.gumroad.com/l/zmqne
+
+
 Includes:
 
 - Clean line-art views:
@@ -186,6 +197,8 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 </p>
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
+VFW-614 Standard Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)		creativedesigns840.gumroad.com/l/vnkwpu
 
 Includes:
 
