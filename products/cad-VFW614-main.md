@@ -215,6 +215,17 @@ Note: Untextured, raw CAD mesh.
 
 Perfect for sculpting, kitbashing, rendering, or custom livery painting.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/vfw614_img/Screenshot 2025-12-25 174050.png"  
+    alt="VFW-614 PDF"
+    width="450">
+    </center>
+</p>
+
 Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
 ## Ultimate Pack
