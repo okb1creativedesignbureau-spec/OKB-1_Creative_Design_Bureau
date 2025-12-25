@@ -95,6 +95,8 @@ This project is intended for:
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
+VFW-614 ATTAS Bonus Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/zxoxr
+
 Includes:
 
 - High-resolution STL of the aircraft
@@ -131,6 +133,8 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
+VFW-614 ATTAS Bonus Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/jmqosy
+
 Includes:
 
 - Included both VFW-614 main series and ATTAS series
@@ -154,6 +158,8 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 </p>
 
 ## Pack C — Engineering Pack (CAD Only)
+
+VFW-614 ATTAS Bonus Pack C — Engineering Pack (CAD Only)				creativedesigns840.gumroad.com/l/tkdel
 
 Includes:
 
@@ -189,6 +195,8 @@ Perfect for: Engineers · Students · Aerospace researchers
 </p>
 
 ## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
+
+VFW-614 ATTAS Bonus Pack D — Merchandise Art Pack (DXF + PDF + DWG)			creativedesigns840.gumroad.com/l/shxwu
 
 Includes:
 
@@ -233,6 +241,8 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 </p>
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
+VFW-614 ATTAS Bonus Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)	creativedesigns840.gumroad.com/l/mamjg
 
 Includes:
 
