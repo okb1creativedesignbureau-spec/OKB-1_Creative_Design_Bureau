@@ -22,6 +22,26 @@ the order is from latest updates to the oldest updates (MM/DD/YY)
 
 ## Updates
 
+- 12/19/25 Create Tu-134M-90 variant product site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134M.html)
+- 12/19/25 Create Tu-134UBL variant product site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134UBL.html)
+- 12/19/25 Create Tu-134As packs variants product site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A5-Tu-134A2.html)
+- 12/19/25 Create Tu-134-modernized variants packs product site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134B-Tu-134M.html)
+- 12/18/25 Create Tu-134 main site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/Tu-134.html)
+- 12/18/25 Create Tu-134 Product site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134.html)
+- 12/18/25 Create Tu-124A variant prodduct site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-124A.html)
+- 12/18/25 Create Tu-134A-2 variant prodduct site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A2.html)
+- 12/18/25 Create Tu-134A-5 variant product site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A5.html)
+- 12/18/25 Create Tu-134B-3 variant product site
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134B.html)
 - 12/17/25 Create Vickers VC10 Series 1100 G-ARTA product sites
   - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-vc10-1100.html)
 - 12/17/25 Create Vickers VC10 Series 1102 BOAC product sites
