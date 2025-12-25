@@ -95,7 +95,7 @@ This project is intended for:
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-VFW-614 ATTAS Bonus Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/zxoxr
+[Get VFW-614 ATTAS Bonus 3D Printing Pack Here for €12](creativedesigns840.gumroad.com/l/zxoxr)
 
 Includes:
 
@@ -133,7 +133,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-VFW-614 ATTAS Bonus Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/jmqosy
+[Get VFW-614 ATTAS Bonus RC Maker Pack Here for €17](creativedesigns840.gumroad.com/l/jmqosy)
 
 Includes:
 
@@ -159,7 +159,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-VFW-614 ATTAS Bonus Pack C — Engineering Pack (CAD Only)				creativedesigns840.gumroad.com/l/tkdel
+[Get VFW-614 ATTAS Bonus Engineering CAD Pack Here for €22](creativedesigns840.gumroad.com/l/tkdel)
 
 Includes:
 
@@ -196,7 +196,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
-VFW-614 ATTAS Bonus Pack D — Merchandise Art Pack (DXF + PDF + DWG)			creativedesigns840.gumroad.com/l/shxwu
+[Get VFW-614 ATTAS Bonus Merchandise Art Pack Here for €9](creativedesigns840.gumroad.com/l/shxwu)
 
 Includes:
 
@@ -242,7 +242,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-VFW-614 ATTAS Bonus Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)	creativedesigns840.gumroad.com/l/mamjg
+[Get VFW-614 ATTAS Bonus Blender Artist Pack Here for €11](creativedesigns840.gumroad.com/l/mamjg)
 
 Includes:
 
