@@ -84,7 +84,7 @@ This project is intended for:
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-VFW-614 T-Tail Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/uzqwq
+[Get ze VFW-614 T-Tail 3D Printing Pack for €10 Here](creativedesigns840.gumroad.com/l/uzqwq)
 
 Includes:
 
@@ -111,7 +111,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-VFW-614 T-Tail Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/yvfghp
+[Get ze VFW-614 T-Tail RC Maker Pack Here at €15](creativedesigns840.gumroad.com/l/yvfghp)
 
 Includes:
 
@@ -136,7 +136,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-VFW-614 T-Tail Pack C — Engineering Pack (CAD Only)					creativedesigns840.gumroad.com/l/azlovi
+[Get ze VFW-614 T-Tail — Engineering CAD Pack Here for €20](creativedesigns840.gumroad.com/l/azlovi)
 
 Includes:
 
@@ -172,7 +172,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + PDF + DWG)
 
-VFW-614 T-Tail Pack D — Merchandise Art Pack (DXF + PDF)				creativedesigns840.gumroad.com/l/wqbjl
+[Get ze VFW-614 T-Tail Merchandise Art Pack Here for €7](creativedesigns840.gumroad.com/l/wqbjl)
 
 Includes:
 
@@ -203,7 +203,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-VFW-614 T-Tail Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)		creativedesigns840.gumroad.com/l/xohlc
+[Get ze VFW-614 T-Tail Blender Artist Pack Here for €9](creativedesigns840.gumroad.com/l/xohlc)
 
 Includes:
 
@@ -242,3 +242,8 @@ Includes EVERYTHING in Packs A–E
 - [VFW-614 ATTAS](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-ATTAS.html)
 - [VFW-614 Bundle Pack](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614.html)
   
+VFW-614 T-Tail Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/uzqwq
+VFW-614 T-Tail Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/yvfghp
+VFW-614 T-Tail Pack C — Engineering Pack (CAD Only)					creativedesigns840.gumroad.com/l/azlovi
+VFW-614 T-Tail Pack D — Merchandise Art Pack (DXF + PDF)				creativedesigns840.gumroad.com/l/wqbjl
+VFW-614 T-Tail Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)		creativedesigns840.gumroad.com/l/xohlc
