@@ -241,9 +241,4 @@ Includes EVERYTHING in Packs A–E
 - [VFW-614 Main Series](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-main.html)
 - [VFW-614 ATTAS](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614-ATTAS.html)
 - [VFW-614 Bundle Pack](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614.html)
-  
-VFW-614 T-Tail Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/uzqwq
-VFW-614 T-Tail Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/yvfghp
-VFW-614 T-Tail Pack C — Engineering Pack (CAD Only)					creativedesigns840.gumroad.com/l/azlovi
-VFW-614 T-Tail Pack D — Merchandise Art Pack (DXF + PDF)				creativedesigns840.gumroad.com/l/wqbjl
-VFW-614 T-Tail Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)		creativedesigns840.gumroad.com/l/xohlc
+
