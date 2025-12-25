@@ -7,6 +7,12 @@ This site is for listing all of my engineering products and designs for both you
 
 [About](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/about.html)
 
+# See Our Recent News and Products Update
+
+Some products may not available now due to work in progress (WIP), or due to deprecated on some degree, we decide to take-dowwn the product until the ussie resolved. Because of so, we are happy to be transparent and shows our progress and the on-going event in our news and updates link
+
+[News and Update](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/news-and-updates)
+
 # My Products
 
 This page is the central hub for all of my engineering products, CAD reconstructions, research datasets, and technical design work.
