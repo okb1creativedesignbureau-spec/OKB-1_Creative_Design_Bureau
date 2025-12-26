@@ -91,7 +91,7 @@ The Tu-134M is a conceptual, never-built modernization exploring how the Tu-134 
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-Tu-134 Modern Bundle Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/jomihb
+[Get Tu-134 Modern Bundle 3D Printing Pack Here for ](creativedesigns840.gumroad.com/l/jomihb)
 
 Includes:
 
@@ -107,7 +107,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-Tu-134 Modern Bundle Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/kdhit	
+[Get Tu-134 Modern Bundle RC Maker Pack Here for ](creativedesigns840.gumroad.com/l/kdhit	)
 
 Includes:
 
@@ -121,7 +121,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-Tu-134 Modern Bundle Pack C — Engineering CAD Pack (STEP + IGES + CGR)			creativedesigns840.gumroad.com/l/hoyxyw
+[Get Tu-134 Modern Bundle Engineering CAD Pack Here for ](creativedesigns840.gumroad.com/l/hoyxyw)
 
 Includes:
 
@@ -144,7 +144,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-Tu-134 Modern Bundle Pack D — Merchandise Art Pack (DXF + PDF + DWG)			creativedesigns840.gumroad.com/l/tiyota
+[Get Tu-134 Modern Bundle Merchandise Art Pack Here for ](creativedesigns840.gumroad.com/l/tiyota)
 
 Includes:
 
@@ -164,7 +164,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-Tu-134 Modern Bundle Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)	creativedesigns840.gumroad.com/l/mpxri
+[Get Tu-134 Modern Bundle Blender Artist Pack Here for ](creativedesigns840.gumroad.com/l/mpxri)
 
 Includes:
 
