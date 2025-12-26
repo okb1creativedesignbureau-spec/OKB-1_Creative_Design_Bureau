@@ -56,6 +56,8 @@ Each variant is documented on its own subpage, preserving configuration-specific
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
+Tu-134 Series Bundle Pack A — 3D Printing Pack (STL + 3MF Only)				creativedesigns840.gumroad.com/l/xjots
+
 Includes:
 
 - High-resolution STL of the aircraft
@@ -70,6 +72,8 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
+Tu-134 Series Bundle Pack B — RC Maker Pack (DXF + 3MF)					creativedesigns840.gumroad.com/l/lvwdab	
+
 Includes:
 
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
@@ -81,6 +85,8 @@ Includes:
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
+
+Tu-134 Series Bundle Pack C — Engineering CAD Pack (STEP + IGES + CGR)			creativedesigns840.gumroad.com/l/oxdokm
 
 Includes:
 
@@ -103,6 +109,8 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
+Tu-134 Series Bundle Pack D — Merchandise Art Pack (DXF + PDF + DWG)			creativedesigns840.gumroad.com/l/vgfkaa
+
 Includes:
 
 Clean line-art views:
@@ -120,6 +128,8 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
+Tu-134 Series Bundle Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)	creativedesigns840.gumroad.com/l/jzbwvu
 
 Includes:
 
