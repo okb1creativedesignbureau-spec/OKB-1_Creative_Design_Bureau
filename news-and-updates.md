@@ -22,6 +22,59 @@ the order is from latest updates to the oldest updates (MM/DD/YY)
 
 ## Updates
 
+- 12/22/25 Create VFW-614 ATTAS Related Links
+  - [Link](creativedesigns840.gumroad.com/l/zxoxr)
+  - [Link](creativedesigns840.gumroad.com/l/jmqosy)
+  - [Link](creativedesigns840.gumroad.com/l/tkdel)
+  - [Link](creativedesigns840.gumroad.com/l/shxwu)
+  - [Link](creativedesigns840.gumroad.com/l/mamjg)
+- 12/22/25 Create VFW-614 Related Links	
+  - [Link](creativedesigns840.gumroad.com/l/vhgjs)
+  - [Link](creativedesigns840.gumroad.com/l/opuffl)
+  - [Link](creativedesigns840.gumroad.com/l/mdelm)
+  - [Link](creativedesigns840.gumroad.com/l/zmqne)
+  - [Link](creativedesigns840.gumroad.com/l/vnkwpu)	
+- 12/22/25 Create T-tail VFW-614 Related Links	
+  - [Link](creativedesigns840.gumroad.com/l/uzqwq)
+  - [Link](creativedesigns840.gumroad.com/l/yvfghp)
+  - [Link](creativedesigns840.gumroad.com/l/azlovi)
+  - [Link](creativedesigns840.gumroad.com/l/wqbjl)
+  - [Link](creativedesigns840.gumroad.com/l/xohlc)
+- 12/21/25 Create RAF VC10 C.1 Related Links
+  - [Link](creativedesigns840.gumroad.com/l/wnqjrqz)
+  - [Link](creativedesigns840.gumroad.com/l/vphyu)
+  - [Link](creativedesigns840.gumroad.com/l/nzmnhf)
+  - [Link](creativedesigns840.gumroad.com/l/fmlvd)
+  - [Link](creativedesigns840.gumroad.com/l/fmsbu)
+- 12/21/25 Create BOAC VC10 Related Links
+  - [Link](creativedesigns840.gumroad.com/l/tnqib)
+  - [Link](creativedesigns840.gumroad.com/l/qanrh)
+  - [Link](creativedesigns840.gumroad.com/l/dcsrsm)
+  - [Link](creativedesigns840.gumroad.com/l/wlqsgc)
+- 12/21/25 Create G-ARTA VC10 Related Links
+  - [Link](creativedesigns840.gumroad.com/l/wsgzr)
+  - [Link](creativedesigns840.gumroad.com/l/sydrxb)
+  - [Link](creativedesigns840.gumroad.com/l/ajjdl)
+  - [Link](creativedesigns840.gumroad.com/l/tlgoz)
+  - [Link](creativedesigns840.gumroad.com/l/aoqfn)
+- 12/21/25 Create VC10 SP Related Links
+  - [Link](creativedesigns840.gumroad.com/l/kycfbn)
+  - [Link](creativedesigns840.gumroad.com/l/xgdolt)
+  - [Link](creativedesigns840.gumroad.com/l/ouprfw)
+  - [Link](creativedesigns840.gumroad.com/l/qmuprk)	
+  - [Link](creativedesigns840.gumroad.com/l/xpdbcq)
+- 12/21/25 Create Super VC10 Related Links
+  - [Link](creativedesigns840.gumroad.com/l/zdpwic)
+  - [Link](creativedesigns840.gumroad.com/l/oopquw)
+  - [Link](creativedesigns840.gumroad.com/l/rddha)
+  - [Link](creativedesigns840.gumroad.com/l/oszkpr)
+  - [Link](creativedesigns840.gumroad.com/l/nhzxmz)
+- 12/20/25 Create Tu-134 Classic Bundle
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134A5-Tu-134A2.html)
+- 12/20/25 Create Tu-134 Modernized Bundle
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134B-Tu-134M.html)
+- 12/20/25 Create Tu-134 All Series Bundle
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134.html)
 - 12/19/25 Create Tu-134M-90 variant product site
   - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-Tu-134M.html)
 - 12/19/25 Create Tu-134UBL variant product site
@@ -55,17 +108,33 @@ the order is from latest updates to the oldest updates (MM/DD/YY)
 - 12/17/25 Create VC10 product sites
   - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-vc10.html)
 - 12/17/25 R-2130 Taken down sites now fixed the Gumroad linking-links
-  - [Link](https://creativedesigns840.gumroad.com/l/feelm)
-- 12/17/25 N-2130 Taken down sites now fixed the Gumroad linking-links
-  - [Link](https://creativedesigns840.gumroad.com/l/vjrvgu)
-- 12/17/25 Dassault Mercure's Taken down sites now fixed the Gumroad linking-links
-  - [Link](https://creativedesigns840.gumroad.com/l/shlgju)
-- 12/16/25 PTDI R-2130 RegioJet Product Technical Sites taken down for service
+  - [Link](https://creativedesigns840.gumroad.com/l/ljggzr)
+  - [Link](https://creativedesigns840.gumroad.com/l/pxbkin)
+  - [Link](https://creativedesigns840.gumroad.com/l/mwgypn)
   - [Link](https://creativedesigns840.gumroad.com/l/xqlwjo)
-- 12/16/25 IPTN N-2130 Product Technical Sites taken down for service
+  - [Link](https://creativedesigns840.gumroad.com/l/feelm)
+  - [Link](https://creativedesigns840.gumroad.com/l/mjlsq)
+  - [Link](https://creativedesigns840.gumroad.com/l/owhkvz)
+- 12/17/25 N-2130 Taken down sites now fixed the Gumroad linking-links
+  - [Link](https://creativedesigns840.gumroad.com/l/jcjswy)
+  - [Link](https://creativedesigns840.gumroad.com/l/amivn)
+  - [Link](https://creativedesigns840.gumroad.com/l/aqaqb)
+  - [Link](https://creativedesigns840.gumroad.com/l/vjrvgu)
   - [Link](https://creativedesigns840.gumroad.com/l/iegmetk)
-- 12/16/25 Dassault Mercure Product Technical Sites taken down for service
+  - [Link](https://creativedesigns840.gumroad.com/l/dkhnv)
+  - [Link](https://creativedesigns840.gumroad.com/l/fmlrhi)
+- 12/17/25 Dassault Mercure's Taken down sites now fixed the Gumroad linking-links
+  - [Link](https://creativedesigns840.gumroad.com/l/atkoi)
   - [Link](https://creativedesigns840.gumroad.com/l/zrjgpy)
+  - [Link](https://creativedesigns840.gumroad.com/l/shlgju)
+  - [Link](https://creativedesigns840.gumroad.com/l/mjsva)
+  - [Link](https://creativedesigns840.gumroad.com/l/stast)
+- 12/16/25 PTDI R-2130 RegioJet Product Technical Sites taken down for service
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
+- 12/16/25 IPTN N-2130 Product Technical Sites taken down for service
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
+- 12/16/25 Dassault Mercure Product Technical Sites taken down for service
+  - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
 - 12/15/25 Create VFW-614 Bundles sites
   - [Link](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-VFW614.html)
 - 12/15/25 Create VFW-614 ATTAS bundle sites
