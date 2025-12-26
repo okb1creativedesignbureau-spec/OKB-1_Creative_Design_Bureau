@@ -16,7 +16,7 @@
 
 <link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
-# Tupolev Tu-134A series (A-5) and (A-2) Bundle Packs
+# Tupolev Tu-134A  Classic series (A-5) and (A-2) Bundle Packs
 
 The Tu-134A marked a significant improvement over earlier variants, addressing payload limitations and operational efficiency.
 
@@ -89,7 +89,7 @@ The Tu-134A2 (modified) represents a late-stage compromise configuration, retain
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-[Get Tu-134-A(A-5 + A-2) Bundle 3D Printing Pack Here for €15](creativedesigns840.gumroad.com/l/kfdtp)
+[Get Tu-134 Classic Bundle 3D Printing Pack Here for €15](creativedesigns840.gumroad.com/l/kfdtp)
 
 Includes:
 
@@ -105,7 +105,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Tu-134-A(A-5 + A-2) Bundle RC Maker Pack Here for €23](creativedesigns840.gumroad.com/l/lqepuc)
+[Get Tu-134 Classic Bundle RC Maker Pack Here for €23](creativedesigns840.gumroad.com/l/lqepuc)
 
 Includes:
 
@@ -119,7 +119,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-[Get Tu-134-A(A-5 + A-2) Bundle Engineering CAD Pack Here for €30](creativedesigns840.gumroad.com/l/cwvxbd)
+[Get Tu-134 Classic Bundle Engineering CAD Pack Here for €30](creativedesigns840.gumroad.com/l/cwvxbd)
 
 Includes:
 
@@ -142,7 +142,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Tu-134-A(A-5 + A-2) Bundle Merchandise Art Pack Here for €10](creativedesigns840.gumroad.com/l/nmnjhw)
+[Get Tu-134 Classic Bundle Merchandise Art Pack Here for €10](creativedesigns840.gumroad.com/l/nmnjhw)
 
 Includes:
 
@@ -162,7 +162,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Tu-134-A(A-5 + A-2) Bundle Blender Artist Pack Here for €15](creativedesigns840.gumroad.com/l/hlbhdk)
+[Get Tu-134 Classic Bundle Blender Artist Pack Here for €15](creativedesigns840.gumroad.com/l/hlbhdk)
 
 Includes:
 
