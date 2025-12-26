@@ -52,6 +52,8 @@ This variant reflects operational realities of early Soviet jet transport, where
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
+[Get Tu-134A-5 3D Printing Pack Here for ](creativedesigns840.gumroad.com/l/bylld)
+
 Includes:
 
 - High-resolution STL of the aircraft
@@ -66,6 +68,8 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
+[Get Tu-134A-5 RC Maker Pack Here for ](creativedesigns840.gumroad.com/l/ugywgf)
+
 Includes:
 
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
@@ -77,6 +81,8 @@ Includes:
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
+
+[Get Tu-134A-5 Engineering CAD Pack Here for ](creativedesigns840.gumroad.com/l/ttoxxu)
 
 Includes:
 
@@ -99,6 +105,8 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
+[Get Tu-134A-5 Merchandise Art Pack Here for ](creativedesigns840.gumroad.com/l/lmsus)
+
 Includes:
 
 Clean line-art views:
@@ -116,6 +124,8 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
+[Get Tu-134A-5 Blender Artist Pack Here for ](creativedesigns840.gumroad.com/l/nermv)
 
 Includes:
 
