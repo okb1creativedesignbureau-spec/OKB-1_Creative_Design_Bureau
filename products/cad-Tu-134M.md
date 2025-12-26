@@ -18,7 +18,7 @@
 
 # Tu-134M (What-If Post-Soviet Modernization)
 
-The Tu-134M is a conceptual, never-built modernization exploring how the Tu-134 might have evolved in the post-Soviet era.
+The Tu-134M or sometimes called as Tu-134M-90 is a conceptual 1990s, never-built modernization exploring how the Tu-134 might have evolved in the post-Soviet era.
 
 **Conceptual Changes**
 
