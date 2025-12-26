@@ -50,6 +50,8 @@ The UBL demonstrates the Tu-134’s adaptability beyond civil transport, serving
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
+Tu-134UBL Pack A — 3D Printing Pack (STL + 3MF Only)					creativedesigns840.gumroad.com/l/igkhuq
+
 Includes:
 
 - High-resolution STL of the aircraft
@@ -64,6 +66,8 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
+Tu-134UBL Pack B — RC Maker Pack (DXF + 3MF)						creativedesigns840.gumroad.com/l/jdnjud
+
 Includes:
 
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
@@ -75,6 +79,8 @@ Includes:
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
+
+Tu-134UBL Pack C — Engineering Pack (CAD Only)						creativedesigns840.gumroad.com/l/aqdmwi
 
 Includes:
 
@@ -97,6 +103,8 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
+Tu-134UBL Pack D — Merchandise Art Pack (DXF + PDF + DWG)				creativedesigns840.gumroad.com/l/bzbvk
+
 Includes:
 
 Clean line-art views:
@@ -114,6 +122,8 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
+Tu-134UBL Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)			creativedesigns840.gumroad.com/l/eakswy
 
 Includes:
 
