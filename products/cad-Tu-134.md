@@ -216,7 +216,7 @@ This variant reflects operational realities of early Soviet jet transport, where
 
 ---
 
-# Tu-134A2 (Modified)
+# Tu-134A-2 (Modified)
 
 (Late Navigator Variant)
 The Tu-134A2 (modified) represents a late-stage compromise configuration, retaining a navigator’s position while reducing the size and prominence of the nose blister.
@@ -240,7 +240,7 @@ This variant illustrates the gradual shift away from classical navigation practi
 
 ---
 
-# Tu-134B3 (Final Production Standard)
+# Tu-134B-3 (Final Production Standard)
 
 The Tu-134B3 represents the final and most refined production form of the Tu-134.
 
