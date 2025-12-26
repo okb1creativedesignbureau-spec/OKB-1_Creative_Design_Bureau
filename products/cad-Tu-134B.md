@@ -52,7 +52,7 @@ This variant marks the Tu-134’s transition toward internationally familiar coc
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-[Get Tu-134B-3 3D Printing Pack Here for ](creativedesigns840.gumroad.com/l/zijftd)
+[Get Tu-134B-3 3D Printing Pack Here for €10](creativedesigns840.gumroad.com/l/zijftd)
 
 Includes:
 
@@ -68,7 +68,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Tu-134B-3 RC Maker Pack Here for ](creativedesigns840.gumroad.com/l/rgiodv)
+[Get Tu-134B-3 RC Maker Pack Here for €15](creativedesigns840.gumroad.com/l/rgiodv)
 
 Includes:
 
@@ -82,7 +82,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-[Get Tu-134B-3 Engineering Pack Here for ](creativedesigns840.gumroad.com/l/avlym)
+[Get Tu-134B-3 Engineering Pack Here for €20](creativedesigns840.gumroad.com/l/avlym)
 
 Includes:
 
@@ -105,7 +105,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Tu-134B-3 Merchandise Art Pack Here for ](creativedesigns840.gumroad.com/l/ecuzwy)
+[Get Tu-134B-3 Merchandise Art Pack Here for €7](creativedesigns840.gumroad.com/l/ecuzwy)
 
 Includes:
 
@@ -125,7 +125,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Tu-134B-3 Blender Artist Pack Here for ](creativedesigns840.gumroad.com/l/gscet)
+[Get Tu-134B-3 Blender Artist Pack Here for €9](creativedesigns840.gumroad.com/l/gscet)
 
 Includes:
 
