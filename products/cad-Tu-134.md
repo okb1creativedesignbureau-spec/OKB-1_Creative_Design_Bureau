@@ -56,7 +56,7 @@ Each variant is documented on its own subpage, preserving configuration-specific
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-[Get Tu-134 All Series Bundle 3D Printing Pack Here for ](creativedesigns840.gumroad.com/l/xjots)
+[Get Tu-134 All Series Bundle 3D Printing Pack Here for €40](creativedesigns840.gumroad.com/l/xjots)
 
 Includes:
 
@@ -72,7 +72,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Tu-134 All Series Bundle RC Maker Pack Here for ](creativedesigns840.gumroad.com/l/lvwdab)
+[Get Tu-134 All Series Bundle RC Maker Pack Here for €60](creativedesigns840.gumroad.com/l/lvwdab)
 
 Includes:
 
@@ -86,7 +86,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-[Get Tu-134 All Series Bundle Engineering CAD Pack Here for ](creativedesigns840.gumroad.com/l/oxdokm)
+[Get Tu-134 All Series Bundle Engineering CAD Pack Here for €80](creativedesigns840.gumroad.com/l/oxdokm)
 
 Includes:
 
@@ -109,7 +109,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Tu-134 All Series Bundle Merchandise Art Pack Here for ](creativedesigns840.gumroad.com/l/vgfkaa)
+[Get Tu-134 All Series Bundle Merchandise Art Pack Here for €30](creativedesigns840.gumroad.com/l/vgfkaa)
 
 Includes:
 
@@ -129,7 +129,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Tu-134 All Series Bundle Blender Artist Pack Here for ](creativedesigns840.gumroad.com/l/jzbwvu)
+[Get Tu-134 All Series Bundle Blender Artist Pack Here for €35](creativedesigns840.gumroad.com/l/jzbwvu)
 
 Includes:
 
