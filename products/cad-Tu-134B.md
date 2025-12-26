@@ -16,7 +16,7 @@
 
 <link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
-# Tu-134B3 (Final Production Standard)
+# Tu-134B-3 (Final Production Standard)
 
 The Tu-134B3 represents the final and most refined production form of the Tu-134.
 
