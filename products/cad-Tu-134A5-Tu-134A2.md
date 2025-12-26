@@ -89,6 +89,8 @@ The Tu-134A2 (modified) represents a late-stage compromise configuration, retain
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
+[Get Tu-134-A(A-5 + A-2) Bundle 3D Printing Pack Here for €15](creativedesigns840.gumroad.com/l/kfdtp)
+
 Includes:
 
 - High-resolution STL of the aircraft
@@ -103,6 +105,8 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
+[Get Tu-134-A(A-5 + A-2) Bundle RC Maker Pack Here for €23](creativedesigns840.gumroad.com/l/lqepuc)
+
 Includes:
 
 - Full DXF cross-section slices (wing + fuselage) for laser cutting
@@ -114,6 +118,8 @@ Includes:
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
+
+[Get Tu-134-A(A-5 + A-2) Bundle Engineering CAD Pack Here for €30](creativedesigns840.gumroad.com/l/cwvxbd)
 
 Includes:
 
@@ -136,6 +142,8 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
+[Get Tu-134-A(A-5 + A-2) Bundle Merchandise Art Pack Here for €10](creativedesigns840.gumroad.com/l/nmnjhw)
+
 Includes:
 
 Clean line-art views:
@@ -153,6 +161,8 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
+[Get Tu-134-A(A-5 + A-2) Bundle Blender Artist Pack Here for €15](creativedesigns840.gumroad.com/l/hlbhdk)
 
 Includes:
 
