@@ -50,7 +50,7 @@ The Tu-134B3 represents the final and most refined production form of the Tu-134
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134B3 3D.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -73,7 +73,7 @@ The Tu-134M is a conceptual, never-built modernization exploring how the Tu-134 
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M SW.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -86,8 +86,6 @@ The Tu-134M is a conceptual, never-built modernization exploring how the Tu-134 
 - Replacement of original engines with PS-90 turbofans
 - Improved fuel efficiency and noise compliance
 - Retention of Tu-134 family aerodynamic identity
-
-
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
@@ -110,7 +108,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134B3 3D.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -121,7 +119,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M 3D.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -147,7 +145,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134B3 RC.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -158,11 +156,12 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M RC.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
 </p>
+
 ## Pack C — Engineering Pack (CAD Only)
 
 [Get Tu-134 Modern Bundle Engineering CAD Pack Here for €30](creativedesigns840.gumroad.com/l/hoyxyw)
@@ -191,7 +190,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134B3 SW.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -202,7 +201,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M SW.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -228,13 +227,12 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
-
 <p>
     <br>
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134B3 DXF.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -245,7 +243,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M DXF.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -277,7 +275,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134B3 OBJ.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -288,11 +286,12 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M OBJ.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
 </p>
+
 ## Ultimate Pack
 Includes EVERYTHING in Packs A–E
 
