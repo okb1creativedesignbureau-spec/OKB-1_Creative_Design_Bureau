@@ -70,6 +70,17 @@ Includes:
 
 Perfect for: Collectors · Modelers · 3D printer hobbyists
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 [Get Tu-134 All Series Bundle RC Maker Pack Here for €60](creativedesigns840.gumroad.com/l/lvwdab)
@@ -85,6 +96,17 @@ Includes:
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
 
 [Get Tu-134 All Series Bundle Engineering CAD Pack Here for €80](creativedesigns840.gumroad.com/l/oxdokm)
 
@@ -107,6 +129,17 @@ Engineering-grade geometry
 
 Perfect for: Engineers · Students · Aerospace researchers
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
 [Get Tu-134 All Series Bundle Merchandise Art Pack Here for €30](creativedesigns840.gumroad.com/l/vgfkaa)
@@ -126,6 +159,17 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 - Classroom material
 
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
@@ -148,6 +192,17 @@ Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or
 
 Perfect for: Blender users · Render artists · Hard-surface kitbashers
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
 ## All Series Ultimate Pack
 Includes EVERYTHING in Packs A–E
 
@@ -156,7 +211,6 @@ Includes EVERYTHING in Packs A–E
 - STEP 214 + IGES + CGR Engineering model
 - DXF + PDF + DWG Merch Poster
 - OBJ + STEP + 3MF + GLB + GLTF Render Artist
-
 
 ## What You Can Do With These Packs
 Depending on the pack you choose, you can:
