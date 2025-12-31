@@ -50,7 +50,7 @@ The Tu-134A5 represents the first mature production configuration entering wides
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A2 3D.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -71,7 +71,7 @@ The Tu-134A5 represents the first mature production configuration entering wides
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A5 SW.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -108,7 +108,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A2 3D2.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -119,7 +119,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A5 3D.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -144,7 +144,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A2 RC.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -155,7 +155,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A5 RC.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -189,7 +189,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A2 SW.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -200,7 +200,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A5 SW.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -231,7 +231,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A2 DXF.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -242,7 +242,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A2 DXF.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -274,7 +274,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A2 OBJ.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -285,7 +285,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134A5 OBJ.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
