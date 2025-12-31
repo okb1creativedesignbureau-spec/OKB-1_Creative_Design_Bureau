@@ -103,6 +103,28 @@ Includes:
 
 Perfect for: Collectors · Modelers · 3D printer hobbyists
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 [Get Tu-134 Classic Bundle RC Maker Pack Here for €23](creativedesigns840.gumroad.com/l/lqepuc)
@@ -116,6 +138,28 @@ Includes:
 - 3MF file for RC layout reference
 
 Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
 
 ## Pack C — Engineering Pack (CAD Only)
 
@@ -140,6 +184,28 @@ Engineering-grade geometry
 
 Perfect for: Engineers · Students · Aerospace researchers
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
 [Get Tu-134 Classic Bundle Merchandise Art Pack Here for €10](creativedesigns840.gumroad.com/l/nmnjhw)
@@ -159,6 +225,28 @@ PDF in both modern black-over-white diagram as well as negative-white-over-black
 - Classroom material
 
 Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
@@ -180,6 +268,28 @@ Ready to import into:
 Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting. 
 
 Perfect for: Blender users · Render artists · Hard-surface kitbashers
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/VC10_img/1106_DXF.jpg" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
 
 ## Ultimate Pack
 Includes EVERYTHING in Packs A–E
