@@ -43,7 +43,7 @@ This variant applies modern engineering logic to a legacy airframe, balancing re
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M SW.webp" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Tu-134/Tu-134M OBJ.webp" 
     alt="VC-10 DXF"
     width="750">
     </center>
