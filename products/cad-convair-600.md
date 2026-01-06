@@ -211,6 +211,20 @@ This product line is divided into clear “factory-floor” production tiers for
 
 ## Also Available Other Packs and Variants of the Convair 880 and 990 Coronado Jetliner Series
 
+Main Variants:
+
+- [Convair 600](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-600.html)
+- [Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880.html)
+- [Convair 900](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900.html)
+
+Proposed and Exploratory Operational Variants:
+
+- [Convair 880 Short-Fuselage (Hot-and-High Variant)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880SP.html)
+- [Convair 880 Long-Fuselage (CFM56) — (High-Capacity Modernized Variant)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880ER.html)
+- [Convair 990 Long-Fuselage (CFM56) — (Subsonic Optimized)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900ER.html)
+- [Convair Convair 990 Research Variant (NASA-Owned, Semi-Historical)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900NASA.html)
+- [Convair 990 Short Variants (Turbojet) — (Exploratory Geometry Studies)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900SP.html)
+- [Convair 990 Long Variants (Turbojet) — (Exploratory Geometry Studies)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900LB.html)
 
 Premium Bundle:
 []
