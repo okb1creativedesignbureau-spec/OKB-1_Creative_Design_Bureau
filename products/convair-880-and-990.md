@@ -42,6 +42,8 @@ All models are built as engineering-grade CAD geometry, with clear distinction b
 
 **Convair 600 (Pre-880 Paper Concept)** The Convair 600 represents an early conceptual stage in the development of what would later become the Convair 880. This configuration reflects paper-stage assumptions, prior to detailed systems integration and certification-driven design changes.
 
+[Main Article: Convair 600](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-600.html)
+
 Defining Characteristics:
 
 - Baseline narrowbody fuselage concept
@@ -58,6 +60,8 @@ This model intentionally excludes later operational features, capturing the airc
 
 **Convair 880 (Production Standard)** The Convair 880 entered service as a single, tightly defined configuration, optimized for high subsonic cruise speed. 
 
+[Main Article: Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880.html)
+
 - Narrowbody fuselage with fixed length
 - Swept wing optimized for Mach ~0.82–0.85
 - Four underwing turbojet engines
@@ -66,6 +70,8 @@ This model intentionally excludes later operational features, capturing the airc
 This variant serves as the baseline reference geometry for all subsequent derivative studies in the repository.
 
 **Convair 990 (Production Standard)**
+
+[Main Article: Convair 990](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900.html)
 
 - The Convair 990 Coronado extended the 880 concept with additional aerodynamic refinement.
 - Modified wing incorporating anti-shock bodies
@@ -81,6 +87,8 @@ These variants explore how the Convair 880 platform might have been adapted for 
 
 **880 Short-Fuselage (Hot-and-High Variant)** A shortened Convair 880 optimized for hot-and-high airport operations. 
 
+[Main Article: Convair 880SP](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880SP.html)
+
 Configuration Changes:
 
 - Fuselage shortened by 2 m total
@@ -93,6 +101,8 @@ Configuration Changes:
 This variant prioritizes field performance over capacity, using fuselage reduction rather than wing or engine changes.
 
 **880 Long-Fuselage (CFM56) — (High-Capacity Modernized Variant)** A significantly stretched Convair 880 exploring post-1970s modernization concepts.
+
+[Main Article: Convair 880ER](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880ER.html)
 
 Structural Changes: 
 
@@ -110,7 +120,9 @@ Forward fuselage stretch used to:
 - Shift CG forward, following logic similar to the 737 Classic / CFM56 integration
 - This variant studies the feasibility of re-engining and stretching a speed-focused airframe for later economic realities.
 
-**990 Long-Fuselage (Subsonic Optimized)** A stretched Convair 990 optimized for Mach 0.8 cruise, abandoning the original transonic design emphasis.
+**Convair 990 Long-Fuselage (CFM56) — (Subsonic Optimized)** A stretched Convair 990 optimized for Mach 0.8 cruise, abandoning the original transonic design emphasis.
+
+[Main Article: Convair 990 ER](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900ER.html)
 
 Key Changes:
 
@@ -118,9 +130,13 @@ Key Changes:
 - Removal of anti-shock bodies
 - Wing optimized for lower cruise Mach
 - Simplified aerodynamic configuration
+- Replacement of original turbojets with CFM56-2
+
 This variant reframes the 990 as a capacity-focused aircraft rather than a transonic specialist.
 
-**990 Research Variant (NASA-Owned, Semi-Historical)** An exploratory Convair 990 variant configured for research purposes.
+**Convair 990 Research Variant (NASA-Owned, Semi-Historical)** An exploratory Convair 990 variant configured for research purposes.
+
+[Main Article: Convair 990 NASA](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900NASA.html)
 
 Characteristics:
 
@@ -131,12 +147,14 @@ Characteristics:
 
 This configuration exists as a plausible research airframe, suitable for aerodynamic, stability, or propulsion studies.
 
-**990 Short and Long Variants (Turbojet) — (Exploratory Geometry Studies)** Two additional Convair 990 configurations exploring fuselage length variation while retaining original turbojet propulsion.
+**Convair 990 Short and Long Variants (Turbojet) — (Exploratory Geometry Studies)** Two additional Convair 990 configurations exploring fuselage length variation while retaining original turbojet propulsion.
 
 Configurations
 
 - Shortened 990: −2 m fuselage
+  - [Main Aerticle: Convair 990SP](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900SP.html)
 - Lengthened 990: +2 m fuselage
+  - [Main Article: Convair 990LB](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900LB.html)
 
 Characteristics:
 
@@ -175,3 +193,15 @@ This project is intended for:
 - Aviation historians and enthusiasts
 
 This is not a visual mesh pack. The emphasis is on engineering geometry, design trade-offs, and configuration evolution.
+
+## See Also Different Aircraft of the Era
+
+- [Dassault Mercure](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+- [Vickers VC10](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+- [VFW-614](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
+- [Tu-134](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
+
+## Back to Home
+
+- [Back to Aircraft Products Index](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/)
+- [Back to Main Home All Products Index](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/aircraft-index.html)
