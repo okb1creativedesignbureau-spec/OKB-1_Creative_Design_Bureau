@@ -112,7 +112,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 3D STL.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 C.png" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -175,7 +175,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 3D STL.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 E.png" 
     alt="VC-10 DXF"
     width="750">
     </center>
