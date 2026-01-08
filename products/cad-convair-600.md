@@ -78,7 +78,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 3D STL.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 B.png" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -143,7 +143,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 3D STL.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/600 D.png" 
     alt="VC-10 DXF"
     width="750">
     </center>
