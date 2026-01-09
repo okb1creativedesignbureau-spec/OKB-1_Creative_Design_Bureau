@@ -35,7 +35,7 @@ This model intentionally excludes later operational features, capturing the airc
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-[Get Convair 600 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/jpens)
+[Get Convair 880 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/jpens)
 
 Includes:
 
@@ -62,7 +62,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair 600 RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/toavxhv)
+[Get Convair 880 RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/toavxhv)
 
 Includes:
 
@@ -87,7 +87,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-[Get Convair 600 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/jcvftm)
+[Get Convair 880 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/jcvftm)
 
 Includes:
 
@@ -121,7 +121,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 600 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/jvzlwl)
+[Get Convair 880 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/jvzlwl)
 
 Includes:
 
@@ -152,7 +152,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 600 — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/gatmo)
+[Get Convair 880 — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/gatmo)
 
 Includes:
 
