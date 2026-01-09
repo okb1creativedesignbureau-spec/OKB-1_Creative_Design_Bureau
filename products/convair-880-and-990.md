@@ -148,6 +148,7 @@ Characteristics:
 Bonus Aircraft:
 
 - Has a modified wingtip, inspired by Boeing 777's Racked Winglet
+- Transponder antenna reduced in size using modern equipment
 
 This configuration exists as a plausible research airframe, suitable for aerodynamic, stability, or propulsion studies.
 
