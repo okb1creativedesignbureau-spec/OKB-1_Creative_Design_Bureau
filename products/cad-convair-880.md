@@ -29,10 +29,6 @@ The Convair 880 entered service as a single, tightly defined configuration, opti
 
 This variant serves as the baseline reference geometry for all subsequent derivative studies in the repository.
 
-CAD Focus: 
-
-This model intentionally excludes later operational features, capturing the aircraft as it existed in concept documentation rather than production reality.
-
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
 [Get Convair 880 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/jpens)
