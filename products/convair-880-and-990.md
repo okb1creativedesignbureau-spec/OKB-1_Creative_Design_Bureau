@@ -85,7 +85,7 @@ This model represents the aircraft at its intended performance peak, prior to la
 
 These variants explore how the Convair 880 platform might have been adapted for different operational niches, using plausible engineering logic.
 
-**880 Short-Fuselage (Hot-and-High Variant)** A shortened Convair 880 optimized for hot-and-high airport operations. 
+**Convair 880 Short-Fuselage (Hot-and-High Variant)** A shortened Convair 880 optimized for hot-and-high airport operations. 
 
 [Main Article: Convair 880SP](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880SP.html)
 
@@ -100,7 +100,7 @@ Configuration Changes:
 
 This variant prioritizes field performance over capacity, using fuselage reduction rather than wing or engine changes.
 
-**880 Long-Fuselage (CFM56) — (High-Capacity Modernized Variant)** A significantly stretched Convair 880 exploring post-1970s modernization concepts.
+**Convair 880 Long-Fuselage (CFM56) — (High-Capacity Modernized Variant)** A significantly stretched Convair 880 exploring post-1970s modernization concepts.
 
 [Main Article: Convair 880ER](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880ER.html)
 
@@ -144,6 +144,10 @@ Characteristics:
 - Clean wing configuration
 - Retention of original fuselage length
 - Treated as a NASA-owned experimental aircraft
+
+Bonus Aircraft:
+
+- Has a modified wingtip, inspired by Boeing 777's Racked Winglet
 
 This configuration exists as a plausible research airframe, suitable for aerodynamic, stability, or propulsion studies.
 
