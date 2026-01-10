@@ -106,11 +106,21 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA C.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA C1.png" 
     alt="VC-10 DXF"
     width="750">
     </center>
-</p>>
+</p>
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA C2.png" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
@@ -136,7 +146,17 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA D.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA D1.png" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA D2.png" 
     alt="VC-10 DXF"
     width="750">
     </center>
@@ -168,7 +188,17 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA E.png" 
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA E2.png" 
+    alt="VC-10 DXF"
+    width="750">
+    </center>
+</p>
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/990 NACA E1.png" 
     alt="VC-10 DXF"
     width="750">
     </center>
