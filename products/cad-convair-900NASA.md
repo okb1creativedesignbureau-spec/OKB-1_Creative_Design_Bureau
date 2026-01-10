@@ -17,8 +17,7 @@
 <link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
 # Convair 990 Research Variant (NASA-Owned, Semi-Historical)
-Convair 990 Research Variant is an exploratory Convair 990 variant configured for research purposes. The design embodied the possibility of slower operational speed in Mach 0.8 or less, just like the more modern airliners are. Thus this design has many changes. some are anti-shock bodies removed
-- , Clean wing configuration, Retention of original fuselage length, Treated as a NASA-owned experimental aircraft
+Convair 990 Research Variant is an exploratory Convair 990 variant configured for research purposes. The design embodied the possibility of slower operational speed in Mach 0.8 or less, just like the more modern airliners are. Thus this design has many changes. some are anti-shock bodies removed, clean wing configuration, Retention of original fuselage length, Treated as a NASA-owned experimental aircraft
 
 This pack also come with bonus aircraft which has a further refinedment inspired by the later year fuel price incrase. Such modifications are has a modified wingtip, inspired by Boeing 777's Racked Winglet, then the transponder antenna reduced in size using modern equipment for aerodynamic and drag reduction purposes.
 
@@ -30,7 +29,7 @@ This model intentionally excludes historical operational features, capturing the
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-[Get Convair 990 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/sdfwr)
+[Get Convair 990 3D Printing Pack Here for $12](https://creativedesigns840.gumroad.com/l/sdfwr)
 
 Includes:
 
@@ -57,7 +56,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair 990 RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/xflmnq)
+[Get Convair 990 RC Maker Pack Here for $17](https://creativedesigns840.gumroad.com/l/xflmnq)
 
 Includes:
 
@@ -82,7 +81,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD Only)
 
-[Get Convair 990 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/fjkjp)
+[Get Convair 990 — Engineering CAD Pack Here for $22](https://creativedesigns840.gumroad.com/l/fjkjp)
 Includes:
 
 - Full STEP 214 file (solid bodies + surfaces)
@@ -115,7 +114,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 990 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/bdeio)
+[Get Convair 990 Merchandise Art Pack Here for $9](https://creativedesigns840.gumroad.com/l/bdeio)
 Includes:
 
 Clean line-art views:
@@ -145,7 +144,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/zkursl)
+[Get Convair 990 — Blender Artist Pack Here for $11](https://creativedesigns840.gumroad.com/l/zkursl)
 
 Includes:
 
