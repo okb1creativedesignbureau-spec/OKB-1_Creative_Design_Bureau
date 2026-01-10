@@ -6,6 +6,7 @@
   }
 }
 
+  
 /* Mobile: do nothing — keep hamburger working */
 @media (max-width: 767px) {
   header.site-header {
