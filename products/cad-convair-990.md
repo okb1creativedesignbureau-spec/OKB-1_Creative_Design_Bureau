@@ -26,9 +26,6 @@
 
 This model represents the aircraft at its intended performance peak, prior to later operational compromises.
 
-CAD Focus: 
-
-This model intentionally excludes later operational features, capturing the aircraft as it existed in concept documentation rather than production reality.
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
