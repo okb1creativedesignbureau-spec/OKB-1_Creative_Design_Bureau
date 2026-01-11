@@ -156,9 +156,9 @@ This configuration exists as a plausible research airframe, suitable for aerodyn
 
 Configurations
 
-- Shortened 990: −2 m fuselage
+- Shortened 990: −6 ft 6 in fuselage (reduction of 3 existing seat rows on each front and aft sections at 13" each)
   - [Main Aerticle: Convair 990SP](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900SP.html)
-- Lengthened 990: +2 m fuselage
+- Lengthened 990: +7 ft 3 in fuselage (additional 3 seat rows on each front and aft sections at 14.5" each)
   - [Main Article: Convair 990LB](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900LB.html)
 
 Characteristics:
