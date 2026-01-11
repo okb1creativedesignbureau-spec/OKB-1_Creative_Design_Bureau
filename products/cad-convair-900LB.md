@@ -34,7 +34,7 @@ The key characteristics of this exploratory design has original turbojet engines
 
 ## Pack A — 3D Printing Ready (STL + 3MF files)
 
-[Get Convair 990LB 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/jpens)
+[Get Convair 990LB 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/lbpkc)
 
 Includes:
 
@@ -61,7 +61,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair 990LB RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/toavxhv)
+[Get Convair 990LB RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/hhgqmw)
 
 Includes:
 
@@ -86,7 +86,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering CAD Ready (IGES + STEP214 + CGR)
 
-[Get Convair 990LB — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/jcvftm)
+[Get Convair 990LB — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/cujoj)
 
 Includes:
 
@@ -120,7 +120,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Printables (DXF + DWG + PDF)
 
-[Get Convair 990LB Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/jvzlwl)
+[Get Convair 990LB Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/qsvydn)
 
 Includes:
 
@@ -151,7 +151,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Ready (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990LB — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/gatmo)
+[Get Convair 990LB — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/wkmdz)
 
 Includes:
 
