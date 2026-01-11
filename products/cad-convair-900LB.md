@@ -16,19 +16,11 @@
 
 <link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
 
-# Convair 990 Short and Long Variants (Turbojet) — (Exploratory Geometry Studies)
-
-Exploratory Convair 990 configurations exploring fuselage length variation while retaining original turbojet propulsion.
-
-Shortened 990 Configurations with +87.28 inch fuselage from original length of 139 ft 9 in. This increase done by adding 3 assumed premium seat rows on each front and aft sections at 14.5" pitch seat each. Thus the increase of of 6 rows create an up to 180 passenger airliner, meant to compete both 707-320/420/320B as well as DC-8-10/20/30 and	-40/43/50/55 series. 
-
-The key characteristics of this exploratory design has original turbojet engines retained, minimal systems changes. These variants exist primarily to study mass distribution, stability, and aerodynamic sensitivity rather than operational feasibility. All done inside parametric CAD Methodology
-
 # Convair 990 Long Variants (Turbojet) — (Exploratory Geometry Studies)
 
 Exploratory Convair 990 configurations exploring fuselage length variation while retaining original turbojet propulsion.
 
-Shortened 990 Configurations with −78.74 inch fuselage from original length of 139 ft 9 in. This reduction done by removing 3 existing seat rows on each front and aft sections at 13" pitch seat each. Thus the reduction of 6 rows create an up to 120 passenger airliner, meant to replace the fuel guzzling predecessor, the Turbojet [Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880.html). 
+Shortened 990 Configurations with +87.28 inch fuselage from original length of 139 ft 9 in. This increase done by adding 3 assumed premium seat rows on each front and aft sections at 14.5" pitch seat each. Thus the increase of of 6 rows create an up to 180 passenger airliner, meant to compete both 707-320/420/320B as well as DC-8-10/20/30 and -40/43/50/55 series. 
 
 The key characteristics of this exploratory design has original turbojet engines retained, minimal systems changes. These variants exist primarily to study mass distribution, stability, and aerodynamic sensitivity rather than operational feasibility. All done inside parametric CAD Methodology
 
