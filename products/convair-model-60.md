@@ -24,7 +24,29 @@
 The **Convair Model 60** was a proposed **twin-engine narrow-body jet airliner**, developed internally during the late Convair / early General Dynamics era. Intended as a **smaller, more economical derivative of the Convair 880**, the Model 60 represents a rare **“what-if” scenario**:  
 **a Convair competitor to the Boeing 737-200 — if Convair had survived the jet airliner market.**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 Unlike mainstream designs, documentation of the Model 60 is extremely scarce. Most surviving references come from archived **three-view drawings** and niche aviation research communities. This makes the aircraft both **historically obscure** and **technically fascinating**.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -41,7 +63,29 @@ By the late 1960s, market pressure from Boeing and Douglas forced Convair to exp
 - A **twin-engine alternative** to reduce fuel burn and maintenance costs
 - A **direct response to the emerging 737-200 market**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 However, Convair’s **exit from commercial aviation** prevented the aircraft from reaching prototype or production.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (6).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -54,10 +98,32 @@ However, Convair’s **exit from commercial aviation** prevented the aircraft fr
 - Approximate total length: **~34 m (111.5 ft)**  
   *(Convair 880 baseline ≈ 39 m / 128 ft)*
 
+  <p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ### Cabin Layout
 
 - Retains **5-abreast seating (2+3)** — same as Convair 880  
-- Assumed **seat pitch: 33 in (0.838 m)**  
+- Assumed **seat pitch: 33 in (0.838 m)**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -71,10 +137,32 @@ With **~5 m (16.4 ft)** removed from fuselage length:
 | Seats per row | 5 |
 | Seat reduction | ~30–40 passengers |
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 **Estimated passenger capacity:**  
 **~90–110 passengers** *(depending on galley/lavatory layout)*
 
 This places it squarely in **737-200 class capacity**.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -86,7 +174,18 @@ The Model 60 retains the **Convair 880M wing and wingbox**, preserving high-spee
 
 - **Root airfoil:** NACA 64-0012  
 - **Tip airfoil:** NACA 64-0008  
-- **Span:** **36.58 m (120.0 ft)**  
+- **Span:** **36.58 m (120.0 ft)**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ### Implications
 
@@ -96,6 +195,17 @@ The Model 60 retains the **Convair 880M wing and wingbox**, preserving high-spee
 - Faster than early **737 variants**
 
 This makes the Model 60 a **speed-optimized narrow-body**, unlike most short-haul competitors.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -110,11 +220,33 @@ A defining feature of the Model 60 is its proposed use of the **CJ805 turbofan f
 | CJ805-23B | ~71 kN (16,000 lbf) | Real production variant |
 | CJ805-41C *(speculative)* ~74.73 kN (16,800 lbf) | Higher thrust | Improved efficiency concept |
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (7).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 The **CJ805-41C** can be interpreted as a **fictional or projected improved turbofan**, offering:
 
 - Better thrust-to-weight ratio  
 - Lower fuel consumption than early CJ805 variants  
 - Improved takeoff and climb performance  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -135,11 +267,33 @@ Assuming **2 × 71 kN engines**:
 | MTOW | 60.3 t |
 | **T/W ratio** | **~0.24** |
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 This is:
 
 - Competitive with early narrow-body jets  
 - Adequate for **short-to-medium runway performance**  
 - Strong for a **high-speed wing platform**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -181,6 +335,17 @@ A transitional step between:
 - Early turbojets  
 - Later high-bypass turbofans  
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 ## Operational Challenges If It Had Flown
@@ -203,6 +368,17 @@ Would have faced:
 - Later **Airbus A300 derivatives**
 
 Convair’s **weak airline sales network** would also limit adoption.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
