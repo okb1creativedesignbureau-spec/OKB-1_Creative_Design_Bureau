@@ -108,7 +108,7 @@ A defining feature of the Model 60 is its proposed use of the **CJ805 turbofan f
 | Engine | Thrust | Notes |
 |---|---|---|
 | CJ805-23B | ~71 kN (16,000 lbf) | Real production variant |
-| CJ805-41C *(speculative)* | Higher thrust | Improved efficiency concept |
+| CJ805-41C *(speculative)* ~74.73 kN (16,800 lbf) | Higher thrust | Improved efficiency concept |
 
 The **CJ805-41C** can be interpreted as a **fictional or projected improved turbofan**, offering:
 
