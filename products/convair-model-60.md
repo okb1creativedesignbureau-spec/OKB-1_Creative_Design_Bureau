@@ -98,7 +98,7 @@ However, Convair’s **exit from commercial aviation** prevented the aircraft fr
 - Approximate total length: **~34 m (111.5 ft)**  
   *(Convair 880 baseline ≈ 39 m / 128 ft)*
 
-  <p>
+<p>
     <br>
     <center>
   <img 
@@ -374,7 +374,7 @@ Convair’s **weak airline sales network** would also limit adoption.
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (5).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (3).png"  
     alt=" "
     width="450">
     </center>
