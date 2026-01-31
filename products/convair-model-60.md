@@ -365,7 +365,7 @@ Would have faced:
 
 - **Boeing 737-200**  
 - **Douglas DC-9**  
-- Later **Airbus A300 derivatives**
+- Later **Airbus A320 derivatives**
 
 Convair’s **weak airline sales network** would also limit adoption.
 
