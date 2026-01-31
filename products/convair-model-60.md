@@ -272,7 +272,7 @@ Assuming **2 × 71 kN engines**:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (4).png"  
     alt=" "
     width="450">
     </center>
