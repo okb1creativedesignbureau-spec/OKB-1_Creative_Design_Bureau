@@ -76,6 +76,7 @@ Includes:
 - Full STEP 214 file (solid bodies + surfaces)
 - Full IGES file (solid bodies + surfaces)
 - Full CATIA file (solid bodies + surfaces)
+- Full Parasolid Binary file (solid bodies + surfaces)
 
 Complete aircraft with precise NURBS lofts Suitable for:
 - SolidWorks
