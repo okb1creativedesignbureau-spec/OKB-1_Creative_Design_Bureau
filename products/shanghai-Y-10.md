@@ -22,7 +22,29 @@
 
 The **Shanghai Y-10** was China’s first serious attempt at building a domestically developed large commercial jet airliner. Developed in the 1970s by the Shanghai Aircraft Research Institute, the Y-10 represented a bold industrial leap during a time when China’s aerospace capabilities were still in their formative stage.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 C (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 Visually and structurally, the aircraft resembled the Boeing 707. This was not coincidental — China had operated imported 707s, and aspects of the Y-10’s configuration reflected reverse-engineering and adaptation to available industrial knowledge. The aircraft featured a four-engine layout, a narrow-body fuselage, and long-range capability consistent with jetliners of the 1960s era.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 C (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 The Y-10 completed its first flight in 1980 — a historic milestone. China had successfully built and flown a large jet airliner.
 
@@ -40,6 +62,17 @@ In an era with limited advanced manufacturing tools, limited global integration,
 
 It was ambitious. Oversized. Determined.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 E (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 It wasn’t just an airplane — it was a statement:
 
 > *We can build this ourselves.*
@@ -50,6 +83,16 @@ Technically imperfect? Yes.
 Economically questionable? Possibly.  
 Symbolically powerful? Absolutely.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 A (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 ---
 
 ## Why It Was So Chinese
@@ -62,6 +105,17 @@ It reflected:
 - Political prioritization of strategic industries  
 - Rapid mobilization of state resources  
 - A strong desire for technological independence  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 A (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 Unlike Western commercial jets driven primarily by airline demand and market economics, the Y-10 was driven by national vision and symbolic significance.
 
@@ -78,6 +132,17 @@ The tragedy of the Y-10 lies in timing.
 By the time it first flew in 1980, global aviation had already moved forward. Twin-engine aircraft were becoming more efficient. Fuel costs mattered more than ever. Certification and international competitiveness were increasingly complex.
 
 Meanwhile, China entered a new era of economic reform. Practicality began outweighing symbolic industrial projects.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 E (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 The Y-10, expensive and technologically dated compared to emerging global standards, no longer aligned with the country’s evolving direction.
 
@@ -99,6 +164,17 @@ It did not enter airline service.
 It did not reshape global markets.  
 It did not achieve export success.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 E (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 So it faded from mainstream memory.
 
 But forgotten does not mean insignificant.
@@ -107,7 +183,7 @@ The Y-10 was a bridge that was never fully crossed.
 
 ---
 
-## Why I Recreated It as a CAD Model — CNY 2026
+## Why I Recreated It as a CAD Model — Chinese New Year 2026
 
 In Chinese New Year 2026, I chose to recreate the Shanghai Y-10 as a full CAD model.
 
@@ -116,6 +192,17 @@ Not because it dominated the skies.
 But because it represented ambition without certainty.
 
 Rebuilding it digitally is a way to preserve a piece of engineering history that could easily vanish. A way to study its proportions, structure, and design philosophy. A way to give shape again to a project that once dared to imagine a different future.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 C (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 This CAD project is:
 
@@ -127,6 +214,17 @@ This CAD project is:
 The Y-10 may never have entered airline fleets.
 
 But in 2026 — in a digital workspace — it flies again.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/Y-10 assets/Y-10 E (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -144,4 +242,10 @@ It was an unfinished beginning.
 
 And sometimes, unfinished beginnings are the most important stories to preserve.
 
+- [Dassault Mercure](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+- [Vickers VC10](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+- [VFW-614](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
+- [Tu-134](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
+- [Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880.html)
+- [Convair 900](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-900.html)
 
