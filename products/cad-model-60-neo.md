@@ -63,7 +63,7 @@ Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to 
 
 This pack contain **10 aircrafts** for each IAE theme and CFM theme engine option, which for each length of each stretches.
 
-## Pack A — 3D Printing Pack (STL + 3MF Only)
+## Pack A — 3D Printing Pack (STL + 3MF)
 
 [Get Convair Model 60 Neo 3D Printing Pack Here for $20](https://creativedesigns840.gumroad.com/l/bqjjzo)
 
