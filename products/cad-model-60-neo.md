@@ -65,7 +65,7 @@ This pack contain **10 aircrafts** for each IAE theme and CFM theme engine optio
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-[Get Convair Model 60 Neo 3D Printing Pack Here for $20](https://creativedesigns840.gumroad.com/l/xgcunt)
+[Get Convair Model 60 Neo 3D Printing Pack Here for $20](https://creativedesigns840.gumroad.com/l/bqjjzo)
 
 Includes:
 
@@ -92,7 +92,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 60 RC Maker Pack Here for $25](https://creativedesigns840.gumroad.com/l/ivluu)
+[Get Convair Model 60 RC Maker Pack Here for $25](https://creativedesigns840.gumroad.com/l/crxdh)
 
 Includes:
 
@@ -108,7 +108,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD STEP + IGES + CGR + X_B)
 
-[Get Convair Model 60 Neo — Engineering CAD Pack Here for $30](https://creativedesigns840.gumroad.com/l/zjiky)
+[Get Convair Model 60 Neo — Engineering CAD Pack Here for $30](https://creativedesigns840.gumroad.com/l/ytfoko)
 
 Includes:
 
@@ -143,7 +143,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 60 Neo Merchandise Art Pack Here for $17](https://creativedesigns840.gumroad.com/l/quffjk)
+[Get Convair 60 Neo Merchandise Art Pack Here for $17](https://creativedesigns840.gumroad.com/l/dlzfl)
 
 Includes:
 
@@ -165,7 +165,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $19](https://creativedesigns840.gumroad.com/l/hkppw)
+[Get Convair 990 — Blender Artist Pack Here for $19](https://creativedesigns840.gumroad.com/l/nlsstg)
 
 Includes:
 
