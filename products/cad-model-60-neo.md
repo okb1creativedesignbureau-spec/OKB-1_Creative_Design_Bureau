@@ -143,7 +143,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 60 Neo Merchandise Art Pack Here for $17](https://creativedesigns840.gumroad.com/l/dlzfl)
+[Get Convair Model 60 Neo Merchandise Art Pack Here for $17](https://creativedesigns840.gumroad.com/l/dlzfl)
 
 Includes:
 
@@ -165,7 +165,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $19](https://creativedesigns840.gumroad.com/l/nlsstg)
+[Get Convair Model 60 Neo — Blender Artist Pack Here for $19](https://creativedesigns840.gumroad.com/l/nlsstg)
 
 Includes:
 
