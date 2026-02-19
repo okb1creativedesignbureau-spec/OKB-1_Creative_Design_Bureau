@@ -209,7 +209,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 
 
-## Pack C — Engineering Pack (CAD Only)
+## Pack C — Engineering Pack (CAD STEP + IGES + CGR + X_B)
 
 [Get Convair Model 60 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/zjiky)
 
@@ -218,6 +218,7 @@ Includes:
 - Full STEP 214 file (solid bodies + surfaces)
 - Full IGES file (solid bodies + surfaces)
 - Full CATIA file (solid bodies + surfaces)
+- Full Parasolid Binary X_B file (solid bodies + surfaces)
 
 Complete aircraft with precise NURBS lofts Suitable for:
 - SolidWorks
@@ -245,7 +246,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 990 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/quffjk)
+[Get Convair Model Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/quffjk)
 
 Includes:
 
@@ -267,7 +268,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/hkppw)
+[Get Convair Model 60 — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/hkppw)
 
 Includes:
 
