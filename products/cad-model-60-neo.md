@@ -20,6 +20,17 @@
 
 One of the most surprising insights from the CAD reconstruction is that the **Convair Model 60 inherits a wing originally designed for a four-engine airliner** — now repurposed for a **shorter, lighter twin-engine narrow-body**. In practice, this places the Model 60 in a similar long-term evolution path as **Boeing 737** (Original → Classic → NG → MAX) and **Airbus A320** (A320 → A321 stretch family)
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 # Second Generation — CFM56-3  
 ### *(737-300 / Early A320 Class)*
 
@@ -27,12 +38,34 @@ One of the most surprising insights from the CAD reconstruction is that the **Co
 **CFM56-3 (~90 kN)**  
 Key benefits of significantly improved fuel efficiency, lower engine noise, higher MTOW capability, extended range than its predecessor.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 # Third Generation — IAE V2500  
 ### *(A320 Market Response)*
 
 ### Engine Option
 **IAE V2500 (~100–110 kN)**
 Key benefits of lower fuel burn per seat, improved hot-and-high performance, longer operational range, higher MTOW margin  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 # CG & Nacelle Placement Adjustments from Original length
 
@@ -43,6 +76,17 @@ CG corrected via fuselage plugs:
  - **+2 m aft**
  - **+1 m forward**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 Resulting Aircraft Length **≈ 37.5 m**. This becomes a **direct competitor to the Boeing 737-300**, while retaining the **5-abreast comfort** with high-speed Convair wing characteristics
 
 # Additional fuselage stretch
@@ -52,12 +96,34 @@ Resulting Aircraft Length **≈ 37.5 m**. This becomes a **direct competitor to 
 
 Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to the Boeing 737-400** and **Airbus A320-200**, while retaining the **5-abreast comfort** with high-speed Convair wing characteristics
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 # Large Stretch — Entering 737-900 & A321 Territory
 
 | Step | Modification | Total Length |
 |---|---|---|
 | Phase 1 | +2 m forward +1 m aft | **~43.5 m** |
 | Phase 2 | +1 m forward +1 m aft | **~45.5 m** |
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 # What will you Get?
 
@@ -84,7 +150,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
     alt=" "
     width="450">
     </center>
@@ -135,7 +201,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
     alt=" "
     width="450">
     </center>
@@ -189,7 +255,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
     alt=" "
     width="450">
     </center>
