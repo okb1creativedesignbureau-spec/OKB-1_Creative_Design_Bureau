@@ -21,12 +21,34 @@
 
 One of the most surprising insights from the CAD reconstruction is that the **Convair Model 60 inherits a wing originally designed for a four-engine airliner** — now repurposed for a **shorter, lighter twin-engine narrow-body**.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 This creates a **structural and aerodynamic growth margin far beyond typical narrow-body aircraft of its era**.
 
 In practice, this places the Model 60 in a similar long-term evolution path as:
 
 - **Boeing 737** (Original → Classic → NG → MAX)
 - **Airbus A320** (A320 → A321 stretch family)
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 In other words:
 
@@ -45,6 +67,17 @@ The original CJ805 turbofan family provided adequate thrust, but suffered from:
 - Limited thrust growth margin  
 
 To expand payload, range, and fuselage length, the Model 60 must follow a propulsion evolution similar to Boeing and Airbus.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -98,6 +131,17 @@ This places the Model 60 in the **737-200 market class**, but with:
 # Second Generation — CFM56-3  
 ### *(737-300 / Early A320 Class)*
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ### Engine Upgrade
 **CFM56-3 (~90 kN)**  
 Key benefits:
@@ -106,6 +150,17 @@ Key benefits:
 - Lower noise  
 - Higher MTOW capability  
 - Extended range  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -123,6 +178,17 @@ The **Model 60 inherits Convair 880 landing gear geometry**, enabling:
 - **Higher ground clearance**
 - Cleaner airflow and lower drag
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 ## CG & Nacelle Placement Adjustments
@@ -135,6 +201,17 @@ To balance heavier modern engines:
   - **+2 m aft**
   - **+1 m forward**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 ## Resulting Aircraft Length
@@ -146,6 +223,17 @@ This becomes a **direct competitor to the Boeing 737-300**, while retaining:
 - **5-abreast comfort**
 - High-speed Convair wing characteristics
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 # Third Generation — IAE V2500  
@@ -156,12 +244,34 @@ With Airbus entering the narrow-body market, the Model 60 gains a second engine 
 ### Engine Option
 **IAE V2500 (~100–110 kN)**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ### Benefits
 
 - Lower fuel burn per seat  
 - Improved hot-and-high performance  
 - Longer operational range  
 - Higher MTOW margin  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 This mirrors Airbus’s dual-engine strategy:
 
@@ -178,6 +288,17 @@ This mirrors Airbus’s dual-engine strategy:
 - **+1 m forward plug**
 - **Total length: ≈ 40.5 m**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 ### Market Position
@@ -186,6 +307,17 @@ Competes with:
 
 - **Boeing 737-400**
 - **Airbus A320-200**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -208,6 +340,17 @@ Despite increased length:
 | Phase 1 | +2 m forward +1 m aft | **~43.5 m** |
 | Phase 2 | +1 m forward +1 m aft | **~45.5 m** |
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 ## Final Market Role
@@ -219,6 +362,17 @@ A **direct Airbus A321 competitor**, but with:
 - Higher cruise efficiency
 - Greater structural growth margin
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 # Structural & Aerodynamic Consequences of Stretching
@@ -229,6 +383,17 @@ Each stretch increases:
 - Fuel capacity  
 - Wing bending loads  
 - Structural reinforcement needs  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 However, because the wing originates from a **larger quad-jet**, it provides:
 
@@ -249,6 +414,17 @@ Increasing engine thrust enables:
 - Greater **fuel carriage**
 - More **passengers**
 - Longer **range**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -277,3 +453,10 @@ Had Convair survived, the Model 60 could realistically have evolved into:
 
 ---
 
+## See Also Different Aircraft of the Era
+
+- [Dassault Mercure](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+- [Vickers VC10](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+- [VFW-614](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
+- [Tu-134](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
+- [Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880.html)
