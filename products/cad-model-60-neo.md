@@ -43,7 +43,7 @@ Key benefits of significantly improved fuel efficiency, lower engine noise, high
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (5).png"  
     alt=" "
     width="450">
     </center>
@@ -61,7 +61,7 @@ Key benefits of lower fuel burn per seat, improved hot-and-high performance, lon
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (8).png"  
     alt=" "
     width="450">
     </center>
@@ -81,7 +81,7 @@ CG corrected via fuselage plugs:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (5).png"  
     alt=" "
     width="450">
     </center>
@@ -101,7 +101,7 @@ Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to 
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (7).png"  
     alt=" "
     width="450">
     </center>
@@ -119,7 +119,7 @@ Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to 
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (4).png"  
     alt=" "
     width="450">
     </center>
@@ -150,7 +150,18 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (5).png"  
     alt=" "
     width="450">
     </center>
@@ -201,7 +212,29 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (7).png"  
     alt=" "
     width="450">
     </center>
@@ -255,12 +288,55 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (6).png"  
     alt=" "
     width="450">
     </center>
 </p>
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ## Ultimate Pack
 
