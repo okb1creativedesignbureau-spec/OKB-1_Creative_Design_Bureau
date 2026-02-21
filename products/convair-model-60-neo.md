@@ -21,6 +21,8 @@
 
 One of the most surprising insights from the CAD reconstruction is that the **Convair Model 60 inherits a wing originally designed for a four-engine airliner** — now repurposed for a **shorter, lighter twin-engine narrow-body**.
 
+[Main Article — Model 60 NEO](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-model-60-neo.html)
+
 <p>
     <br>
     <center>
@@ -131,6 +133,8 @@ This places the Model 60 in the **737-200 market class**, but with:
 # Second Generation — CFM56-3  
 ### *(737-300 / Early A320 Class)*
 
+[Main Article — Model 60 NEO](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-model-60-neo.html)
+
 <p>
     <br>
     <center>
@@ -239,6 +243,8 @@ This becomes a **direct competitor to the Boeing 737-300**, while retaining:
 # Third Generation — IAE V2500  
 ### *(A320 Market Response)*
 
+[Main Article — Model 60 NEO](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-model-60-neo.html)
+
 With Airbus entering the narrow-body market, the Model 60 gains a second engine option:
 
 ### Engine Option
@@ -281,6 +287,8 @@ This mirrors Airbus’s dual-engine strategy:
 ---
 
 # Medium Stretch — Competing with 737-400 & A320
+
+[Main Article — Model 60 NEO](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-model-60-neo.html)
 
 ### Additional fuselage stretch
 
@@ -333,6 +341,8 @@ Despite increased length:
 
 # Large Stretch — Entering 737-900 & A321 Territory
 
+[Main Article — Model 60 NEO](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-model-60-neo.html)
+
 ## Stepwise Stretch Plan
 
 | Step | Modification | Total Length |
@@ -354,6 +364,8 @@ Despite increased length:
 ---
 
 ## Final Market Role
+
+[Main Article — Model 60 NEO](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-model-60-neo.html)
 
 A **direct Airbus A321 competitor**, but with:
 
