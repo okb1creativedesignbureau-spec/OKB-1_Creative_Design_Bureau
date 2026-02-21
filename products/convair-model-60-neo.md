@@ -44,7 +44,7 @@ In practice, this places the Model 60 in a similar long-term evolution path as:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (1).png"  
     alt=" "
     width="450">
     </center>
@@ -73,7 +73,7 @@ To expand payload, range, and fuselage length, the Model 60 must follow a propul
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (1).png"  
     alt=" "
     width="450">
     </center>
@@ -136,7 +136,7 @@ This places the Model 60 in the **737-200 market class**, but with:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (5).png"  
     alt=" "
     width="450">
     </center>
@@ -156,7 +156,7 @@ Key benefits:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (2).png"  
     alt=" "
     width="450">
     </center>
@@ -183,7 +183,7 @@ The **Model 60 inherits Convair 880 landing gear geometry**, enabling:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (5).png"  
     alt=" "
     width="450">
     </center>
@@ -206,7 +206,7 @@ To balance heavier modern engines:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (7).png"  
     alt=" "
     width="450">
     </center>
@@ -228,7 +228,7 @@ This becomes a **direct competitor to the Boeing 737-300**, while retaining:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (6).png"  
     alt=" "
     width="450">
     </center>
@@ -249,7 +249,7 @@ With Airbus entering the narrow-body market, the Model 60 gains a second engine 
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (8).png"  
     alt=" "
     width="450">
     </center>
@@ -267,7 +267,7 @@ With Airbus entering the narrow-body market, the Model 60 gains a second engine 
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (6).png"  
     alt=" "
     width="450">
     </center>
@@ -293,7 +293,7 @@ This mirrors Airbus’s dual-engine strategy:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (3).png"  
     alt=" "
     width="450">
     </center>
@@ -313,7 +313,7 @@ Competes with:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (4).png"  
     alt=" "
     width="450">
     </center>
@@ -345,7 +345,7 @@ Despite increased length:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (1).png"  
     alt=" "
     width="450">
     </center>
@@ -367,7 +367,7 @@ A **direct Airbus A321 competitor**, but with:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (3).png"  
     alt=" "
     width="450">
     </center>
@@ -389,7 +389,7 @@ Each stretch increases:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (2).png"  
     alt=" "
     width="450">
     </center>
@@ -420,7 +420,7 @@ Increasing engine thrust enables:
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (4).png"  
     alt=" "
     width="450">
     </center>
