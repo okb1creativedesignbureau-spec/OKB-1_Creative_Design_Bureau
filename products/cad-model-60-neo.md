@@ -49,6 +49,9 @@ Key benefits of significantly improved fuel efficiency, lower engine noise, high
     </center>
 </p>
 
+[See All Product Gallery Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-CFM-1.html)
+
+
 # Third Generation — IAE V2500  
 ### *(A320 Market Response)*
 
@@ -111,8 +114,8 @@ Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to 
 
 | Step | Modification | Total Length |
 |---|---|---|
-| Phase 1 | +2 m forward +1 m aft | **~43.5 m** |
-| Phase 2 | +1 m forward +1 m aft | **~45.5 m** |
+| Phase 3 | +2 m forward +1 m aft | **~43.5 m** |
+| Phase 4 | +1 m forward +1 m aft | **~45.5 m** |
 
 <p>
     <br>
@@ -124,6 +127,20 @@ Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to 
     width="450">
     </center>
 </p>
+
+### Inspired by *(737-500 Class / a318 Concept)*
+
+Instead of the aircraft extended fuselage section as the previously 737-300 class inspired, this model retain the original length of the Convair Model 60. This Model 60 simply put an engine swapped into CFM-56 or IAE V2500 based power plant as the engine option to replace the original CJ805 engine installed of the previous generation.
+
+# All Family Stretch
+
+| Step | Modification | Total Length | All Gallery |
+|---|---|---| --- |
+| Phase 0 | +0 m forward +0 m aft | **~34.5 m** |  |
+| Phase 1 | +1 m forward +2 m aft | **~37.5 m** |  |
+| Phase 2 | +2 m forward +1 m aft | **~40.5 m** |  |
+| Phase 3 | +2 m forward +1 m aft | **~43.5 m** |  |
+| Phase 4 | +1 m forward +1 m aft | **~45.5 m** |  |
 
 # What will you Get?
 
