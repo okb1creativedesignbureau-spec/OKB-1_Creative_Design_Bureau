@@ -49,7 +49,7 @@ Key benefits of significantly improved fuel efficiency, lower engine noise, high
     </center>
 </p>
 
-[See All Product Gallery Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-CFM-1.html)
+[See the Product Gallery Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-CFM-2.html)
 
 
 # Third Generation — IAE V2500  
@@ -69,6 +69,8 @@ Key benefits of lower fuel burn per seat, improved hot-and-high performance, lon
     width="450">
     </center>
 </p>
+
+[See the Product Gallery Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-IAE-2.html)
 
 # CG & Nacelle Placement Adjustments from Original length
 
@@ -97,7 +99,10 @@ Resulting Aircraft Length **≈ 37.5 m**. This becomes a **direct competitor to 
 - **+2 m forward plug**
 - **+1 m forward plug**
 
-Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to the Boeing 737-400** and **Airbus A320-200**, while retaining the **5-abreast comfort** with high-speed Convair wing characteristics
+Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to the Boeing 737-400** and **Airbus A320-200**, while retaining the **5-abreast comfort** with high-speed Convair wing characteristics.
+
+[See the CFM-engine Version Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-CFM-3.html)
+[See the IAE-engine Version Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-IAE-3.html)
 
 <p>
     <br>
@@ -117,6 +122,12 @@ Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to 
 | Phase 3 | +2 m forward +1 m aft | **~43.5 m** |
 | Phase 4 | +1 m forward +1 m aft | **~45.5 m** |
 
+[See the CFM-engine Phase 3 Version Visualization Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-CFM-3.html)
+[See the IAE-engine Phase 3 Version Visualization Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-IAE-3.html)
+
+[See the CFM-engine Phase 4 Version Visualization Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-CFM-3.html)
+[See the IAE-engine Phase 4 Version Visualization Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-IAE-3.html)
+
 <p>
     <br>
     <center>
@@ -132,15 +143,17 @@ Resulting Aircraft Length **≈ 40.5 m**. This becomes a **direct competitor to 
 
 Instead of the aircraft extended fuselage section as the previously 737-300 class inspired, this model retain the original length of the Convair Model 60. This Model 60 simply put an engine swapped into CFM-56 or IAE V2500 based power plant as the engine option to replace the original CJ805 engine installed of the previous generation.
 
+This model also come with 2-engine option with both [CFM engine installed version](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-CFM-gallery-1.html) as well as [IAE engine installed version](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-IAE-gallery-1.html) as the main powerplant. 
+
 # All Family Stretch
 
-| Step | Modification | Total Length | All Gallery |
+| Step | Modification | Total Length | Product Overview |
 |---|---|---| --- |
-| Phase 0 | +0 m forward +0 m aft | **~34.5 m** |  |
-| Phase 1 | +1 m forward +2 m aft | **~37.5 m** |  |
-| Phase 2 | +2 m forward +1 m aft | **~40.5 m** |  |
-| Phase 3 | +2 m forward +1 m aft | **~43.5 m** |  |
-| Phase 4 | +1 m forward +1 m aft | **~45.5 m** |  |
+| Phase 0 | +0 m forward +0 m aft | **~34.5 m** | [Product Gallery](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-1.html) |
+| Phase 1 | +1 m forward +2 m aft | **~37.5 m** | [Product Gallery](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-2.html) |
+| Phase 2 | +2 m forward +1 m aft | **~40.5 m** | [Product Gallery](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-3.html) |
+| Phase 3 | +2 m forward +1 m aft | **~43.5 m** | [Product Gallery](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-4.html) |
+| Phase 4 | +1 m forward +1 m aft | **~45.5 m** | [Product Gallery](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/model60-gallery-5.html) |
 
 # What will you Get?
 
