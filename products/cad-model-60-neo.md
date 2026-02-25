@@ -362,7 +362,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/M60NEO IAE 34.5 (E) (3).png"  
     alt=" "
     width="450">
     </center>
