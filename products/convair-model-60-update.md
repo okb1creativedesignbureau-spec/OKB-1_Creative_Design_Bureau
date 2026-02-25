@@ -151,12 +151,10 @@ This means the Model 60-250 could stretch further without wing redesign.
 
 ---
 
-# Engineering Insight — Controlled Growth vs Radical Redesign
+# Engineering Insight
 
-The JT8D transitional phase demonstrates an important principle:
+The most remarkable conclusion from the CAD reconstruction is this:
 
-> The Model 60 does not need a new wing to grow — it only needs progressively better engines.
-
-Because the platform originated from a larger four-engine airliner, it contains latent performance capacity that becomes unlocked as engine technology improves.
-
-This makes the aircraft evolution believable, economically rational, and structurally coherent.
+- The Convair Model 60 does not require a new wing to grow — it only requires progressively better engines. It contains latent performance capacity that becomes unlocked as engine technology improves.
+- Because the platform originated from a four-engine Convair 880 airliner, it possesses structural and aerodynamic headroom uncommon in purpose-built narrow-body twins.
+- This latent margin enables a believable multi-decade evolution pathway — one that could have paralleled the 737 and A320 families had Convair remained in the commercial aviation market.
