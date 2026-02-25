@@ -171,11 +171,248 @@ This intermediate generation fulfills three roles:
 
 ---
 
-# Engineering Insight
+# What will you Get?
 
-The most remarkable conclusion from the CAD reconstruction is this:
+This pack contain **10 aircrafts** for each IAE theme and CFM theme engine option, which for each length of each stretches.
 
-- The Convair Model 60 does not require a new wing to grow — it only requires progressively better engines.
-- Because the platform originated from a four-engine Convair 880 airliner, it possesses structural and aerodynamic headroom uncommon in purpose-built narrow-body twins.
-- This latent margin enables a believable multi-decade evolution pathway — one that could have paralleled the 737 and A320 families had Convair remained in the commercial aviation market.
+## Pack A — 3D Printing Pack (STL + 3MF)
+
+[Get Convair Model 60 Neo 3D Printing Pack Here for $20](https://creativedesigns840.gumroad.com/l/bqjjzo)
+
+Includes:
+
+- High-resolution STL of the aircraft
+- Included Custom Aircraft Stands
+- Clean watertight mesh suitable for resin or FDM printing
+- 3MF file for layout reference
+- Aerodynamic, smooth loft surfaces just like wind tunnel models
+- Ready for slicing (Cura, PrusaSlicer, Bambu Studio, Orca-Slicer)
+- Optional: scaled versions (1:150, but can be re-sized as 1:72, 1:144, 1:48, etc.)
+
+Perfect for: Collectors · Modelers · 3D printer hobbyists
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (A) (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+## Pack B — RC Maker Pack (DXF + 3MF)
+
+[Get Convair Model 60 RC Maker Pack Here for $25](https://creativedesigns840.gumroad.com/l/crxdh)
+
+Includes:
+
+- Full DXF cross-section slices (wing + fuselage) for laser cutting
+- Up to ~50 fuselage stations
+- Wing rib sections
+- Clean orthographic section cuts
+- 3MF file for RC layout reference
+
+Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
+
+
+
+## Pack C — Engineering Pack (CAD STEP + IGES + CGR + X_B)
+
+[Get Convair Model 60 Neo — Engineering CAD Pack Here for $30](https://creativedesigns840.gumroad.com/l/ytfoko)
+
+Includes:
+
+- Full STEP 214 file (solid bodies + surfaces)
+- Full IGES file (solid bodies + surfaces)
+- Full CATIA file (solid bodies + surfaces)
+- Full Parasolid Binary X_B file (solid bodies + surfaces)
+
+Complete aircraft with precise NURBS lofts Suitable for:
+- SolidWorks
+- Fusion 360
+- CATIA
+- Creo
+- Siemens NX
+
+Engineering-grade geometry
+- Perfect for editing, CFD pre-processing, and derivative design work
+- 3MF file for layout reference included
+
+Perfect for: Engineers · Students · Aerospace researchers
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (B) (7).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
+
+[Get Convair Model 60 Neo Merchandise Art Pack Here for $17](https://creativedesigns840.gumroad.com/l/dlzfl)
+
+Includes:
+
+Clean line-art views:
+- 3-side view (top, side, front) + Bonus 1-side view (belly)
+- Isometric view
+- Provided in DXF + DWG + PDF
+
+PDF in both modern black-over-white diagram as well as negative-white-over-black diagram High resolution, ready for:
+- T-shirt designs
+- Posters
+- Stickers
+- Wallpapers
+- Classroom material
+
+Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
+
+
+
+## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
+
+[Get Convair Model 60 Neo — Blender Artist Pack Here for $19](https://creativedesigns840.gumroad.com/l/nlsstg)
+
+Includes:
+
+- OBJ + GLB file exported from CAD
+- Ultra-smooth wind-tunnel-grade geometry
+- STEP file included for those who want to re-export their own mesh
+
+Ready to import into:
+- Blender
+- Cinema 4D
+- Maya
+- ZBrush
+- 3MF file for layout reference included 
+
+Note: Untextured, raw CAD mesh. Perfect for sculpting, kitbashing, rendering, or custom livery painting. 
+
+Perfect for: Blender users · Render artists · Hard-surface kitbashers
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (6).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Convair 60 NEO (C) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/M60NEO IAE 34.5 (E) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+## Ultimate Pack
+
+Includes EVERYTHING in Packs A–E
+
+- STL + 3MF 3D Print model
+- DXF Cross Section Laser Cut RC
+- STEP 214 + IGES + CGR Engineering model
+- DXF + PDF + DWG Merch Poster
+- OBJ + STEP + 3MF + GLB + GLTF Render Artist
+
+
+## What You Can Do With These Packs
+
+Depending on the pack you choose, you can:
+
+- 3D print the aircraft
+- Build RC laser-cut models
+- Perform CAD or CFD analysis
+- Render it in Blender
+- Create posters, stickers, and merch
+- Study the engineering form
+
+This product line is divided into clear “factory-floor” production tiers for different users: 3D printers, CAD engineers, RC builders, artists, and hobbyists.
+
+## See Also Different Aircraft of the Era
+
+- [Dassault Mercure](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+- [Vickers VC10](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+- [VFW-614](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
+- [Tu-134](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
+- [Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_C
 
