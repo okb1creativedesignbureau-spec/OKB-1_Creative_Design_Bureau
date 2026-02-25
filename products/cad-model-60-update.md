@@ -414,5 +414,5 @@ This product line is divided into clear “factory-floor” production tiers for
 - [Vickers VC10](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
 - [VFW-614](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
 - [Tu-134](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
-- [Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_C
+- [Convair 880](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-convair-880.html)
 
