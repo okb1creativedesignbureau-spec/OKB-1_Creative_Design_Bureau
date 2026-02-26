@@ -85,16 +85,16 @@ At this stage, the Model 60 becomes a credible 737-200 competitor.
 Before committing to high-bypass engines, an intermediate stretch allows revenue continuity and structural validation.
 
 ## Additional Structural Changes
-- +0.5 m forward of wing root
-- +0.5 m aft of wing root
+- +1 m forward of wing root
+- +1 m aft of wing root
 - Additional +1 m total
-- Overall length: ~37.5 m (123 ft)
+- Overall length: ~38.5 m (126.3 ft)
 
 This version acts as a transitional bridge between early twinjets and modern narrow-body standards.
 
 ---
 
-# Engine Rationalization at 37.5 m Length
+# Engine Rationalization at 38.5 m Length
 
 At this size, engine selection becomes constrained.
 
@@ -165,7 +165,7 @@ This intermediate generation fulfills three roles:
 |----------|--------|----------|-----------------|
 | Model 60-100 | 34.5 m | CJ805 | Early narrow-body twin |
 | Model 60-200 | 36.5 m | CJ805 / JT8D | 737-200 class |
-| Model 60-250 | 37.5 m | JT8D-219 | Transitional bridge |
+| Model 60-250 | 38.5 m | JT8D-219 | Transitional bridge |
 | Model 60-CFM | 34.5–45.5 m | CFM56-3 | 737 Classic and NG competitor |
 | Model 60-IAE | 34.5–45.5 m | IAE V2500 | A320/A321 competitor |
 
@@ -173,11 +173,11 @@ This intermediate generation fulfills three roles:
 
 # What will you Get?
 
-This pack contain **10 aircrafts** for each IAE theme and CFM theme engine option, which for each length of each stretches.
+This pack contain **5 aircrafts** for each CJ805 theme and JT8D theme engine option, which for each length of each stretches.
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
-[Get Convair Model 60 Neo 3D Printing Pack Here for $20](https://creativedesigns840.gumroad.com/l/bqjjzo)
+[Get Convair Model 60 Neo 3D Printing Pack Here for $15](https://creativedesigns840.gumroad.com/l/zrofcf)
 
 Includes:
 
@@ -215,7 +215,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 60 RC Maker Pack Here for $25](https://creativedesigns840.gumroad.com/l/crxdh)
+[Get Convair Model 60 RC Maker Pack Here for $20](https://creativedesigns840.gumroad.com/l/afvyo)
 
 Includes:
 
@@ -231,7 +231,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD STEP + IGES + CGR + X_B)
 
-[Get Convair Model 60 Neo — Engineering CAD Pack Here for $30](https://creativedesigns840.gumroad.com/l/ytfoko)
+[Get Convair Model 60 Neo — Engineering CAD Pack Here for $25](https://creativedesigns840.gumroad.com/l/fhftrn)
 
 Includes:
 
@@ -288,7 +288,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair Model 60 Neo Merchandise Art Pack Here for $17](https://creativedesigns840.gumroad.com/l/dlzfl)
+[Get Convair Model 60 Neo Merchandise Art Pack Here for $12](https://creativedesigns840.gumroad.com/l/fiyftn)
 
 Includes:
 
@@ -310,7 +310,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair Model 60 Neo — Blender Artist Pack Here for $19](https://creativedesigns840.gumroad.com/l/nlsstg)
+[Get Convair Model 60 Neo — Blender Artist Pack Here for $14](https://creativedesigns840.gumroad.com/l/grnusr)
 
 Includes:
 
