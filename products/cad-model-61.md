@@ -80,7 +80,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 
 
-## Pack C — Engineering Pack (CAD Only)
+## Pack C — Engineering Pack (CAD )
 
 [Get Convair Model 60 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/edbvpw)
 
@@ -89,6 +89,7 @@ Includes:
 - Full STEP 214 file (solid bodies + surfaces)
 - Full IGES file (solid bodies + surfaces)
 - Full CATIA file (solid bodies + surfaces)
+- Full Parasolid Binary .X_B (solid bodies + surfaces)
 
 Complete aircraft with precise NURBS lofts Suitable for:
 - SolidWorks
