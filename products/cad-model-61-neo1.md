@@ -224,7 +224,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 
 
-## Pack C — Engineering Pack (CAD )
+## Pack C — Engineering Pack (CAD)
 
 [Get Convair Model 60 — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/lxmsnb)
 
