@@ -144,7 +144,7 @@ The Model 61 retains Convair’s **5-abreast (2+3) seating layout**, preserving 
 
 --
 
-## Pack A — 3D Printing Pack (STL + 3MF Only)
+## Pack A — 3D Printing Pack (STL + 3MF)
 
 [Get Convair Model 61 3D Printing Pack Here for $13](https://creativedesigns840.gumroad.com/l/hwcnt) 
 
@@ -187,7 +187,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 
 
-## Pack C — Engineering Pack (CAD )
+## Pack C — Engineering Pack (CAD)
 
 [Get Convair Model 61 — Engineering CAD Pack Here for $23](https://creativedesigns840.gumroad.com/l/fptlz)
 
