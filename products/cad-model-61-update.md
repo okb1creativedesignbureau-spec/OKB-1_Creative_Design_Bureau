@@ -127,9 +127,9 @@ The Model 61 retains Convair’s **5-abreast (2+3) seating layout**, preserving 
 
 | Variant | Plug Extension | New Length |
 |--------|----------------|-----------|
-| Base CJ805 | — | **38.0 m** |
-| CJ805-41C Stretch 1 | +1.0 m forward +0.5 m aft | **39.5 m** |
-| CJ805-41C Stretch 2 | +2.0 m forward +1.0 m aft | **41.0 m** |
+| Base CJ805 | — | **39.4 m** |
+| CJ805-41C Stretch 1 | +1.0 m forward +0.5 m aft | **40.9 m** |
+| CJ805-41C Stretch 2 | +2.0 m forward +1.0 m aft | **42.4 m** |
 
 **Goal:** Increase seating and revenue while remaining engine-limited.
 
@@ -138,9 +138,9 @@ The Model 61 retains Convair’s **5-abreast (2+3) seating layout**, preserving 
 
 | Variant | Length | Estimated MTOW (kg) | Estimated MTOW (lb) | T/W (Ratio) |
 |----------|--------|--------------------|---------------------| ----------- |
-| Base CJ805 (38.0 m) | 38.0 m | 60,312 kg | 133,000 lb | 0.24 (CJ805-23B) |
-| Stretch 1 (39.5 m) | 39.5 m | 63,500 kg | 140,000 lb | 0.24 (CJ805-41C) |
-| Stretch 2 (41.0 m) | 41.0 m | 66,000 kg | 145,500 lb | 0.23 (CJ805-41C) |
+| Base CJ805 (38.0 m) | 39.4 m | 60,312 kg | 133,000 lb | 0.24 (CJ805-23B) |
+| Stretch 1 (39.5 m) | 40.9 m | 63,500 kg | 140,000 lb | 0.24 (CJ805-41C) |
+| Stretch 2 (41.0 m) | 42.4 m | 66,000 kg | 145,500 lb | 0.23 (CJ805-41C) |
 
 --
 
