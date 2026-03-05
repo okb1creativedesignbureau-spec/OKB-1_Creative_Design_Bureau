@@ -146,7 +146,7 @@ The Model 61 retains Convair’s **5-abreast (2+3) seating layout**, preserving 
 
 ## Pack A — 3D Printing Pack (STL + 3MF Only)
 
-[Get Convair Model 60 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/idsbhi)
+[Get Convair Model 61 3D Printing Pack Here for $13](https://creativedesigns840.gumroad.com/l/hwcnt) 
 
 Includes:
 
@@ -173,7 +173,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 60 RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/shpdf)
+[Get Convair Model 61 RC Maker Pack Here for $18](https://creativedesigns840.gumroad.com/l/uijfnn)
 
 Includes:
 
@@ -189,7 +189,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD )
 
-[Get Convair Model 60 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/edbvpw)
+[Get Convair Model 61 — Engineering CAD Pack Here for $23](https://creativedesigns840.gumroad.com/l/fptlz)
 
 Includes:
 
@@ -224,7 +224,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 990 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/synyv)
+[Get Convair Model 61 — Engineering CAD Pack Here for $10](https://creativedesigns840.gumroad.com/l/woijyi)
 
 Includes:
 
@@ -246,7 +246,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/khmsob)
+[Get Convair Model 61 — Engineering CAD Pack Here for $12](https://creativedesigns840.gumroad.com/l/unlgn)
 
 Includes:
 
