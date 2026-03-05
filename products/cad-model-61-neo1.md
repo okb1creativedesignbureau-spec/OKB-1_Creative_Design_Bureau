@@ -129,10 +129,10 @@ Re-engined with **JT8D-219**, enabling **higher thrust, MTOW growth, and improve
 
 | Variant | Plug Extension | New Length |
 |--------|----------------|-----------|
-| JT8D Base | — | **38.0 m** |
-| JT8D Stretch 1 | +2.0 m +1.0 m | **41.0 m** |
-| JT8D Stretch 2 | +3.0 m +1.5 m | **42.5 m** |
-| JT8D Stretch 3 | +4.0 m +2.5 m | **44.5 m** |
+| JT8D Base | — | **39.4 m** |
+| JT8D Stretch 1 | +2.0 m +1.0 m | **42.4 m** |
+| JT8D Stretch 2 | +3.0 m +1.5 m | **43.9 m** |
+| JT8D Stretch 3 | +4.0 m +2.5 m | **45.9 m** |
 
 The **44.5 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
@@ -148,8 +148,8 @@ The JT8D-17AR provides improved reliability and moderate thrust increase over CJ
 
 | Variant | Length | Estimated MTOW (kg) | Estimated MTOW (lb) | T/W (Ratio) |
 |----------|--------|--------------------|---------------------| ----------- |
-| JT8D-17AR Base | 38.0 m | 64,500 kg | 142,200 lb | 0.24 (JT8D-17A) |
-| Stretch 1 | 41.0 m | 70,000 kg | 154,300 lb | 0.22 (JT8D-17AR) |
+| JT8D-17AR Base | 39.4 m | 64,500 kg | 142,200 lb | 0.24 (JT8D-17A) |
+| Stretch 1 | 42.4 m | 70,000 kg | 154,300 lb | 0.22 (JT8D-17AR) |
 
 **Improvements:**
 - Better fuel efficiency than CJ805
@@ -166,10 +166,10 @@ The JT8D-200 represents a major step forward in thrust and payload performance, 
 
 | Variant | Length | Estimated MTOW (kg) | Estimated MTOW (lb) | T/W (Ratio) |
 |----------|--------|--------------------|---------------------| ----------- |
-| JT8D-219 Base | 38.0 m | 67,000 kg | 147,700 lb | 0.26 (JT8D-209) |
-| Stretch 1 | 41.0 m | 74,000 kg | 163,100 lb | 0.25 (JT8D-217A) |
-| Stretch 2 | 42.5 m | 78,500 kg | 173,000 lb | 0.24 (JT8D-219) |
-| Stretch 3 (44.5 m) | 44.5 m | 82,000 kg | 180,800 lb | 0.23 (JT8D-219) |
+| JT8D-219 Base | 39.4 m | 67,000 kg | 147,700 lb | 0.26 (JT8D-209) |
+| Stretch 1 | 42.4 m | 74,000 kg | 163,100 lb | 0.25 (JT8D-217A) |
+| Stretch 2 | 43.9 m | 78,500 kg | 173,000 lb | 0.24 (JT8D-219) |
+| Stretch 3 | 45.9 m | 82,000 kg | 180,800 lb | 0.23 (JT8D-219) |
 
 **Structural Changes:**
 - Reinforced wingbox
