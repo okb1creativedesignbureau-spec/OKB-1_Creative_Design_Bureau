@@ -125,13 +125,14 @@ The Model 61 retains Convair’s **5-abreast (2+3) seating layout**, preserving 
 
 ## IAE V2500 Era — MD-90 / A320-Class Modernization
 
-To compete with **MD-90, MD-95, A320**, and later **A220**, Convair transitions to **IAE V2500 engines**.
+To compete with **MD-90, MD-95, A320**, and later **717*** and **A220** class, Convair transitions to **IAE V2500 engines**.
 
 | Variant | Plug Extension | New Length |
 |--------|----------------|-----------|
-| V2500 Base | Derived from 44.5 m | **44.5 m** |
-| V2500 Stretch 1 | +2.0 m +1.0 m | **47.5 m** |
-| V2500 Stretch 2 (Final) | +1.0 m +0.5 m | **49.0 m** |
+| V2500 Base | Derived from 44.5 m | **45.9 m** |
+| V2500 Stretch 1 | +2.0 m +1.0 m | **48.9 m** |
+| V2500 Stretch 2 (Final) | +1.0 m +0.5 m | **50.4 m** |
+| V2500 Shortened (Final) | -2.0 m -1.0 m | **42.9 m** |
 
 The **49 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
@@ -146,9 +147,10 @@ The **49 m variant** reaches **structural and efficiency limits**, motivating a 
 
 | Variant | Length | Estimated MTOW (kg) | Estimated MTOW (lb) | T/W (Ratio) |
 |----------|--------|--------------------|---------------------| ----------- |
-| V2525 Base (44.5 m) | 44.5 m | 86,000 kg | 189,600 lb | 0.26 (IAEV2525-D5) |
-| Stretch 1 (47.5 m) | 47.5 m | 91,000 kg | 200,600 lb | 0.25 (IAE V2525-D5) |
-| Final Stretch (49.0 m) | 49.0 m | 95,000 kg | 209,400 lb | 0.27 (IAE V2528-D5) |
+| V2525 Base (45.9 m) | 44.5 m | 86,000 kg | 189,600 lb | 0.26 (IAEV2525-D5) |
+| Stretch 1 (48.9 m) | 47.5 m | 91,000 kg | 200,600 lb | 0.25 (IAE V2525-D5) |
+| Final Stretch (50.4 m) | 49.0 m | 95,000 kg | 209,400 lb | 0.27 (IAE V2528-D5) |
+| Final Version (42.9) | 42.9 m | 81,000 kg | 178,600 ln | 0..28 (IAE V2525-D5) |
 
 **Structural Changes:**
 - Reinforced wingbox
