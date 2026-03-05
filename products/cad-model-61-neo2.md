@@ -164,7 +164,7 @@ At 49 m, the IAE V2500 and Convair Model 61 platform approaches its aerodynamic 
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
-[Get Convair Model 60 3D Printing Pack Here for $10](https://creativedesigns840.gumroad.com/l/kppht)
+[Get Convair Model 60 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/kppht)
 
 Includes:
 
@@ -191,7 +191,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 60 RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/pzdaav)
+[Get Convair Model 60 RC Maker Pack Here for $19](https://creativedesigns840.gumroad.com/l/pzdaav)
 
 Includes:
 
@@ -207,7 +207,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD)
 
-[Get Convair Model 60 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/xbaubs)
+[Get Convair Model 60 — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/xbaubs)
 
 Includes:
 
@@ -242,7 +242,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 990 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/dtoby)
+[Get Convair 990 Merchandise Art Pack Here for $11](https://creativedesigns840.gumroad.com/l/dtoby)
 
 Includes:
 
@@ -264,7 +264,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $9](https://creativedesigns840.gumroad.com/l/ihaijx)
+[Get Convair 990 — Blender Artist Pack Here for $13](https://creativedesigns840.gumroad.com/l/ihaijx)
 
 Includes:
 
