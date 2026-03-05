@@ -181,7 +181,7 @@ At 44.5 m, the JT8D platform approaches its aerodynamic and economic limits.
 
 --
 
-## Pack A — 3D Printing Pack (STL + 3MF Only)
+## Pack A — 3D Printing Pack (STL + 3MF)
 
 [Get Convair Model 60 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/uzqcgu)
 
