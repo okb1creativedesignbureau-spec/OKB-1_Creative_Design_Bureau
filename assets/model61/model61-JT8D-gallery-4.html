@@ -1,0 +1,138 @@
+<style>
+/* Desktop: hide entire header */
+@media (min-width: 768px) {
+  header.site-header {
+    display: none !important;
+  }
+}
+
+/* Mobile: do nothing — keep hamburger working */
+@media (max-width: 767px) {
+  header.site-header {
+    display: block !important;
+  }
+}
+</style>
+
+<link rel="icon" type="image/svg+xml" href="products/favicon/2icon.svg">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product Gallery</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+}
+
+.swiper {
+    width: 90%;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+.swiper-slide img {
+    width: 100%;
+    border-radius: 12px;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    color: black;
+}
+
+.swiper-pagination-bullet {
+    background: white;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Aircraft Product Gallery</h1>
+
+<div class="swiper">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (A) (1).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (A) (2).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (A) (3).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (A) (4).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (A) (5).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (C) (1).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (C) (2).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (C) (3).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (C) (4).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (C) (5).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (C) (6).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (E) (1).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (E) (2).png">
+        </div>
+        <div class="swiper-slide">
+            <img src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (E) (3).png">
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+
+    <!-- Pagination -->
+    <div class="swiper-pagination"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
+<script>
+new Swiper('.swiper', {
+    loop: true,
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+    },
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+    },
+});
+</script>
+
+</body>
+</html>
