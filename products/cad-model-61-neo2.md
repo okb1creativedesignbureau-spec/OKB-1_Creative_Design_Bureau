@@ -27,7 +27,16 @@ The Model 61 was envisioned as a **twin-engine turbofan airliner** using the **J
 - **Improved dispatch reliability**  
 - **Competitive economics against short- to medium-haul aircraft such as the DC-9**
 
-
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 The **T-tail configuration**, inspired directly by the **DC-9**, positioned the Model 61 as Convair’s **true narrow-body market response**, optimized for **high-cycle regional and trunk-route operations**.
 
@@ -40,6 +49,17 @@ This design direction mirrors what **Douglas later achieved with the DC-9**, and
 Based on available three-view references and CAD interpretation of **Fuselage shortened to ~87.5% of Convair 880 length,** **Approximate fuselage length:** **~34.5 m,** **Structural weight reduction**, at the cost of **lower passenger capacity,** **T-tail layout**, requiring careful **center-of-gravity and pitch stability balancing**
 
 Despite the shorter fuselage, the **Model 61 appears longer than the Convair Model 60**, due to **T-tail geometry and aft horizontal stabilizer placement**, extending the effective tail moment arm.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 48.9 (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -64,6 +84,17 @@ Unlike the Convair 880M and 990A, the **Model 61 relocates engines to the rear f
 - Yaw inertia  
 - Structural load paths  
 - Maintenance accessibility  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -102,6 +133,17 @@ A **strong value for a 1960s–1970s twin-jet**, comparable to **DC-9-class perf
 - **Imperial:** ~133,000 lb  
 
 Due to **fuselage shortening and reduced internal fuel volume**, total fuel capacity is lower than the Convair 880 — reinforcing the Model 61’s intended role as a **medium-range, high-frequency narrow-body**.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (A) (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
