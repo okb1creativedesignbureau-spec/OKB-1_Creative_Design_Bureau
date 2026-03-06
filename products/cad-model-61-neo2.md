@@ -27,6 +27,8 @@ The Model 61 was envisioned as a **twin-engine turbofan airliner** using the **J
 - **Improved dispatch reliability**  
 - **Competitive economics against short- to medium-haul aircraft such as the DC-9**
 
+
+
 The **T-tail configuration**, inspired directly by the **DC-9**, positioned the Model 61 as Convair’s **true narrow-body market response**, optimized for **high-cycle regional and trunk-route operations**.
 
 This design direction mirrors what **Douglas later achieved with the DC-9**, and **McDonnell Douglas with the MD-80 series** — scaling a proven airframe into a long-term product family.
@@ -136,7 +138,7 @@ To compete with **MD-90, MD-95, A320**, and later **717*** and **A220** class, C
 
 The **49 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
---
+---
 
 # Performance
 
@@ -160,11 +162,11 @@ The **49 m variant** reaches **structural and efficiency limits**, motivating a 
 
 At 49 m, the IAE V2500 and Convair Model 61 platform approaches its aerodynamic and economic limits.
 
---
+---
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
-[Get Convair Model 60 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/kppht)
+[Get Convair Model 61 IAE powered 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/kppht)
 
 Includes:
 
@@ -183,15 +185,49 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (A) (4).png"  
     alt=" "
     width="450">
     </center>
 </p>
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 45.9 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 48.9 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 60 RC Maker Pack Here for $19](https://creativedesigns840.gumroad.com/l/pzdaav)
+[Get Convair Model 61 IAE powered RC Maker Pack Here for $19](https://creativedesigns840.gumroad.com/l/pzdaav)
 
 Includes:
 
@@ -207,7 +243,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD)
 
-[Get Convair Model 60 — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/xbaubs)
+[Get Convair Model 61 IAE powered — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/xbaubs)
 
 Includes:
 
@@ -234,15 +270,49 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (C) (4).png"  
     alt=" "
     width="450">
     </center>
 </p>
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 45.9 (C) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 48.9 (C) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (C) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 990 Merchandise Art Pack Here for $11](https://creativedesigns840.gumroad.com/l/dtoby)
+[Get Convair Model 61 IAE powered Merchandise Art Pack Here for $11](https://creativedesigns840.gumroad.com/l/dtoby)
 
 Includes:
 
@@ -264,7 +334,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $13](https://creativedesigns840.gumroad.com/l/ihaijx)
+[Get Convair Model 61 IAE powered — Blender Artist Pack Here for $13](https://creativedesigns840.gumroad.com/l/ihaijx)
 
 Includes:
 
@@ -288,12 +358,44 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (E) (4).png"  
     alt=" "
     width="450">
     </center>
 </p>
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 45.9 (E) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 48.9 (E) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (E) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ## Ultimate Pack
 
