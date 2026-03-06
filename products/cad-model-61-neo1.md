@@ -180,7 +180,7 @@ Re-engined with **JT8D-219**, enabling **higher thrust, MTOW growth, and improve
 
 The **44.5 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
---
+---
 
 # Performance
 
@@ -227,7 +227,7 @@ At 44.5 m, the JT8D platform approaches its aerodynamic and economic limits.
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
-[Get Convair Model 60 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/uzqcgu)
+[Get Convair Model 61 JT8D powered 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/uzqcgu)
 
 Includes:
 
@@ -290,7 +290,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 60 RC Maker Pack Here for $19](https://creativedesigns840.gumroad.com/l/fprfg)
+[Get Convair Model 61 JT8D powered RC Maker Pack Here for $19](https://creativedesigns840.gumroad.com/l/fprfg)
 
 Includes:
 
@@ -306,7 +306,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD)
 
-[Get Convair Model 60 — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/lxmsnb)
+[Get Convair Model 61 JT8D powered — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/lxmsnb)
 
 Includes:
 
@@ -374,7 +374,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 990 Merchandise Art Pack Here for $11](https://creativedesigns840.gumroad.com/l/jewrf)
+[Get Convair Model 61 JT8D powered Merchandise Art Pack Here for $11](https://creativedesigns840.gumroad.com/l/jewrf)
 
 Includes:
 
@@ -396,7 +396,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair 990 — Blender Artist Pack Here for $13](https://creativedesigns840.gumroad.com/l/zbhoep)
+[Get Convair Model 61 JT8D powered — Blender Artist Pack Here for $13](https://creativedesigns840.gumroad.com/l/zbhoep)
 
 Includes:
 
