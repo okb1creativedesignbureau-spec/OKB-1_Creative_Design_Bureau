@@ -196,7 +196,7 @@ The Model 61 retains Convair’s **5-abreast (2+3) seating layout**, preserving 
 | Stretch 1 (39.5 m) | 40.9 m | 63,500 kg | 140,000 lb | 0.24 (CJ805-41C) |
 | Stretch 2 (41.0 m) | 42.4 m | 66,000 kg | 145,500 lb | 0.23 (CJ805-41C) |
 
---
+---
 
 # What will you get?
 
@@ -309,7 +309,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 40.9 (C) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 40.9 (C) (3).png"  
     alt=" "
     width="450">
     </center>
