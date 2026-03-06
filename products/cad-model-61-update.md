@@ -206,7 +206,7 @@ This bundle content included 3-aircrafts of Convair Model 61 with CJ805-series e
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
-[Get Convair Model 61 3D Printing Pack Here for $13](https://creativedesigns840.gumroad.com/l/hwcnt) 
+[Get Convair Model 61 CJ805 powered 3D Printing Pack Here for $13](https://creativedesigns840.gumroad.com/l/hwcnt) 
 
 Includes:
 
@@ -255,7 +255,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 61 RC Maker Pack Here for $18](https://creativedesigns840.gumroad.com/l/uijfnn)
+[Get Convair Model 61 CJ805 powered RC Maker Pack Here for $18](https://creativedesigns840.gumroad.com/l/uijfnn)
 
 Includes:
 
@@ -271,7 +271,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD)
 
-[Get Convair Model 61 — Engineering CAD Pack Here for $23](https://creativedesigns840.gumroad.com/l/fptlz)
+[Get Convair Model 61 CJ805 powered — Engineering CAD Pack Here for $23](https://creativedesigns840.gumroad.com/l/fptlz)
 
 Includes:
 
@@ -328,7 +328,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair Model 61 — Engineering CAD Pack Here for $10](https://creativedesigns840.gumroad.com/l/woijyi)
+[Get Convair Model 61 CJ805 powered — Engineering CAD Pack Here for $10](https://creativedesigns840.gumroad.com/l/woijyi)
 
 Includes:
 
@@ -350,7 +350,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair Model 61 — Engineering CAD Pack Here for $12](https://creativedesigns840.gumroad.com/l/unlgn)
+[Get Convair Model 61 CJ805 powered — Engineering CAD Pack Here for $12](https://creativedesigns840.gumroad.com/l/unlgn)
 
 Includes:
 
