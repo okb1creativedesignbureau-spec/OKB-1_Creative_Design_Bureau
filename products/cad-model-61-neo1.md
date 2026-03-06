@@ -27,6 +27,17 @@ The Model 61 was envisioned as a **twin-engine turbofan airliner** using the **J
 - **Improved dispatch reliability**  
 - **Competitive economics against short- to medium-haul aircraft such as the DC-9**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 39.4 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 The **T-tail configuration**, inspired directly by the **DC-9**, positioned the Model 61 as Convair’s **true narrow-body market response**, optimized for **high-cycle regional and trunk-route operations**.
 
 This design direction mirrors what **Douglas later achieved with the DC-9**, and **McDonnell Douglas with the MD-80 series** — scaling a proven airframe into a long-term product family.
@@ -38,6 +49,17 @@ This design direction mirrors what **Douglas later achieved with the DC-9**, and
 Based on available three-view references and CAD interpretation of **Fuselage shortened to ~87.5% of Convair 880 length,** **Approximate fuselage length:** **~34.5 m,** **Structural weight reduction**, at the cost of **lower passenger capacity,** **T-tail layout**, requiring careful **center-of-gravity and pitch stability balancing**
 
 Despite the shorter fuselage, the **Model 61 appears longer than the Convair Model 60**, due to **T-tail geometry and aft horizontal stabilizer placement**, extending the effective tail moment arm.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 42.4 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -55,6 +77,17 @@ A key design philosophy was **reuse of the Convair 880M wing and wingbox**, mini
 - Wing sweep and wingtip geometry modified to compensate for:
   - **T-tail moment arm changes**
   - **Modified CG envelope for shortened fuselage mass distribution**
+ 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 43.9 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 Unlike the Convair 880M and 990A, the **Model 61 relocates engines to the rear fuselage**, similar to the **Sud Aviation Caravelle**, altering:
 
@@ -89,6 +122,17 @@ Using JT8D engines:
 - **T/W ≈ 0.22-0.26**
 
 A **strong value for a 1960s–1970s twin-jet**, comparable to **DC-9-class performance**.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -179,7 +223,7 @@ The JT8D-200 represents a major step forward in thrust and payload performance, 
 
 At 44.5 m, the JT8D platform approaches its aerodynamic and economic limits.
 
---
+---
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
@@ -202,7 +246,43 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 39.4 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 42.4 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 43.9 (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (A) (4).png"  
     alt=" "
     width="450">
     </center>
@@ -253,7 +333,40 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 34.9 (C) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 42.4 (C) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 43.9 (C) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (C) (4).png"  
     alt=" "
     width="450">
     </center>
@@ -307,12 +420,44 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 34.9 (E) (4).png"  
     alt=" "
     width="450">
     </center>
 </p>
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 42.4 (E) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 43.9 (E) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/JT8D 45.9 (E) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ## Ultimate Pack
 
