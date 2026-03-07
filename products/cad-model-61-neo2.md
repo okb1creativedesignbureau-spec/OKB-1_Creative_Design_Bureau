@@ -178,7 +178,7 @@ To compete with **MD-90, MD-95, A320**, and later **717*** and **A220** class, C
 | V2500 Stretch 2 (Final) | +1.0 m +0.5 m | **50.4 m** |
 | V2500 Shortened (Final) | -2.0 m -1.0 m | **42.9 m** |
 
-The **49 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
+The **50.4 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
 ---
 
