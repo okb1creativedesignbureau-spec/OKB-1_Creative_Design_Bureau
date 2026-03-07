@@ -173,7 +173,7 @@ To compete with **MD-90, MD-95, A320**, and later **717*** and **A220** class, C
 
 | Variant | Plug Extension | New Length |
 |--------|----------------|-----------|
-| V2500 Base | Derived from 44.5 m | **45.9 m** |
+| V2500 Base | Derived from 45.9 m | **45.9 m** |
 | V2500 Stretch 1 | +2.0 m +1.0 m | **48.9 m** |
 | V2500 Stretch 2 (Final) | +1.0 m +0.5 m | **50.4 m** |
 | V2500 Shortened (Final) | -2.0 m -1.0 m | **42.9 m** |
