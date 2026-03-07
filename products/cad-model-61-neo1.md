@@ -178,7 +178,7 @@ Re-engined with **JT8D-219**, enabling **higher thrust, MTOW growth, and improve
 | JT8D Stretch 2 | +3.0 m +1.5 m | **43.9 m** |
 | JT8D Stretch 3 | +4.0 m +2.5 m | **45.9 m** |
 
-The **44.5 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
+The **45.9 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
 ---
 
