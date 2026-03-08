@@ -24,6 +24,17 @@ One plausible intermediate configuration would have been a **modified Convair 88
 
 This configuration represents a transitional aerodynamic concept: improving cruise efficiency without the extensive redesign that eventually produced the Convair 990.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 # Purpose of the Anti-Shock Bodies
@@ -36,6 +47,17 @@ Anti-shock bodies were developed to:
 - Delay shock formation along the wing
 - Improve lift distribution across the span
 - Increase cruise efficiency at high Mach numbers
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (4).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 Convair's aerodynamic research suggested that properly designed ASBs could allow the aircraft to **cruise faster without significant drag penalties**.
 
@@ -57,6 +79,8 @@ In this concept, the base aircraft remains structurally identical to the product
 - Thrust: ~52 kN (11,700 lbf) each
 
 Unlike the Convair 990, the engines remain **pure turbojets rather than aft-fan turbofans**.
+
+[See All Images of the Products Here](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/880ASB-gallery-1.html)
 
 ---
 
@@ -87,6 +111,17 @@ Adding ASBs to the Convair 880 could theoretically provide several aerodynamic i
 - Slightly improved cruise efficiency
 - Increased maximum cruise Mach
 - Lower fuel consumption at cruise
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (5).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ### Estimated Cruise Characteristics
 
@@ -129,6 +164,17 @@ While the 880-ASB concept uses small aerodynamic fairings, the 990 introduced:
 
 In many ways, the hypothetical **880-ASB configuration can be viewed as the aerodynamic stepping stone between the Convair 880 and the Convair 990 Coronado.**
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (6).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ---
 
 # Why This Concept Matters for the Model 60 Project
@@ -144,7 +190,7 @@ By studying these incremental improvements — such as the addition of anti-shoc
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
-[Get Convair Model 61 IAE powered 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/kppht)
+[Get Convair 880 ASB modified 3D Printing Pack Here for $14](https://creativedesigns840.gumroad.com/l/yhabm)
 
 Includes:
 
@@ -163,7 +209,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (A) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (7).png"  
     alt=" "
     width="450">
     </center>
@@ -174,7 +220,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 45.9 (A) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (8).png"  
     alt=" "
     width="450">
     </center>
@@ -185,7 +231,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 48.9 (A) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (9).png"  
     alt=" "
     width="450">
     </center>
@@ -196,7 +242,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (A) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (10).png"  
     alt=" "
     width="450">
     </center>
@@ -205,7 +251,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 61 IAE powered RC Maker Pack Here for $19](https://creativedesigns840.gumroad.com/l/pzdaav)
+[Get Convair Convair 880 ASB modified RC Maker Pack Here for $19](https://creativedesigns840.gumroad.com/l/xjmhmt)
 
 Includes:
 
@@ -221,7 +267,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD)
 
-[Get Convair Model 61 IAE powered — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/xbaubs)
+[Get Convair Convair 880 ASB modified — Engineering CAD Pack Here for $24](https://creativedesigns840.gumroad.com/l/plhzbk)
 
 Includes:
 
@@ -248,7 +294,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (C) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (C) (2).png"  
     alt=" "
     width="450">
     </center>
@@ -259,7 +305,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 45.9 (C) (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (C) (3).png"  
     alt=" "
     width="450">
     </center>
@@ -270,7 +316,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 48.9 (C) (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (C) (4).png"  
     alt=" "
     width="450">
     </center>
@@ -281,7 +327,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (C) (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (C) (5).png"  
     alt=" "
     width="450">
     </center>
@@ -290,7 +336,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair Model 61 IAE powered Merchandise Art Pack Here for $11](https://creativedesigns840.gumroad.com/l/dtoby)
+[Get Convair Convair 880 ASB modified Merchandise Art Pack Here for $11](https://creativedesigns840.gumroad.com/l/hrjvko)
 
 Includes:
 
@@ -312,7 +358,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair Model 61 IAE powered — Blender Artist Pack Here for $13](https://creativedesigns840.gumroad.com/l/ihaijx)
+[Get Convair Convair 880 ASB modified — Blender Artist Pack Here for $13](https://creativedesigns840.gumroad.com/l/afyob)
 
 Includes:
 
@@ -336,7 +382,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (E) (2).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (E) (3).png"  
     alt=" "
     width="450">
     </center>
@@ -347,7 +393,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 42.9 (E) (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (E) (4).png"  
     alt=" "
     width="450">
     </center>
@@ -358,7 +404,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 45.9 (E) (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (E) (5).png"  
     alt=" "
     width="450">
     </center>
@@ -369,7 +415,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 48.9 (E) (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (E) (6).png"  
     alt=" "
     width="450">
     </center>
@@ -380,7 +426,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/IAE 50.4 (E) (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (E) (7).png"  
     alt=" "
     width="450">
     </center>
