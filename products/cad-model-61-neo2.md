@@ -173,10 +173,10 @@ To compete with **MD-90, MD-95, A320**, and later **717*** and **A220** class, C
 
 | Variant | Plug Extension | New Length | Product Gallery |
 |---------|----------------|------------|-----------------|
-| V2500 Base | Derived from 45.9 m | **45.9 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-1.html |
-| V2500 Stretch 1 | +2.0 m +1.0 m | **48.9 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-2.html |
-| V2500 Stretch 2 (Final) | +1.0 m +0.5 m | **50.4 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-3.html |
-| V2500 Shortened (Final) | -2.0 m -1.0 m | **42.9 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-4.html |
+| V2500 Base | Derived from 45.9 m | **45.9 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-1.html) |
+| V2500 Stretch 1 | +2.0 m +1.0 m | **48.9 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-2.html) |
+| V2500 Stretch 2 (Final) | +1.0 m +0.5 m | **50.4 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-3.html) |
+| V2500 Shortened (Final) | -2.0 m -1.0 m | **42.9 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-IAE-gallery-4.html) |
 
 The **50.4 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
