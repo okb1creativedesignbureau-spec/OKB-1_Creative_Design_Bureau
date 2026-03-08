@@ -88,17 +88,6 @@ Unlike the Convair 990, the engines remain **pure turbojets rather than aft-fan 
 
 Instead of the large fuel-carrying bodies used on the Convair 990, this conceptual 880 modification uses **smaller aerodynamic fairings mounted on the wing trailing edge**.
 
-### Differences Compared to the Convair 990
-
-| Feature | 880-ASB Concept | Convair 990 |
-|--------|----------------|-------------|
-| ASB size | Small aerodynamic fairings | Large extended pods |
-| Fuel storage | Minimal or none | Significant fuel volume |
-| Purpose | Drag reduction | Drag reduction + fuel capacity |
-| Structural change | Minimal | Significant wing modification |
-
-These smaller ASBs would primarily act as **area-rule aerodynamic devices**, rather than structural fuel tanks.
-
 ---
 
 # Performance Expectations
