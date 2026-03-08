@@ -180,11 +180,11 @@ The Model 61 retains Convair’s **5-abreast (2+3) seating layout**, preserving 
 
 ## CJ805 Era — Early Stretch Program
 
-| Variant | Plug Extension | New Length |
-|--------|----------------|-----------|
-| Base CJ805 | — | **39.4 m** |
-| CJ805-41C Stretch 1 | +1.0 m forward +0.5 m aft | **40.9 m** |
-| CJ805-41C Stretch 2 | +2.0 m forward +1.0 m aft | **42.4 m** |
+| Variant | Plug Extension | New Length | Product Gallery |
+|---------|----------------|------------|-----------------|
+| Base CJ805 | — | **39.4 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-CJ-gallery-1.html) |
+| CJ805-41C Stretch 1 | +1.0 m forward +0.5 m aft | **40.9 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-CJ-gallery-2.html) |
+| CJ805-41C Stretch 2 | +2.0 m forward +1.0 m aft | **42.4 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-CJ-gallery-3.html) |
 
 **Goal:** Increase seating and revenue while remaining engine-limited.
 
