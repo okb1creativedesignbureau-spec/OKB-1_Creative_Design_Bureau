@@ -231,7 +231,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (9).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (2).png"  
     alt=" "
     width="450">
     </center>
@@ -242,7 +242,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (10).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/880-990-img/CV-880-ASB (A) (3).png"  
     alt=" "
     width="450">
     </center>
