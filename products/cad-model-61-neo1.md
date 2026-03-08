@@ -173,10 +173,10 @@ Re-engined with **JT8D-219**, enabling **higher thrust, MTOW growth, and improve
 
 | Variant | Plug Extension | New Length | Product Gallery |
 |---------|----------------|------------|-----------------|
-| JT8D Base | — | **39.4 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-1.html |
-| JT8D Stretch 1 | +2.0 m +1.0 m | **42.4 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-2.html |
-| JT8D Stretch 2 | +3.0 m +1.5 m | **43.9 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-3.html |
-| JT8D Stretch 3 | +4.0 m +2.5 m | **45.9 m** | https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-4.html |
+| JT8D Base | — | **39.4 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-1.html) |
+| JT8D Stretch 1 | +2.0 m +1.0 m | **42.4 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-2.html) |
+| JT8D Stretch 2 | +3.0 m +1.5 m | **43.9 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-3.html) |
+| JT8D Stretch 3 | +4.0 m +2.5 m | **45.9 m** | [Product Images](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/model61-JT8D-gallery-4.html) |
 
 The **45.9 m variant** reaches **structural and efficiency limits**, motivating a transition to modern high-bypass turbofans.
 
