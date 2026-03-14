@@ -40,15 +40,33 @@ Most models presented here originate from limited archival material such as broc
 These aircraft reconstructions represent a mixture of educational research, engineering curiosity, and digital preservation work. Many of the aircraft featured here never entered full production, making the CAD models useful for historical reference or conceptual aerodynamic study.
 
 ## Featured Articles
+
 - **IPTN N-2130 Reconstruction** — A complete 3D rebirth of Indonesia’s cancelled 100–130 seat jetliner, built from brochure data and engineering references.
 - **PTDI R-2130 Reconstruction** — A what-if 3D rebirth of Indonesia’s cancelled continuation of the N-2130 jetliner, built with super critical winglet, revised nose aerodynamics and revised vertical stabilizer contour data from engineering references.
 - **Dassault Mercure CAD** — A high-fidelity surface model of the rare Dassault Mercure, including modernized skin work and render experiments.
+- **Vickers VC10 CAD** — A high-fidelity model of the famous VC10 series 1100s and 1150s, including what-if model of series 1400s.
+- **VFW-Fokker-614 CAD** — A high-fidelity model of the almost forgotten VFW-614, including ATTAS variants and some of its designs iterations.
+- **Tupolev Tu-134** — 3D CAD model of the famous Soviet workhorse of the cold war, including the exploration of the modernized version as well as the military version.
+- **Convair CV-880-22 and CV-880-22M** — 3D CAD model of the American classic of the early jet age retro-futurism era, including the exploration of its prototypes, possible variants, as well as many exploratory designs than may lead to modernized version of it.
+- **Convair CV-990 and CV-990A** — 3D CAD model of the Convair quad-engine jetliner series of the AstroJet era passenger jet, including all the each big-3 airlines' field modifications, exploratory designs, and what-if study if had it survive the future of oil prices spikes.
+- **Convair Model 60** — A complete 3D rebirth of Convair’s cancelled 737-classed seat jetliner, built from brochure data and engineering references available through internet search, as well as its possible development in the future to compete against later 737-CL/NG and a320-CEO family.
+- **Convair Model 61** — A complete 3D rebirth of Convair’s cancelled DC-9-classed seat jetliner, built from brochure data and engineering references available through internet search, as well as its possible development in the future to compete against later MD-80s and 717s/MD-90s family.
+- **Shanghai COMAC Y-10** — 3D CAD model of the CAAC - Chinese Aviation attempted of the B707/B720-equivalent era, which use quad turbofan JT3D engines but sadly only a handful remained in-real life.
 
 
 ## Browse All Aircraft Projects
+
 - [Dassault Mercure Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
 - [N-2130 Main Sites](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/N-2130-IPTN.html)
 - [Main R-2130 site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/R-2130-PTDI.html)
+- [Vickers VC10 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/dassault-mercure.html)
+- [Convair 880 & 990 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/convair-880-and-990.html)
+- [Convair Model 60 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/convair-model-60)
+- [Convair Model 61 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/convair-model-61)
+- [Shanghai Y-10 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/shanghai-Y-10)
+- [Tupolev Tu-134 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Tu-134.html)
+- [Vickers VC10 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/vc10.html)
+- [Fokker/VFW-614 Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/VFW614.html)
 
 
 # Engineering & Technical Models
@@ -67,6 +85,7 @@ Over time, this repository has accumulated experimental turbine designs, precisi
 - **Engineering Prototype Archive** — A collection of engineering experiments and rejected research models accumulated over several years.
 
 ## Browse All Engineering Projects
+
 - [Speed Square Main Site](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/speed-square.html)
 - [NACA 2R1 Airfoil Reconstruction Project — Me 109 Wing Geometry (Research Archive)](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Bf-109-NACA-2R1.html)
 
@@ -90,6 +109,7 @@ These research notes also function as reference material for engineering or CFD 
 - Digital Multimeter (DMM) + PyVISA Data Acquisition & Voltage Divider Lab Dataset
 
 ## Browse All Research Entries
+
 - [HX-711 Based 5 Kg Load Cell Calibration Dataset](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Load%20Cell%20HX-711.html)
 - [MD-0550 Based Airspeed and Temperature Sensor Calibration Data with UT-363 Calibration Unit](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/MD-0550-Calibration-dataset-by-UT-363-Anemometer-Calibrator-Sensor-for-Laminar-and-Turbulent-Airflow.html)
 - [Ohm Law and Kirchhoff Circuit Experiment Dataset](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/Complete-Ohm%E2%80%99s-Law-and-Kirchhoff-Circuit-Experiment-Dataset.html)
@@ -107,6 +127,7 @@ Although diverse, these models share a common purpose: exploring ideas quickly. 
 This category evolves frequently as new exploratory files, artistic concept models, or unconventional experiments are added. Because of its variety, it serves as an archive of the creative and technical development process behind the more structured projects.
 
 ## Highlights
+
 - **3D Print-Ready Drops** — Community-style uploads originally prepared for Thingiverse.
 - **Prototype Concepts** — Early shapes and study models prior to full engineering development.
 - **Render Experiments** — Models used for metal-skin tests, lighting, and animation trials.
@@ -125,10 +146,12 @@ The goal of these free releases is to provide learning resources for students an
 All models on Thingiverse are available at no cost and can be downloaded, printed, modified, or remixed under the permissive licenses provided.
 
 ### Thingiverse Links
+
 - **[Thingiverse Profile](https://www.thingiverse.com/OKB-1_CreativeDesignBureau/)** 
 - **List of Free 3D Prints** — Direct access to individual printable items.
 
 ## Browse All Free Items
+
 - [Rafter Speed Square all Metric V1.0](https://www.thingiverse.com/thing:7220241)
 - [Rafter Speed Square with Metric Ruler and Imperial Hip/Valley system — V2 ](https://www.thingiverse.com/thing:7220270)
 - [Imperial Rafter Speed Square with inch main ruler and hip/valley system — V2](https://www.thingiverse.com/thing:7220274)
