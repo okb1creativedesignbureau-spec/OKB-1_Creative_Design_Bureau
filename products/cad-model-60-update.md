@@ -177,7 +177,7 @@ This pack contain **5 aircrafts** for each CJ805 theme and JT8D theme engine opt
 
 ## Pack A — 3D Printing Pack (STL + 3MF)
 
-[Get Convair Model 60 Neo 3D Printing Pack Here for $15](https://creativedesigns840.gumroad.com/l/zrofcf)
+[Get Convair Model 60 Engine Updated Version - 3D Printing Pack Here for $15](https://creativedesigns840.gumroad.com/l/zrofcf)
 
 Includes:
 
@@ -215,7 +215,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
 
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
-[Get Convair Model 60 RC Maker Pack Here for $20](https://creativedesigns840.gumroad.com/l/afvyo)
+[Get Convair Model 60 Engine Updated Version - RC Maker Pack Here for $20](https://creativedesigns840.gumroad.com/l/afvyo)
 
 Includes:
 
@@ -231,7 +231,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD STEP + IGES + CGR + X_B)
 
-[Get Convair Model 60 Neo — Engineering CAD Pack Here for $25](https://creativedesigns840.gumroad.com/l/fhftrn)
+[Get Convair Model 60 Engine Updated Version — Engineering CAD Pack Here for $25](https://creativedesigns840.gumroad.com/l/fhftrn)
 
 Includes:
 
@@ -288,7 +288,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair Model 60 Neo Merchandise Art Pack Here for $12](https://creativedesigns840.gumroad.com/l/fiyftn)
+[Get Convair Model 60 Engine Updated Version Merchandise Art Pack Here for $12](https://creativedesigns840.gumroad.com/l/fiyftn)
 
 Includes:
 
@@ -310,7 +310,7 @@ Perfect for: Artists · Merch stores · Classroom projects · Aviation fans
 
 ## Pack E — Blender Artist Pack (OBJ + STEP + 3MF + GLB + GLTF)
 
-[Get Convair Model 60 Neo — Blender Artist Pack Here for $14](https://creativedesigns840.gumroad.com/l/grnusr)
+[Get Convair Model 60 Engine Updated Version — Blender Artist Pack Here for $14](https://creativedesigns840.gumroad.com/l/grnusr)
 
 Includes:
 
