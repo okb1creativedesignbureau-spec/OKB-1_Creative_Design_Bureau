@@ -82,7 +82,7 @@ Perfect for: RC aircraft builders · Laser-cut foam/balsa makers · Workshops
 
 ## Pack C — Engineering Pack (CAD )
 
-[Get Convair Model 60 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/edbvpw)
+[Get Convair Model 61 — Engineering CAD Pack Here for $20](https://creativedesigns840.gumroad.com/l/edbvpw)
 
 Includes:
 
@@ -117,7 +117,7 @@ Perfect for: Engineers · Students · Aerospace researchers
 
 ## Pack D — Merchandise Art Pack (DXF + DWG + PDF)
 
-[Get Convair 990 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/synyv)
+[Get Convair Model 61 Merchandise Art Pack Here for $7](https://creativedesigns840.gumroad.com/l/synyv)
 
 Includes:
 
