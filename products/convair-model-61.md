@@ -21,7 +21,29 @@
 
 The **Convair Model 61** was a proposed **twin-engine narrow-body jet airliner**, developed internally during the late Convair era and conceptually continued under **General Dynamics**. Designed as a **smaller, more efficient derivative of the Convair 880/990 family**, the Model 61 represents a rare and largely undocumented **paper study** — one that could have positioned Convair as a **direct competitor to the Douglas DC-9**, had the company survived in commercial aviation.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (A) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 Unlike well-documented commercial aircraft programs, the Model 61 survives only through **fragmentary three-view drawings, internal references, and limited archival material**, much of it sourced from historically obscure aviation research communities such as **The Secret Projects Forum**. This CAD reconstruction is an effort to **preserve, analyze, and technically revive** one of Convair’s most intriguing unrealized airliner concepts.
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (E) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
@@ -33,6 +55,17 @@ The Model 61 was envisioned as a **twin-engine turbofan airliner** using the **C
 - **Reduced maintenance cost**  
 - **Improved dispatch reliability**  
 - **Competitive economics against emerging short- to medium-haul aircraft such as the DC-9**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (A) (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 This design direction mirrors what **Douglas later achieved with the DC-9 family**, and later **McDonnell Douglas with the MD-80 series** — a **scaled, efficient derivative built on proven aerodynamic and structural foundations**.
 
@@ -47,6 +80,17 @@ Based on available three-view references and CAD interpretation:
   *(down from ~39 m on the Convair 880)*  
 - The reduction **lowers structural weight** but also **reduces passenger capacity**  
 - The aircraft retains a **T-tail configuration**, requiring careful **CG and pitch-stability balancing**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 Despite the shorter fuselage, the **Model 61 appears longer than the Convair Model 60**, due to **operational dimensional differences associated with a higher and more aft horizontal stabilizer placement**, characteristic of a **T-tail architecture**.
 
@@ -71,6 +115,17 @@ A key design philosophy was **reuse of the Convair 880M wing and wingbox**, mini
 
 Unlike the Convair 880M and 990A, the **Model 61 relocates engines to the rear fuselage**, similar to the **Sud Aviation Caravelle**, introducing different **yaw inertia, pitch coupling, and structural load paths**.
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 By retaining the **880M aerodynamic platform**, the Model 61 would likely **match Convair 880 cruise performance**, while benefiting from **lower drag and reduced structural mass**.
 
 ---
@@ -93,6 +148,17 @@ This modest thrust increase improves:
 - **Hot-and-high airport capability**  
 - **Payload margin**  
 - **Overall thrust-to-weight ratio**
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (E) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ### Estimated Thrust-to-Weight Ratio
 
@@ -138,6 +204,17 @@ This results in a **noticeable reduction in seat rows**, trading capacity for:
   - Lavatory count  
   - Exit layout  
   - Airline density configuration  
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
 
 ---
 
