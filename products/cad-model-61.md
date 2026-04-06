@@ -64,6 +64,17 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     </center>
 </p>
 
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (A) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
 ## Pack B — RC Maker Pack (DXF + 3MF)
 
 [Get Convair Model 60 RC Maker Pack Here for $15](https://creativedesigns840.gumroad.com/l/shpdf)
@@ -109,7 +120,30 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (1).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (3).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (4).png"  
     alt=" "
     width="450">
     </center>
@@ -164,6 +198,28 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
   <img 
     align="center"
     src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (E) (1).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (E) (2).png"  
+    alt=" "
+    width="450">
+    </center>
+</p>
+
+<p>
+    <br>
+    <center>
+  <img 
+    align="center"
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (E) (3).png"  
     alt=" "
     width="450">
     </center>
