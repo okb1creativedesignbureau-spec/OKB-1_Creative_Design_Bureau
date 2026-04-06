@@ -58,7 +58,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base A (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (A) (1).png"  
     alt=" "
     width="450">
     </center>
@@ -109,7 +109,7 @@ Perfect for: Engineers · Students · Aerospace researchers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base C (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (C) (1).png"  
     alt=" "
     width="450">
     </center>
@@ -163,7 +163,7 @@ Perfect for: Blender users · Render artists · Hard-surface kitbashers
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model60/Model 60 base E (4).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (E) (1).png"  
     alt=" "
     width="450">
     </center>
