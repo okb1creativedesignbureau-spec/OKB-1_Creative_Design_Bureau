@@ -19,7 +19,7 @@
 # Convair Model 61 — The Twin-Jet That Could Have Challenged the DC-9  
 ## A Lost Convair Airliner Reconstructed Through CAD (2026)
 
-[Main Article — Get Model 61](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/convair-model-61.html)
+[Main Article — Get Model 61](https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/products/cad-model-61.html)
 
 The **Convair Model 61** was a proposed **twin-engine narrow-body jet airliner**, developed internally during the late Convair era and conceptually continued under **General Dynamics**. Designed as a **smaller, more efficient derivative of the Convair 880/990 family**, the Model 61 represents a rare and largely undocumented **paper study** — one that could have positioned Convair as a **direct competitor to the Douglas DC-9**, had the company survived in commercial aviation.
 
