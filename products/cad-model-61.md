@@ -69,7 +69,7 @@ Perfect for: Collectors · Modelers · 3D printer hobbyists
     <center>
   <img 
     align="center"
-    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (A) (3).png"  
+    src="https://okb1creativedesignbureau-spec.github.io/OKB-1_Creative_Design_Bureau/assets/model61/CJ 39.4 (A) (2).png"  
     alt=" "
     width="450">
     </center>
